@@ -1,0 +1,521 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "12.356743812561035,53.716705322265625,12.356743812561035,53.716705322265625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.716705",
+        "long": "12.356744"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.356744,53.716705",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bansower Forst)"
+    },
+    {
+      "extent": "12.37623119354248,53.62553405761719,12.37623119354248,53.62553405761719",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAxMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.625534",
+        "long": "12.376231"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 19 | Richtung Rostock",
+      "point": "12.376231,53.625534",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Linstow)"
+    },
+    {
+      "extent": "12.28969955444336,53.84000015258789,12.28969955444336,53.84000015258789",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.840000",
+        "long": "12.289700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 86 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.289700,53.840000",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Raststätte",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "playground.notAvailable",
+          "style": "not-available"
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Recknitz Niederung W)"
+    },
+    {
+      "extent": "12.19728946685791,53.97295379638672,12.19728946685791,53.97295379638672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.972954",
+        "long": "12.197289"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.197289,53.972954",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zarnow)"
+    },
+    {
+      "extent": "12.455048561096191,53.381256103515625,12.455048561096191,53.381256103515625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.381256",
+        "long": "12.455049"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 19 | Richtung Rostock",
+      "point": "12.455049,53.381256",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Leizen)"
+    },
+    {
+      "extent": "12.244220733642578,53.90640640258789,12.244220733642578,53.90640640258789",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAxOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.906406",
+        "long": "12.244221"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.244221,53.906406",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kritzkow)"
+    },
+    {
+      "extent": "12.197504043579102,53.964534759521484,12.197504043579102,53.964534759521484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.964535",
+        "long": "12.197504"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 19 | Richtung Rostock",
+      "point": "12.197504,53.964535",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zarnow)"
+    },
+    {
+      "extent": "12.375489234924316,53.629112243652344,12.375489234924316,53.629112243652344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.629112",
+        "long": "12.375489"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.375489,53.629112",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Linstow)"
+    },
+    {
+      "extent": "12.468814849853516,53.29108810424805,12.468814849853516,53.29108810424805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.291088",
+        "long": "12.468815"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 19 | Richtung Rostock",
+      "point": "12.468815,53.291088",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Eldetal)"
+    },
+    {
+      "extent": "12.358080863952637,53.707313537597656,12.358080863952637,53.707313537597656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.707314",
+        "long": "12.358081"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 19 | Richtung Rostock",
+      "point": "12.358081,53.707314",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bansower Forst)"
+    },
+    {
+      "extent": "12.474352836608887,53.30198287963867,12.474352836608887,53.30198287963867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.301983",
+        "long": "12.474353"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.474353,53.301983",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Eldetal)"
+    },
+    {
+      "extent": "12.45322322845459,53.383148193359375,12.45322322845459,53.383148193359375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.383148",
+        "long": "12.453223"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 19 | Richtung Dreieck Wittstock (Dosse) A 24",
+      "point": "12.453223,53.383148",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Leizen)"
+    },
+    {
+      "extent": "12.28969955444336,53.84000015258789,12.28969955444336,53.84000015258789",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU1WLTE5MDAxNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.840000",
+        "long": "12.289700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 86 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 19 | Richtung Rostock",
+      "point": "12.289700,53.840000",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Recknitz Niederung O)"
+    }
+  ]
+}

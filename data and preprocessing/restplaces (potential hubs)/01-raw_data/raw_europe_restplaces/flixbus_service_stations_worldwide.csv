@@ -1,0 +1,261 @@
+﻿ID,Stop name,Short name,Code,Authority name,Authority short name,Latitude,Longitude,Country name,Country code,Timezone,Service station
+3826,Raststätte Bad Honnef,,RS BHN,Raststätte Bad Honnef,,50.674442,7.295723,Germany,DE,Europe/Berlin,Yes
+3848,Raststätte Eisenach (Autohof Eisenach A4 / Ausfahrt zw. 38 u. 39),,RS EA,Raststätte Eisenach (Autohof Eisenach A4 / Ausfahrt zw. 38 u. 39),,51.007675,10.252395,Germany,DE,Europe/Berlin,Yes
+3849,Raststätte Teufelstal Süd,,RS TTS,Raststätte Teufelstal Süd,,50.875995,11.809638,Germany,DE,Europe/Berlin,Yes
+3850,Raststätte Pforzheim (Nord + Ost),,RS PF,Raststätte Pforzheim (Nord + Ost),,48.908654,8.773633,Germany,DE,Europe/Berlin,Yes
+3858,Raststätte Rimberg,,RA RIM,Raststätte Rimberg,,50.79276,9.473308,Germany,DE,Europe/Berlin,Yes
+3859,Raststätte Eichelborn,,RA EICH,Raststätte Eichelborn,,50.948632,11.19701,Germany,DE,Europe/Berlin,Yes
+3917,Rasthof Lappwald Nord,,RS-LAP,Rasthof Lappwald Nord,,52.218798,11.059963,Germany,DE,Europe/Berlin,Yes
+3943,Relais de Castets,,Relais de Castets,Relais de Castets,,43.87322,-1.13333,France,FR,Europe/Paris,Yes
+3946,Aire de Service de la Corrèze,Aire de Service de la Corrèz,opCOR,Aire de Service de la Corrèze,Aire de Service de la Corrèz,45.360091,1.937835,France,FR,Europe/Paris,Yes
+4053,Area di Servizio Cantagallo,,Area di Servizio Cantagallo,Area di Servizio Cantagallo,,44.456511,11.280794,Italy,IT,Europe/Rome,Yes
+4055,Area di Servizio Roncobilaccio,,Area di Servizio Roncobilaccio,Area di Servizio Roncobilaccio,,44.116899,11.231811,Italy,IT,Europe/Rome,Yes
+4059,Area di Servizio Montelpuciano Ovest,,Area di Servizio Montepulciano Ovest,Area di Servizio Montelpuciano Ovest,,43.136001,11.8637,Italy,IT,Europe/Rome,Yes
+4067,Area di Servizio Mirabella Sud,,Area di Servizio Mirabella Sud,Area di Servizio Mirabella Sud,,41.060236,15.013927,Italy,IT,Europe/Rome,Yes
+4068,Area di Servizio Mirabella,,Area di Servizio Mirabella,Area di Servizio Mirabella,,41.060793,15.014251,Italy,IT,Europe/Rome,Yes
+4155,Autohof Bruchsal,,AH Bruchsal,Autohof Bruchsal,,49.148431,8.555211,Germany,DE,Europe/Berlin,Yes
+4216,Raststätte Barchon,Raststätte Barchon,RSB,Raststätte Barchon,Raststätte Barchon,50.655317,5.709667,Belgium,BE,Europe/Brussels,Yes
+4219,Aire de Spy (Sud),,RS Aire de Spy (Sud),Aire de Spy,,50.493949,4.701132,Belgium,BE,Europe/Brussels,Yes
+4231,Parkplatz Héron,RS Héron,RSH,Parkplatz Héron,RS Héron,50.538907,5.123438,Belgium,BE,Europe/Brussels,Yes
+4424,Raststätte A15 Shell Molenkamp,,RS A15 Molenkamp,Raststätte A15 Shell Molenkamp,,51.847989,5.192522,Netherlands,NL,Europe/Amsterdam,Yes
+4426,Area di Servizio San Giacomo,,Area di Servizio San Giacomo,Area di Servizio San Giacomo,,45.485013,10.308053,Italy,IT,Europe/Rome,Yes
+4427,Area di Servizio Alento,,Area di Servizio Alento,Area di Servizio Alento,,42.387359,14.288729,Italy,IT,Europe/Rome,Yes
+4428,Area di Servizio Sillaro,,Area di Servizio Sillaro,Area di Servizio Sillaro,,44.42844,11.599359,Italy,IT,Europe/Rome,Yes
+4429,Area di Servizio San Zenone,,Area di Servizio San Zenone,Area di Servizio San Zenone,,45.328764,9.364904,Italy,IT,Europe/Rome,Yes
+4430,Area di Servizio Tortoreto,,Area di Servizio Tortoreto,Area di Servizio Tortoreto,,42.804638,13.928198,Italy,IT,Europe/Rome,Yes
+4431,Area di Servizio Bevano,,Area di Servizio Bevano,Area di Servizio Bevano,,44.217406,12.176504,Italy,IT,Europe/Rome,Yes
+4432,Area di Servizio Montefeltro,,Area di Servizio MOntefeltro,Area di Servizio Montefeltro,,43.994608,12.619321,Italy,IT,Europe/Rome,Yes
+4442,Area di Servizio Po,,ads Po,Area di Servizio Po,,45.066519,10.843282,Italy,IT,Europe/Rome,Yes
+4443,Area di Servizio Tirreno,,Area di Servizio Tirreno,Area di Servizio Tirreno,,42.030144,11.962675,Italy,IT,Europe/Rome,Yes
+4444,Area di Servizio Montepulciano,,Area di Servizio Montepulciano,Area di Servizio Montepulciano,,43.135867,11.864599,Italy,IT,Europe/Rome,Yes
+4447,Area di Servizio Chianti,,Area di Servizio Chianti,Area di Servizio Chianti,,43.729539,11.332922,Italy,IT,Europe/Rome,Yes
+4448,Area di Servizio Sestri Levante,,Area di Servizio Sestri Levante,Area di Servizio Sestri Levante,,44.279175,9.415469,Italy,IT,Europe/Rome,Yes
+4467,Area di Servizio Tevere,,Area di Servizio Tevere,Area di Servizio Tevere,,42.625354,12.230829,Italy,IT,Europe/Rome,Yes
+4469,Area di Servizio Civita,,asCIV,Area di Servizio Civita,,42.066533,13.036752,Italy,IT,Europe/Rome,Yes
+4470,Area di Servizio Arda,,ads Arda,Area di Servizio Arda,,44.962693,9.905218,Italy,IT,Europe/Rome,Yes
+4471,Area di Servizio Ofanto,,Area di Servizio Ofanto,Area di Servizio Ofanto,,41.191924,15.812301,Italy,IT,Europe/Rome,Yes
+4472,Area di Servizio Fabro,,Area di Servizio Fabro,Area di Servizio Fabro,,42.876231,12.018114,Italy,IT,Europe/Rome,Yes
+4475,Area di Servizio Prenestina,,Area di Servizio Prenestina,Area di Servizio Prenestina,,41.891559,12.758151,Italy,IT,Europe/Rome,Yes
+4477,Area di Servizio Garda,Area di Servizio Garda,ads Garda,Area di Servizio Garda,Area di Servizio Garda,45.540018,10.779948,Italy,IT,Europe/Rome,Yes
+4480,Area di Servizio Melara,,Area di Servizio Melara,Area di Servizio Melara,,44.115959,9.879208,Italy,IT,Europe/Rome,Yes
+4485,Area di Servizio Bordighera Nord,,Area di Servizio Bordighera,Area di Servizio Bordighera,,43.79911,7.691488,Italy,IT,Europe/Rome,Yes
+4486,Area di Servizio Laimburg,Area di Servizio Laimburg,Area di Servizio Laimburg,Area di Servizio Laimburg,Area di Servizio Laimburg,46.386673,11.293507,Italy,IT,Europe/Rome,Yes
+4487,Area di Servizio Aglio (northbound),,ads Aglio,Area di Servizio Aglio,,44.029652,11.225662,Italy,IT,Europe/Rome,Yes
+4540,Area di Servizio Flaminia,,Area di Servizio Flaminia,Area di Servizio Flaminia,,42.316624,12.492136,Italy,IT,Europe/Rome,Yes
+4579,Parkeerplaats De Mussels (Beilen),,De Mussels,Parkeerplaats De Mussels (Beilen),,52.845072,6.486059,Netherlands,NL,Europe/Amsterdam,Yes
+4582,Area di Servizio Stura,,Area di Servizio Stura,Area di Servizio Stura,,44.592761,8.66562,Italy,IT,Europe/Rome,Yes
+4583,Area di Servizio Versilia,,Area di Servizio Versilia,Area di Servizio Versilia,,43.928523,10.223566,Italy,IT,Europe/Rome,Yes
+4585,Aarhus Havn Ferry Departure Point,Aarhus ferry departure,Aarhus Havn Ferry Departure Point,Aarhus Havn Ferry Departure Point,Aarhus ferry departure,56.160433,10.223725,Denmark,DK,Europe/Copenhagen,Yes
+4592,Area di Servizio Trigno,,Area di Servizio Trigno,Area di Servizio Trigno,,42.047103,14.813812,Italy,IT,Europe/Rome,Yes
+4630,Raststätte Vojens (Statoil Servicestation),Raststätte Vojens,RS Vojens,Raststätte Vojens (Statoil Servicestation),Raststätte Vojens,55.216449,9.373873,Denmark,DK,Europe/Copenhagen,Yes
+4636,Autogrill Chianti,Autogrill Chianti,AutC,Autogrill Chianti,Autogrill Chianti,43.729445,11.333594,Italy,IT,Europe/Rome,Yes
+4640,Aire de Valmy,Aire de Valmy,opVMY,Aire de Valmy,Aire de Valmy,49.073002,4.789853,France,FR,Europe/Paris,Yes
+4683,Raststätte Cloerbruch,,RCL,Raststätte Cloerbruch,,51.237182,6.51334,Germany,DE,Europe/Berlin,Yes
+4803,Aire de Saint-Rambert d'Albon E,Aire de Saint-Rambert d'Albon,opSRA,Aire de Saint-Rambert d'Albon,Aire de Saint-Rambert d'Albon,45.27667875,4.827607364,France,FR,Europe/Paris,Yes
+4806,Aire de Portes-lès-Valence Ouest,Aire de Portes-lès-Valence Ouest,opPVO,Aire de Portes-lès-Valence Ouest,Aire de Portes-lès-Valence Ouest,44.86636611,4.864619996,France,FR,Europe/Paris,Yes
+4831,Aire de Service des Corbières Sud,Aire des Corbières,opCBS,Aire de Service des Corbières Sud,Aire des Corbières,43.177094,2.541814,France,FR,Europe/Paris,Yes
+4839,Raststätte Auetal Süd,,RS Auetal S,Raststätte Auetal Süd,,52.226194,9.231439,Germany,DE,Europe/Berlin,Yes
+4860,Staf Cars Betriebshof Lommel,,Staf,Staf Cars Betriebshof Lommel,,51.219025,5.365083,Belgium,BE,Europe/Brussels,Yes
+4861,Raststätte Nivelles,,RS Nivelles,Raststätte Nivelles,,50.615395,4.300052,Belgium,BE,Europe/Brussels,Yes
+4862,Raststätte Assevillers,,RS Assevillers,Raststätte Assevillers,,49.887129,2.838764,France,FR,Europe/Paris,Yes
+4867,Aire de service de l'Allier-Doyet,Aire de service de l'Allier-Doyet,opALD,Aire de service de l'Allier-Doyet,Aire de service de l'Allier-Doyet,46.354878,2.804066,France,FR,Europe/Paris,Yes
+4873,Aire de Royans-Vercors Est,Aire de Royans-Vercors Est,opRYVE,Aire de Royans-Vercors Est,Aire de Royans-Vercors Est,45.074106,5.21184,France,FR,Europe/Paris,Yes
+4881,Aire de Saugon Ouest,Aire de Saugon Ouest,opSGNO,Aire de Saugon Ouest,Aire de Saugon Ouest,45.189006,-0.493174,France,FR,Europe/Paris,Yes
+4883,Aire du Bosgouet,Aire du Bosgouet,opBGT,Aire du Bosgouet,Aire du Bosgouet,49.360288,0.860807,France,FR,Europe/Paris,Yes
+4898,Aire de la Ferté,AdS la Ferté,opFRT,Aire de la Ferté,AdS la Ferté ,46.69192721,4.843117369,France,FR,Europe/Paris,Yes
+4899,Aire de Mornas-Village,Aire de Mornas-Village,opMVG,Aire de Mornas-Village,Aire de Mornas-Village,44.195906,4.731833,France,FR,Europe/Paris,Yes
+4900,Aire de Mornas-les-Adrets,Aire de Mornas-les-Adrets,opMLA,Aire de Mornas-les-Adrets,Aire de Mornas-les-Adrets,44.215848,4.722308,France,FR,Europe/Paris,Yes
+4901,Aire de service de Montélimar Ouest,Aire de service de Montélimar Ouest,opMTL Ouest,Aire de service de Montélimar Ouest,Aire de service de Montélimar Ouest,44.51665,4.783052,France,FR,Europe/Paris,Yes
+4911,Aire de la Coucourde,Aire de la Coucourde,opCCD,Aire de la Coucourde,Aire de la Coucourde,44.646706,4.791717,France,FR,Europe/Paris,Yes
+4912,Aire du Logis Neuf,Aire du Logis Neuf,opLGN,Aire du Logis Neuf,Aire du Logis Neuf,44.643014,4.792355,France,FR,Europe/Paris,Yes
+4913,Area di Servizio San Trifone,,Area di Servizio San Trifone,Area di Servizio San Trifone,,41.780841,15.385033,Italy,IT,Europe/Rome,Yes
+4916,Area di Servizio Bisenzio,,Area di Servizio Bisenzio,Area di Servizio Bisenzio,,43.835526,11.159923,Italy,IT,Europe/Rome,Yes
+4919,Aire de la Corrèze,Aire de la Corrèze,opCRZ,Aire de la Corrèze,Aire de la Corrèze,45.359605,1.93621,France,FR,Europe/Paris,Yes
+4920,Area di Servizio Arno,,Area di Servizio Arno,Area di Servizio Arno,,43.583371,11.522323,Italy,IT,Europe/Rome,Yes
+4924,Chamboret,Aire,opCHM,Chamboret,Aire,46.005128,1.141347,France,FR,Europe/Paris,Yes
+4927,Area di Servizio Paganella,,Area di servizio Paganella,Area di Servizio Paganella,,46.141166,11.086008,Italy,IT,Europe/Rome,Yes
+4930,Area di Servizio Badia al pino,,Area di Servizio Badia al pino,Area di Servizio Badia al pino,,43.406657,11.763342,Italy,IT,Europe/Rome,Yes
+4935,Raststätte Göttingen West,,GÖTW,Raststätte Göttingen West,,51.497213,9.87666,Germany,DE,Europe/Berlin,Yes
+4941,Area di Servizio Chienti,,Area di Servizio Chienti,Area di Servizio Chienti,,43.285757,13.722851,Italy,IT,Europe/Rome,Yes
+4961,Relais de Comminges Sud,,opRdC,Relais de Comminges,,43.11071942,0.618251215,France,FR,Europe/Paris,Yes
+4965,Aire des Marlhes,Aire des Marlhes,opMRL,Aire des Marlhes,Aire des Marlhes,44.998854,5.000424,France,FR,Europe/Paris,Yes
+4975,Aire de Romorantin,Aire de Romorantin,opRRT,Aire de Romorantin,Aire de Romorantin,47.338866,1.665757,France,FR,Europe/Paris,Yes
+4976,Aire de Fenioux,Aire de Fenioux,opFNX,Aire de Fenioux,Aire de Fenioux,45.893054,-0.603137,France,FR,Europe/Paris,Yes
+4990,Aire Béziers Montblanc Sud,,opBMB,Aire de Service Béziers Montblanc,,43.35911082,3.343992719,France,FR,Europe/Paris,Yes
+4992,Aire de l'Aubrac,Aire de l'Aubrac,opABC,Aire de l'Aubrac,Aire de l'Aubrac,44.744738,3.288217,France,FR,Europe/Paris,Yes
+4994,Aire de service du Centre de la France Bruère-Allichamps,Aire de service du Centre de la France Bruère-Allichamps,opCFR Nord,Aire de service du Centre de la France Bruère-Allichamps,Aire de service du Centre de la France Bruère-Allichamps,46.752218,2.419527,France,FR,Europe/Paris,Yes
+4995,Aire de Pelousey / Aire du Bois de la Frachère,Aire de Pelousey / Aire du Bois de la Frachère,opPBF,Aire de Pelousey / Aire du Bois de la Frachère,Aire de Pelousey / Aire du Bois de la Frachère,47.270908,5.929348,France,FR,Europe/Paris,Yes
+4996,Aire de service de Dole-Romange,Aire de service de Dole-Romange,opDOL-ROM,Aire de service de Dole-Romange,Aire de service de Dole-Romange,47.149197,5.583233,France,FR,Europe/Paris,Yes
+4999,Aire de Val-de-Meuse,Aire de Val-de-Meuse,opMVM,Aire de Val-de-Meuse,Aire de Val-de-Meuse,47.975318,5.499331,France,FR,Europe/Paris,Yes
+5000,Aire de Beaune Tailly,Aire de Beaune Tailly,opBNE,Aire de Beaune Tailly,Aire de Beaune Tailly,46.96138,4.835742,France,FR,Europe/Paris,Yes
+5001,Aire de repos de Cahagne,Aire de repos de Cahagne,opCAH,Aire de repos de Cahagne,Aire de repos de Cahagne,49.04731,-0.774969,France,FR,Europe/Paris,Yes
+5002,Aire Villaines-la-Gonais,Aire Villaines-la-Gonais,opVIL,Aire Villaines-la-Gonais,Aire Villaines-la-Gonais,48.125062,0.623378,France,FR,Europe/Paris,Yes
+5003,Aire de la Ferté Bernard (Nord),Aire de la Ferté Bernard,opBER,Aire de la Ferté Bernard,Aire de la Ferté Bernard,48.126687,0.622122,France,FR,Europe/Paris,Yes
+5004,Aire de Repos de Saint-Jean-des-Essartiers,Aire de Repos de Saint-Jean-des-Essartiers,opESS,Aire de Repos de Saint-Jean-des-Essartiers,Aire de Repos de Saint-Jean-des-Essartiers,49.047835,-0.782117,France,FR,Europe/Paris,Yes
+5005,Aire de la Vire Gouvets,Aire de la Vire Gouvets,opVIV,Aire de la Vire Gouvets,Aire de la Vire Gouvets,48.908167,-1.105136,France,FR,Europe/Paris,Yes
+5026,Raststätte Trens Ovest,Trens Ovest,RS TO,Raststätte Trens Ovest,Trens Ovest,46.867694,11.484299,Italy,IT,Europe/Rome,Yes
+5027,Raststätte Trens Est,Trens Est,RS TE,Raststätte Trens Est,Trens Est,46.868878,11.484518,Italy,IT,Europe/Rome,Yes
+5034,Changement de conducteur Valence-Nord,Changement de conducteur Valence-Nord,opVLN,Changement de conducteur Valence-Nord,Changement de conducteur Valence-Nord,44.966185,4.887831,France,FR,Europe/Paris,Yes
+5035,Area di Servizio Monte Alto,,Area di Servizio Monte Alto,Area di Servizio Monte Alto,,45.448359,10.528988,Italy,IT,Europe/Rome,Yes
+5054,Aire de Carcassonne-Arzens Nord,Aire de Carcassonne-Arzens Nord,opCCSN,Aire de Carcassonne-Arzens Nord,Aire de Carcassonne-Arzens Nord,43.21939008,2.216834753,France,FR,Europe/Paris,Yes
+5069,Relais de Lavaux (side Geneva lake),Relais de Lavaux,opLVX,Relais de Lavaux,Relais de Lavaux,46.505424,6.708707,Switzerland,CH,Europe/Zurich,Yes
+5077,Autohof Porta Westfalica,Autohof Porta Westfalica,RS_PortaWestf,Autohof Porta Westfalica,Autohof Porta Westfalica,52.20997,8.873392,Germany,DE,Europe/Berlin,Yes
+5085,Aire du Chavanon,,opCHV,Aire du Chavanon,,45.62193,2.457508,France,FR,Europe/Paris,Yes
+5092,Area di Servizio Scaligera,,Area di Servizio Scaligera,Area di Servizio Scaligera,,45.411403,11.233242,Italy,IT,Europe/Rome,Yes
+5094,Area di Servizio Poggibonsi Ovest,,ASPO,Area di Servizio Poggibonsi,,43.48817,11.165597,Italy,IT,Europe/Rome,Yes
+5097,Eskoriatza / Arrasate Southbound,Eskoriatza,OpESK,Eskoriatza / Arrasate Southbound,Eskoriatza,43.016931,-2.536063,Spain,ES,Europe/Madrid,Yes
+5098,Eskoriatza / Arrasate Northbound,Arrasate,opARR,Eskoriatza / Arrasate Northbound,Arrasate,43.063207,-2.475768,Spain,ES,Europe/Madrid,Yes
+5115,Aire de Service de Port Lauragais,,opPL,Aire de Service de Port Lauragais,,43.353223,1.807843,France,FR,Europe/Paris,Yes
+5116,Aire de Service Mireval / Castelnaudary,,opMIR/CAS,Aire de Service Mireval / Castelnaudary,,43.276603,1.992121,France,FR,Europe/Paris,Yes
+5128,Area di Servizio Riviera,,RIGE,Area di Servizio Riviera,,44.276076,9.419451,Italy,IT,Europe/Rome,Yes
+5139,Area di servizio Serravalle,Autogrill Serravalle,asSPI,Area di servizio Serravalle,Autogrill Serravalle,43.891425,10.825294,Italy,IT,Europe/Rome,Yes
+5141,Aire de Repos des Jaillets,,opJAI,Aire de Repos des Jaillets,,44.96179536,5.647893631,France,FR,Europe/Paris,Yes
+5145,Aire de Bois-Mandé Ouest,Aire de Bois-Mandé Ouest,opBMO,Aire de Bois-Mandé Ouest,,46.313837,1.417902,France,FR,Europe/Paris,Yes
+5208,Aire de Metz-St-Privat,,opMSP,Aire de Metz-St-Privat,,49.179499,6.054816,France,FR,Europe/Paris,Yes
+5214,Area di Servizio Le Saline,,Area di Servizio Le Saline,Area di Servizio Le Saline,,41.329094,15.87506,Italy,IT,Europe/Rome,Yes
+5215,Area di Servizio Gargano,,Area di Servizio Gargano,Area di Servizio Gargano,,41.591423,15.499401,Italy,IT,Europe/Rome,Yes
+5219,Area di Servizio Secchia,,ads Secchia,ads Secchia,,44.662389,10.855838,Italy,IT,Europe/Rome,Yes
+5231,Area di Servizio Limenella,,Area di Servizio Limenella,Area di Servizio Limenella,,45.448437,11.844952,Italy,IT,Europe/Rome,Yes
+5313,RS Wildeshausen Süd,,RWS,RS Wildeshausen Süd,,52.91419,8.42424,Germany,DE,Europe/Berlin,Yes
+5315,RS Wildeshausen Nord,,RWN,RS Wildeshausen Nord,,52.914726,8.426239,Germany,DE,Europe/Berlin,Yes
+5319,Helsingborg (Ferry Terminal),Helsingborg (Ferry Terminal),HLF,Helsingborg (Ferry Terminal),Helsingborg (Ferry Terminal),56.040886,12.695981,Sweden,SE,Europe/Stockholm,Yes
+5411,Aire de Sargès le Mans (sud),,SLM,Aire de Sargès le Mans,,48.055062,0.253064,France,FR,Europe/Paris,Yes
+5412,Aire de Capellen,Aire de Capellen,opCAP,Aire de Capellen,Aire de Capellen,49.635861,5.971135,Luxemburg,LU,Europe/Luxembourg,Yes
+5413,aire de Croixrault,,Croixrault,aire de Croixrault,,49.807717,1.97008,France,FR,Europe/Paris,Yes
+5415,Aire de repos du Bosgouet,,BOSg,Aire de repos du Bosgouet,,49.360575,0.860001,France,FR,Europe/Paris,Yes
+5417,Area di Servizio Badia Nuova (southbound),,ads Badia Nuova,Area di Servizio Badia Nuova,,44.15063643,11.19384099,Italy,IT,Europe/Rome,Yes
+5426,Rasthof Lutterberg,,LBG,Rasthof Lutterberg,,51.370457,9.632681,Germany,DE,Europe/Berlin,Yes
+5427,Pontchâteau,,PTCH,Pontchâteau,,47.44585,-2.091475,France,FR,Europe/Paris,Yes
+5461,Area di Servizio Sangro,,Sangro,Area di Servizio Sangro,,42.200308,14.56184,Italy,IT,Europe/Rome,Yes
+5464,Aire de service de Limours-Janvry,Aire de service de Limours-Janvry,opLMJ,Aire de service de Limours-Janvry,Aire de service de Limours-Janvry,48.636333,2.147311,France,FR,Europe/Paris,Yes
+5465,Rastplatz San Bernadino,,SANBERN,Rastplatz San Bernadino,,46.463983,9.187436,Switzerland,CH,Europe/Zurich,Yes
+5520,Area di Servizio Giove,,Area di Servizio Giove,Area di Servizio Giove,,42.499117,12.311743,Italy,IT,Europe/Rome,Yes
+5607,Ceprano (uscita casello autostradale),,Ceprano,Ceprano (uscita casello autostradale),,41.541967,13.492304,Italy,IT,Europe/Rome,Yes
+5608,Henin Beaumont Megabus Hotel,,Henin Beaumont,Henin Beaumont Megabus Hotel,,50.395758,2.975523,France,FR,Europe/Paris,Yes
+5611,Aire de Béziers Mont Blanc Nord,,opBMBN,Aire de Béziers Mont Blanc Nord,,43.36002051,3.344388968,France,FR,Europe/Paris,Yes
+5612,Area di Servizio Monte Baldo Nord (direzione MI),,Monte Baldo Nord,Area di Servizio Monte Baldo Nord (direzione MI),,45.411682,10.901077,Italy,IT,Europe/Rome,Yes
+5623,Euro Rastpark Werneck,,Euro Rastpark Werneck,Euro Rastpark Werneck,,50.003793,10.117398,Germany,DE,Europe/Berlin,Yes
+5638,Area di Servizio Monte Baldo Sud (direzione VE),,Monte Baldo Sud,Area di Servizio Monte Baldo Sud (direzione VE),,45.414264,10.869248,Italy,IT,Europe/Rome,Yes
+5647,Rugby,,RUGBY,Rugby,,52.370453,-1.266152,Great Britain,GB,Europe/London,Yes
+5672,Area di Servizio Metauro,,Area di Servizio Metauro,Area di Servizio Metauro,,43.7549,13.144941,Italy,IT,Europe/Rome,Yes
+5673,Area di Servizio Esino,,Area di Servizio Esino,Area di Servizio Esino,,43.627631,13.335085,Italy,IT,Europe/Rome,Yes
+5678,Raststätte Kemptthal,,RASTKEMPT,Raststätte Kemptthal,,47.448805,8.699983,Switzerland,CH,Europe/Zurich,Yes
+5706,Raststätte Fuchsberg Süd,,RFS,Raststätte Fuchsberg Süd,,53.909282,11.756733,Germany,DE,Europe/Berlin,Yes
+5707,Raststätte Fuchsberg Nord,,RFN,Raststätte Fuchsberg Nord,,53.910397,11.758524,Germany,DE,Europe/Berlin,Yes
+5760,Aire de la Côte - Lac,,opACL,Aire de la Côte - Lac,,46.445199,6.297417,Switzerland,CH,Europe/Zurich,Yes
+5763,RS Gütersloh Süd,,RGS,RS Gütersloh Süd,,51.865583,8.369948,Germany,DE,Europe/Berlin,Yes
+5764,RS Gütersloh Nord,,RGN,RS Gütersloh Nord,,51.865959,8.369634,Germany,DE,Europe/Berlin,Yes
+5801,T+R Buckowsee Ost,,T+R BSO,,,52.88323,13.70437,Germany,DE,Europe/Berlin,Yes
+5802,Aire de service d'Ecot,Aire de service d'Ecot,opECO,Aire de service d'Ecot,Aire de service d'Ecot,47.441068,6.729204,France,FR,Europe/Paris,Yes
+5804,Ury,,op URY,Ury,,48.338263,2.595927,France,FR,Europe/Paris,Yes
+5806,Aire de service de Besancon-Marchaux,Aire de service de Besancon-Marchaux,opBSN-MAR,Aire de service de Besancon-Marchaux,Aire de service de Besancon-Marchaux,47.327024,6.125271,France,FR,Europe/Paris,Yes
+5884,Service station_Gunzgen Nord,,SSGN,Service station_Gunzgen Nord,,47.31008,7.831351,Switzerland,CH,Europe/Zurich,Yes
+5885,Service station_Gunzgen Sud,,SGS,Service station_Gunzgen Sud,,47.310169,7.845517,Switzerland,CH,Europe/Zurich,Yes
+5988,Tallard Péage,,TPG,Tallard Péage,,44.441214,6.028401,France,FR,Europe/Paris,Yes
+6017,Area di Servizio Aurelia Sud,,ADS Aurelia Sud,Area di Servizio Aurelia Sud,,44.287509,8.441894,Italy,IT,Europe/Rome,Yes
+6027,Area di Servizio Calstorta Sud,,asRCS,Area di Servizio Calstorta Sud,,45.703029,12.604002,Italy,IT,Europe/Rome,Yes
+6034,Aree di servizio DUINO,,ADS DUINO,Area di servizio DUINO,,45.777059,13.607862,Italy,IT,Europe/Rome,Yes
+6078,Modena Nord (Casello Autostradale A1),Modena Nord A1,MDN,Modena Nord (Casello Autostradale A1),Modena Nord A1,44.655039,10.867678,Italy,IT,Europe/Rome,Yes
+6080,Borghetto S. Spirito (Uscita Casello A10),Borghetto S. Spirito,BSSP,Borghetto S. Spirito (Uscita Casello A10),Borghetto S. Spirito,44.120373,8.225416,Italy,IT,Europe/Rome,Yes
+6081,Aire de service de la Porte des Landes Ouest,Aire de service de la Porte des Landes Ouest,OP Landes O,Aire de service de la Porte des Landes Ouest,Aire de service de la Porte des Landes Ouest,44.362462,-0.851509,France,FR,Europe/Paris,Yes
+6082,Area di Servizio Ceriale,Area di Servizio Ceriale,CERI,Area di Servizio Ceriale,Area di Servizio Ceriale,44.088167,8.206716,Italy,IT,Europe/Rome,Yes
+6083,Raststätte Fränkische Schweiz / Pegnitz Ost,Raststätte Fränkische Schweiz / Pegnitz Ost,RS PE-O,Raststätte Fränkische Schweiz / Pegnitz Ost,Raststätte Fränkische Schweiz / Pegnitz Ost,49.749792,11.512734,Germany,DE,Europe/Berlin,Yes
+6122,Raststätte Pfälzer Weinstraße West,,Raststätte,Raststätte Pfälzer Weinstraße West,,49.269663,8.152125,Germany,DE,Europe/Berlin,Yes
+6139,Parking Villeneuve Loubet,,opVLP,Parking Villeneuve Loubet,,43.638185,7.133509,France,FR,Europe/Paris,Yes
+6156,Area de servicio Oiartzun,Area de servicio Oiartzun,ADS Oiartzun,Area de servicio Oiartzun,Area de servicio Oiartzun,43.31884848,-1.848330739,Spain,ES,Europe/Madrid,Yes
+6157,Aire de service de l'Océan Est,Aire de service de l'Océan Est,opAOE,Aire de service de l'Océan Est,Aire de service de l'Océan Est,43.936735,-1.090708,France,FR,Europe/Paris,Yes
+6162,Aire Mondevert (Sud),Ams,Amnd,Aire Mondevert,Aire Mondevert,48.089112,-1.099127,France,FR,Europe/Paris,Yes
+6176,Aire de service de l'Océan Ouest,Aire de service de l'Océan Ouest,opAOO,Aire de service de l'Océan Ouest,Aire de service de l'Océan Ouest,43.937136,-1.092533,France,FR,Europe/Paris,Yes
+6191,Aire de service de Verdun Saint Nicolas Nord,Aire de service de Verdun Saint Nicolas Nord,opVER Nord,Aire de service de Verdun Saint Nicolas Nord,Aire de service de Verdun Saint Nicolas Nord,49.119973,5.509077,France,FR,Europe/Paris,Yes
+6227,Area di Servizio Torre Alemanna,,Area di Servizio Torre Alemanna,Area di Servizio Torre Alemanna,,41.178565,15.632353,Italy,IT,Europe/Rome,Yes
+6251,Area di Servizio Salbertrand Gran Bosco,,asSGB,Area di Servizio Salbertrand Gran Bosco,,45.071403,6.892182,Italy,IT,Europe/Rome,Yes
+6259,Illertal Ost (Raststätte),Illertal Ost,Illertal Ost,Illertal Ost (Raststätte),Illertal Ost,48.12411132,10.11160064,Germany,DE,Europe/Berlin,Yes
+6289,Area di Servizio La Macchia,,Area di Servizio La Macchia,Area di Servizio La Macchia,,41.686028,13.188218,Italy,IT,Europe/Rome,Yes
+6290,Raststätte Lipperland Süd,,RS Lipperland S,Raststätte Lipperland Süd,,52.018087,8.634462,Germany,DE,Europe/Berlin,Yes
+6291,Raststätte Lipperland Nord,,RS Lipperland N,Raststätte Lipperland Nord,,52.071593,8.664527,Germany,DE,Europe/Berlin,Yes
+6298,Raststätte Bunde-rij Nord,,Raststätte Bunde-rij Nord,Raststätte Bunde-rij Nord,,53.178138,7.216304,Netherlands,NL,Europe/Amsterdam,Yes
+6299,Raststätte Numde-riju Süd,,Raststätte Numde-riju Süd,Raststätte Numde-riju Süd,,53.17788,7.219059,Netherlands,NL,Europe/Amsterdam,Yes
+6337,Aire de service de Varades - Pays de Loire (Nord),Aire de service de Varades - Pays de Loire (Nord),VPNops,Aire de service de Varades - Pays de Loire (Nord),Aire de service de Varades - Pays de Loire (Nord),47.419845,-1.014653,France,FR,Europe/Paris,Yes
+6398,Aire de service de Besancon-Champoux,Aire de service de Besancon-Champoux,opBSN-CPX,Aire de service de Besancon-Champoux,Aire de service de Besancon-Champoux,47.329838,6.128511,France,FR,Europe/Paris,Yes
+6399,Aire de service de Lyon Montluel,,op LYM,Aire de service de Lyon Montluel,,45.844583,5.070267,France,FR,Europe/Paris,Yes
+6400,Aire de service de Lançon de Provence Ouest,Aire de service de Lançon de Provence Ouest,opLAN Ouest,Aire de service de Lançon de Provence Ouest,Aire de service de Lançon de Provence Ouest,43.589259,5.187213,France,FR,Europe/Paris,Yes
+6401,Aire de service de Sorgues,,opSOR,Aire de service de Sorgues,,44.02361,4.889307,France,FR,Europe/Paris,Yes
+6403,Aire de service de la Porte d'Alsace Sud,Aire de service de la Porte d'Alsace Sud,opPAL Sud,Aire de service de la Porte d'Alsace Sud,Aire de service de la Porte d'Alsace Sud,47.715545,7.137544,France,FR,Europe/Paris,Yes
+6440,Aire de Spy (Nord),,RS Aire de Spy N,Aire de Spy,,50.495644,4.70207,Belgium,BE,Europe/Brussels,Yes
+6508,Area di Servizio Caianello,,ADS Caianello,Area di Servizio Caianello,,41.30662,14.097285,Italy,IT,Europe/Rome,Yes
+6509,Aire de Chavagne en Paillers,opBCPE,opBCP,Aire de Chavagne en Paillers Est,opBCP Est,46.87375999,-1.284150487,France,FR,Europe/Paris,Yes
+6513,MAXI Autohof Kirchheim,,MAXI,MAXI Autohof Kirchheim,,49.554186,8.185823,Germany,DE,Europe/Berlin,Yes
+6526,Raststätte Plose,,Raststätte Plose,Raststätte Plose,,46.730404,11.641894,Italy,IT,Europe/Rome,Yes
+6586,Autogrill Weer,,Autogrill Weer,Autogrill Weer,,47.318944,11.65583,Austria,AT,Europe/Vienna,Yes
+6590,Castel Madama Area di Servizio,Castel Madama AdS,CMDM,,,41.95649,12.857681,Italy,IT,Europe/Rome,Yes
+6615,Area de Servicio Emporda Airea Este,,opEAE,Area de Servicio Emporda Airea Este,,42.172566,2.930784,Spain,ES,Europe/Madrid,Yes
+6616,Aire de Service des Corbières Nord,,opCBN,Aire de Service des Corbières Nord,,43.178039,2.54482,France,FR,Europe/Paris,Yes
+6636,Aire de Vidauban Sud,,opVDS,,,43.4147,6.453523,France,FR,Europe/Paris,Yes
+6637,Aire de Vidauban Nord,,opVDN,,,43.41555,6.451235,France,FR,Europe/Paris,Yes
+6852,Aire de Service de Châtellerault Antran,Aire de Service de Châtellerault Antran,opCHA,Aire de Service de Châtellerault Antran,Aire de Service de Châtellerault Antran,46.907177,0.521685,France,FR,Europe/Paris,Yes
+6853,Aire de Service de Châtellerault Sud,Châtellerault Usseau,opCHU,Châtellerault Usseau,Châtellerault Usseau,46.905427,0.524105,France,FR,Europe/Paris,Yes
+6859,Area di Servizio Bordighera Sud,,Area de Servizio Bordighera,,,43.79773166,7.690830237,Italy,IT,Europe/Rome,Yes
+7036,Tilst v. Highway - going south,Tilst,TLT,,,56.178512,10.06595,Denmark,DK,Europe/Copenhagen,Yes
+7055,Tilst v. Highway - going north,,TSN,,,56.175582,10.066137,Denmark,DK,Europe/Copenhagen,Yes
+7060,Area di Servizio Castellaro Nord,,Area di Servizio Castellaro Nord,Area di Servizio Castellaro Nord,,43.860133,7.87688,Italy,IT,Europe/Rome,Yes
+7084,Raststätte Hermsdorfer Kreuz Ost,,RHR,,,50.870958,11.85043,Germany,DE,Europe/Berlin,Yes
+7097,Raststätte Hermsdorfer Kreuz West,,RHW,,,50.870829,11.848436,Germany,DE,Europe/Berlin,Yes
+7105,Aire de Saint-Ambreuil Est,Aire de Saint-Ambreuil Est,opSAME,Aire de Saint-Ambreuil Est,Aire de Saint-Ambreuil Est,46.69308101,4.844414043,France,FR,Europe/Paris,Yes
+7248,Munich service station (Hansastraße),Munich Hansastraße,M-Hansa,München Betriebshalt Hansastraße,München Hansastraße,48.12744441,11.53649018,Germany,DE,Europe/Berlin,Yes
+7249,Düsseldorf service station MAN,Düsseldorf MAN,D-MAN,Düsseldorf service station MAN,Düsseldorf MAN,51.22393973,6.701633775,Germany,DE,Europe/Berlin,Yes
+7250,Freiburg MAN service station,Freiburg MAN,FR-MAN,Freiburg MAN Betriebshalt,Freiburg MAN,48.039146,7.764963,Germany,DE,Europe/Berlin,Yes
+7251,Freiburg VAG service station,Freiburg VAG,FR-VAG,Freiburg VAG service station,Freiburg VAG,47.993363,7.79672,Germany,DE,Europe/Berlin,Yes
+7285,Aire de Sargés le Mans (Nord),,SLMN,,,48.056303,0.25405,France,FR,Europe/Paris,Yes
+7305,Aire de Carcassonne-Arzens Sud,Aire de Carcassonne-Arzens Sud,opCCSS,Aire de Carcassonne-Arzens Sud,Aire de Carcassonne-Arzens Sud,43.21776084,2.220423985,France,FR,Europe/Paris,Yes
+7325,Aire de service du Centre de la France Farges-Allichamps,Aire de service du Centre de la France Farges-Allichamps,opCFR Sud,Aire de service du Centre de la France Farges-Allichamps,Aire de service du Centre de la France Farges-Allichamps,46.752364,2.415976,France,FR,Europe/Paris,Yes
+7330,Aire de service de Lançon de Provence Est,Aire de service de Lançon de Provence Est,opLAN Est,Aire de service de Lançon de Provence Est,Aire de service de Lançon de Provence Est,43.58952506,5.193558209,France,FR,Europe/Paris,Yes
+7335,Aire de service de Limours-Briis-Sous-Forges,Aire de service de Limours-Briis-Sous-Forges,opLBSF,Aire de service de Limours-Briis-Sous-Forges,Aire de service de Limours-Briis-Sous-Forges,48.634221,2.148637,France,FR,Europe/Paris,Yes
+7337,Aire de Bois-Mandé Est,Aire de Bois-Mandé Est,opBME,,,46.31353926,1.420054155,France,FR,Europe/Paris,Yes
+7345,Aire de service de Dole-Audelange,Aire de service de Dole-Audelange,opDOL-AUD,Aire de service de Dole-Audelange,Aire de service de Dole-Audelange,47.147108,5.579834,France,FR,Europe/Paris,Yes
+7359,Aire de la Côte - Jura,Aire de la Côte - Jura,opACJ,,,46.44485862,6.295022472,Switzerland,CH,Europe/Zurich,Yes
+7371,Aire de service du Creux Moreau,Aire de service du Creux Moreau,opCRE,Aire de service du Creux Moreau,Aire de service du Creux Moreau,47.112425,4.712212,France,FR,Europe/Paris,Yes
+7586,Raststätte Hildesheimer Börde,,RSHB,,,52.128028,10.050453,Germany,DE,Europe/Berlin,Yes
+7817,Tankstelle Castelnuovo,,Castelnuovo,,,44.978087,8.893568,Italy,IT,Europe/Rome,Yes
+7982,Freiburg Messe service station,Freiburg Messe service station,FR-MSS,,,48.018048,7.839281,Germany,DE,Europe/Berlin,Yes
+8008,Infoteria Lillebælt Syd,Lillebælt Syd,Lillebælt Syd,Infoteria Lillebælt Syd,Lillebælt Syd,55.478138,9.87882,Denmark,DK,Europe/Copenhagen,Yes
+8009,Infoteria Lillebælt Nord,Lillebælt Nord,ILN,Infoteria Lillebælt Nord,Lillebælt Nord,55.488146,9.84381,Denmark,DK,Europe/Copenhagen,Yes
+8303,Kappel-Grafenhausen / Ettenheim (Autohof) SERVICE STATION,Autohof Kappel-Grafenhausen,Kappel-Grafenhausen,Autohof,Autohof Kappel-Grafenhausen,48.281308,7.777126,Germany,DE,Europe/Berlin,Yes
+8386,Frankenwald Ost - Brückenrasthof,Frankenwald Ost,AH Frankenwald Ost,,,50.405092,11.775027,Germany,DE,Europe/Berlin,Yes
+8387,Frankenwald West - Brückenrasthof,Frankenwald  West,AH Frankenwald West,,,50.404886,11.77143,Germany,DE,Europe/Berlin,Yes
+8434,Tournus Péage,,opMAC,,,46.579069,4.901117,France,FR,Europe/Paris,Yes
+8535,MAXI Autohof Gießen,Autohof Gießen,MAXI Autohof Gießen,,,50.529363,8.607686,Germany,DE,Europe/Berlin,Yes
+8571,Péage Artenay,,opART,,,48.084271,1.85605,France,FR,Europe/Paris,Yes
+8598,Relais de Bavois West (Jura),Relais de Bavois,opRS BV,Relais de Bavois,Relais de Bavois,46.673989,6.56965,Switzerland,CH,Europe/Zurich,Yes
+8823,Quedlinburg Esso Tankstelle,,Quet,,,51.790029,11.169198,Germany,DE,Europe/Berlin,Yes
+8946,opAlmodôverSul,,opAlmodôverSul,,,37.535797,-8.182854,Portugal,PT,Europe/Lisbon,Yes
+8947,opAlmôdoverNorte,,opAlmôdoverNorte,,,37.536366,-8.184897,Portugal,PT,Europe/Lisbon,Yes
+9057,Aire de service de la Fontaine Colette,Aire de service de la Fontaine Colette,opFOC,Aire de service de la Fontaine Colette,Aire de service de la Fontaine Colette,47.165941,0.632554,France,FR,Europe/Paris,Yes
+9062,Aire de Service Bidart Est,,opBidartE,,,43.423256,-1.597485,France,FR,Europe/Paris,Yes
+9305,T+R Buckowsee West,,T+R BSW,,,52.88319281,13.70210638,Germany,DE,Europe/Berlin,Yes
+9332,Berlin Treptower Park Service Station (Rosengarten),Berlin Treptower Park Service Station,BPP-Rosengarten,Berlin Treptower Park Betriebshalt (Rosengarten),Berlin Treptower Park Betriebshalt,52.4908293,13.46722977,Germany,DE,Europe/Berlin,Yes
+9427,Fort Stockton,,2FS,,,30.90552,-102.884784,USA,US,America/Chicago,Yes
+9573,Neum - service stop,Neum,NEUM,Neum,Neum,42.923691,17.616321,Bosnia and Herzegovina,BA,Europe/Sarajevo,Yes
+9594,Samerberg service station,,Samerberg,,,47.802692,12.17772,Germany,DE,Europe/Berlin,Yes
+9621,Piacenza Nord (Service Stop),Piacenza Nord (area di servizio),PNServ,Piacenza Nord (area di servizio),Piacenza Nord (area di servizio),45.10374554,9.684614364,Italy,IT,Europe/Rome,Yes
+9625,Aire de Service d'Ambrussum Nord,Aire d'Ambrussum Nord,opAMBN,Aire de Service d'Ambrussum Nord,Aire d'Ambrussum Nord,43.715965,4.135576,France,FR,Europe/Paris,Yes
+9667,Aire de Service de Parcé Est,,opPAE,,,47.804448,-0.167063,France,FR,Europe/Paris,Yes
+9668,Aire de Service de Parcé Ouest,,opPAO,,,47.807668,-0.166926,France,FR,Europe/Paris,Yes
+9669,Wertheim Maxi Autohof,Wertheim Autohof,Wertheim Autohof,,,49.771335,9.57569,Germany,DE,Europe/Berlin,Yes
+10581,Sölden Parking,Sölden Parking,Sölden-Parking,Sölden Parking,Sölden Parking,46.95700852,11.00788381,Austria,AT,Europe/Vienna,Yes
+10713,Gonars Sud,,Gonars Sud,,,45.881505,13.259201,Italy,IT,Europe/Rome,Yes
+10723,Vinding,Vinding,VND,Vinding,Vinding,55.675697,9.566559,Denmark,DK,Europe/Copenhagen,Yes
+10817,Uscita Autostradale Frosinone,,UAF,,,41.620825,13.317151,Italy,IT,Europe/Rome,Yes
+10847,Area Di Servizio Rio Colore Ovest,,ARCO,,,44.704058,7.762358,Italy,IT,Europe/Rome,Yes
+11389,Estación de servicio - Cepsa La Safor I,,opCSF,,,39.039404,-0.226525,Spain,ES,Europe/Madrid,Yes
+11484,Aire de Tignée Nord,,Aire de Tignée Nord,,,50.654437,5.710391,Belgium,BE,Europe/Brussels,Yes
+11513,Area de Servicio - El Medol North,,opEMN,,,41.140651,1.34704,Spain,ES,Europe/Madrid,Yes
+11514,Area de Servicio - El Medol Sur,,opEMS,,,41.1411,1.345857,Spain,ES,Europe/Madrid,Yes
+11515,Area de Servicio -  L'Hospitalet Infant Sur,,opLHI,,,40.986269,0.894531,Spain,ES,Europe/Madrid,Yes
+11710,Area de Servicio GALP - Do Caia,,opDOC,,,38.883595,-7.048813,Portugal,PT,Europe/Lisbon,Yes
+11932,Aire de Service La Frontonnais Est,,opLFE,,,43.811281,1.362508,France,FR,Europe/Paris,Yes
+12050,Area di Servizio Esso Cortine,,AdSCRT,,,45.512889,10.3542,Italy,IT,Europe/Rome,Yes
+14198,Berlin Südkreuz Depot/Service Station,Berlin Südkreuz Depot,BSK-Depot,Depot of Bus-Art Prima-Klime (BusPartner),Depot of Bus-Art Prima-Klime (BusPartner),52.458808,13.394839,Germany,DE,Europe/Berlin,Yes
+14538,Aire de Service des Portes d'Angers,,opPA,,,47.5006662,-0.490232517,France,FR,Europe/Paris,Yes
+14669,Vorotynets Motel,Motel,VYM,,,56.05044609,45.86321533,Russia,RU,Europe/Moscow,Yes
+14923,Kaltenkirchen Dodendorf Betriebshalt,Kaltenkirchen,KAD,Dodendorf,Kaltenkirchen,53.843998,9.936476,Germany,DE,Europe/Berlin,Yes
+15299,Area di Servizio Poggibonsi EST,,ASPE,,,43.488578,11.169061,Italy,IT,Europe/Rome,Yes

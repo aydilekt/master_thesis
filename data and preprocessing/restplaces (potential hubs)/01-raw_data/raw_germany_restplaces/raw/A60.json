@@ -1,0 +1,557 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "8.112019538879395,50.00252914428711,8.112019538879395,50.00252914428711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.002529",
+        "long": "8.112020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "8.112020,50.002529",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heidenfahrt N)"
+    },
+    {
+      "extent": "6.187170028686523,50.22972869873047,6.187170028686523,50.22972869873047",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.229729",
+        "long": "6.187170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "6.187170,50.229729",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinebrück W)"
+    },
+    {
+      "extent": "6.33696985244751,50.203678131103516,6.33696985244751,50.203678131103516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.203678",
+        "long": "6.336970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "6.336970,50.203678",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schnee-Eifel W)"
+    },
+    {
+      "extent": "6.340270042419434,50.20314025878906,6.340270042419434,50.20314025878906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.203140",
+        "long": "6.340270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "6.340270,50.203140",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schnee-Eifel O)"
+    },
+    {
+      "extent": "6.4301300048828125,50.12432861328125,6.4301300048828125,50.12432861328125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.124329",
+        "long": "6.430130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "6.430130,50.124329",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Prümer Land O)"
+    },
+    {
+      "extent": "6.498740196228027,50.045021057128906,6.498740196228027,50.045021057128906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.045021",
+        "long": "6.498740"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "6.498740,50.045021",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nimstal O)"
+    },
+    {
+      "extent": "6.4893999099731445,50.05152893066406,6.4893999099731445,50.05152893066406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.051529",
+        "long": "6.489400"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "6.489400,50.051529",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nimstal W)"
+    },
+    {
+      "extent": "6.635950088500977,50.020748138427734,6.635950088500977,50.020748138427734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.020748",
+        "long": "6.635950"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "6.635950,50.020748",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gindorf O)"
+    },
+    {
+      "extent": "6.63247013092041,50.02016830444336,6.63247013092041,50.02016830444336",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.020168",
+        "long": "6.632470"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "6.632470,50.020168",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gindorf W)"
+    },
+    {
+      "extent": "6.186180114746094,50.23875045776367,6.186180114746094,50.23875045776367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.238750",
+        "long": "6.186180"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "6.186180,50.238750",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinebrück O)"
+    },
+    {
+      "extent": "6.8377299308776855,49.967830657958984,6.8377299308776855,49.967830657958984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.967831",
+        "long": "6.837730"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 60 | Richtung Belgien",
+      "point": "6.837730,49.967831",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Finthenkapelle O)"
+    },
+    {
+      "extent": "6.835229873657227,49.93939971923828,6.835229873657227,49.93939971923828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.939400",
+        "long": "6.835230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "6.835230,49.939400",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Finthenkapelle W)"
+    },
+    {
+      "extent": "8.107230186462402,50.00069046020508,8.107230186462402,50.00069046020508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.000690",
+        "long": "8.107230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "8.107230,50.000690",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heidenfahrt S)"
+    },
+    {
+      "extent": "6.4285101890563965,50.125370025634766,6.4285101890563965,50.125370025634766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA3OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.125370",
+        "long": "6.428510"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 17 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 60 | Richtung Rüsselsheim",
+      "point": "6.428510,50.125370",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Prümer Land W)"
+    }
+  ]
+}

@@ -1,0 +1,1024 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "7.189589977264404,52.631568908691406,7.189589977264404,52.631568908691406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMzMDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.631569",
+        "long": "7.189590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 68 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.189590,52.631569",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heseper Moor O)"
+    },
+    {
+      "extent": "7.199039936065674,52.5235595703125,7.199039936065674,52.5235595703125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM0MDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.523560",
+        "long": "7.199040"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.199040,52.523560",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ems-Vechte O)"
+    },
+    {
+      "extent": "7.3649702072143555,53.22105026245117,7.3649702072143555,53.22105026245117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI3MTAwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.221050",
+        "long": "7.364970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.364970,53.221050",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rheiderland O)"
+    },
+    {
+      "extent": "7.19713020324707,52.532779693603516,7.19713020324707,52.532779693603516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM0MDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.532780",
+        "long": "7.197130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.197130,52.532780",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ems-Vechte W)"
+    },
+    {
+      "extent": "6.920770168304443,51.684879302978516,6.920770168304443,51.684879302978516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.684879",
+        "long": "6.920770"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "6.920770,51.684879",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lüningskamp)"
+    },
+    {
+      "extent": "6.91963005065918,51.68180847167969,6.91963005065918,51.68180847167969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.681808",
+        "long": "6.919630"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "6.919630,51.681808",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Holsterhausen)"
+    },
+    {
+      "extent": "6.96845006942749,51.78496170043945,6.96845006942749,51.78496170043945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.784962",
+        "long": "6.968450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "6.968450,51.784962",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Elwen)"
+    },
+    {
+      "extent": "7.050559997558594,52.00102996826172,7.050559997558594,52.00102996826172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.001030",
+        "long": "7.050560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.050560,52.001030",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Holtwicker Mark)"
+    },
+    {
+      "extent": "7.019189834594727,51.888710021972656,7.019189834594727,51.888710021972656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.888710",
+        "long": "7.019190"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.019190,51.888710",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hochmoor (TR Hochmoor Ost))"
+    },
+    {
+      "extent": "7.024640083312988,51.90092849731445,7.024640083312988,51.90092849731445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.900928",
+        "long": "7.024640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.024640,51.900928",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brooksbach (TR Hochmoor West))"
+    },
+    {
+      "extent": "7.052030086517334,52.006980895996094,7.052030086517334,52.006980895996094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.006981",
+        "long": "7.052030"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.052030,52.006981",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bürener Esch)"
+    },
+    {
+      "extent": "7.085579872131348,52.10060119628906,7.085579872131348,52.10060119628906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.100601",
+        "long": "7.085580"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.085580,52.100601",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ahler Mark)"
+    },
+    {
+      "extent": "7.085949897766113,52.10213851928711,7.085949897766113,52.10213851928711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.102139",
+        "long": "7.085950"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.085950,52.102139",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Averbeck)"
+    },
+    {
+      "extent": "7.14024019241333,52.22589874267578,7.14024019241333,52.22589874267578",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.225899",
+        "long": "7.140240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.140240,52.225899",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wester Mark)"
+    },
+    {
+      "extent": "7.137889862060547,52.223228454589844,7.137889862060547,52.223228454589844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.223228",
+        "long": "7.137890"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.137890,52.223228",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lau Brechte)"
+    },
+    {
+      "extent": "7.376830101013184,53.22309875488281,7.376830101013184,53.22309875488281",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI3MTAwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.223099",
+        "long": "7.376830"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.376830,53.223099",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rheiderland W)"
+    },
+    {
+      "extent": "7.176650047302246,52.800010681152344,7.176650047302246,52.800010681152344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMyMDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.800011",
+        "long": "7.176650"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.176650,52.800011",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hebel W)"
+    },
+    {
+      "extent": "7.166910171508789,52.78451156616211,7.166910171508789,52.78451156616211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMyMDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.784512",
+        "long": "7.166910"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.166910,52.784512",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dankern O)"
+    },
+    {
+      "extent": "7.245259761810303,52.386661529541016,7.245259761810303,52.386661529541016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.386662",
+        "long": "7.245260"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.245260,52.386662",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bergeler Feld Ost)"
+    },
+    {
+      "extent": "7.239789962768555,53.08195877075195,7.239789962768555,53.08195877075195",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI5MDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.081959",
+        "long": "7.239790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.239790,53.081959",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Olle Rheen O)"
+    },
+    {
+      "extent": "7.241759777069092,53.09067916870117,7.241759777069092,53.09067916870117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI5MDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.090679",
+        "long": "7.241760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.241760,53.090679",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Olle Rheen W)"
+    },
+    {
+      "extent": "7.192269802093506,52.63903045654297,7.192269802093506,52.63903045654297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMzMDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.639030",
+        "long": "7.192270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 68 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.192270,52.639030",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heseper Moor W)"
+    },
+    {
+      "extent": "7.248300075531006,52.397640228271484,7.248300075531006,52.397640228271484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.397640",
+        "long": "7.248300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.248300,52.397640",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bergeler Feld West)"
+    },
+    {
+      "extent": "7.213009834289551,52.284568786621094,7.213009834289551,52.284568786621094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.284569",
+        "long": "7.213010"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.213010,52.284569",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Forsthaus O (Suddendorf O))"
+    },
+    {
+      "extent": "7.204360008239746,52.282470703125,7.204360008239746,52.282470703125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.282471",
+        "long": "7.204360"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.204360,52.282471",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gut Friedrichstal(Suddendorf W))"
+    },
+    {
+      "extent": "6.967589855194092,51.78166961669922,6.967589855194092,51.78166961669922",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDEzMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.781670",
+        "long": "6.967590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "6.967590,51.781670",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kalter Bach)"
+    },
+    {
+      "extent": "7.252739906311035,52.94398880004883,7.252739906311035,52.94398880004883",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMwMDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.943989",
+        "long": "7.252740"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 31 | Richtung Bottrop",
+      "point": "7.252740,52.943989",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Walchum W)"
+    },
+    {
+      "extent": "7.2535600662231445,52.919410705566406,7.2535600662231445,52.919410705566406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMwMDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.919411",
+        "long": "7.253560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 31 | Richtung Emden",
+      "point": "7.253560,52.919411",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Walchum O)"
+    }
+  ]
+}

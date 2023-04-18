@@ -1,0 +1,3489 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "11.074600219726562,52.216670989990234,11.074600219726562,52.216670989990234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzA1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.216671",
+        "long": "11.074600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 104 ",
+        "LKW Stellplätze: 130 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.074600,52.216671",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Marienborn )"
+    },
+    {
+      "extent": "12.31643009185791,52.25484848022461,12.31643009185791,52.25484848022461",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM3MzkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.254848",
+        "long": "12.316430"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 103 ",
+        "LKW Stellplätze: 65 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "12.316430,52.254848",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Buckautal N)"
+    },
+    {
+      "extent": "12.300569534301758,52.24822998046875,12.300569534301758,52.24822998046875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM3MzkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.248230",
+        "long": "12.300570"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 103 ",
+        "LKW Stellplätze: 65 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "12.300570,52.248230",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Buckautal S)"
+    },
+    {
+      "extent": "10.347840309143066,52.340030670166016,10.347840309143066,52.340030670166016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjgwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.340031",
+        "long": "10.347840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 129 ",
+        "LKW Stellplätze: 94 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "10.347840,52.340031",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zweidorfer Holz S)"
+    },
+    {
+      "extent": "12.521249771118164,52.343658447265625,12.521249771118164,52.343658447265625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NDEwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.343658",
+        "long": "12.521250"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 52 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "12.521250,52.343658",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wendgräben)"
+    },
+    {
+      "extent": "12.510749816894531,52.3390007019043,12.510749816894531,52.3390007019043",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NDEwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.339001",
+        "long": "12.510750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "12.510750,52.339001",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Temnitz)"
+    },
+    {
+      "extent": "8.718700408935547,52.10150909423828,8.718700408935547,52.10150909423828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA1Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.101509",
+        "long": "8.718700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.718700,52.101509",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Herford Süd)"
+    },
+    {
+      "extent": "8.66886043548584,52.07434844970703,8.66886043548584,52.07434844970703",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA1OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.074348",
+        "long": "8.668860"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 145 ",
+        "LKW Stellplätze: 93 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.668860,52.074348",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lipperland Nord)"
+    },
+    {
+      "extent": "8.721659660339355,52.103271484375,8.721659660339355,52.103271484375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA1OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.103271",
+        "long": "8.721660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.721660,52.103271",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Herford Nord)"
+    },
+    {
+      "extent": "8.63167953491211,52.0141487121582,8.63167953491211,52.0141487121582",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.014149",
+        "long": "8.631680"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 154 ",
+        "LKW Stellplätze: 110 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.631680,52.014149",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lipperland Süd)"
+    },
+    {
+      "extent": "8.530610084533691,51.92873001098633,8.530610084533691,51.92873001098633",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.928730",
+        "long": "8.530610"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.530610,51.928730",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Niedergassel)"
+    },
+    {
+      "extent": "8.530559539794922,51.92805099487305,8.530559539794922,51.92805099487305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.928051",
+        "long": "8.530560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.530560,51.928051",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Obergassel)"
+    },
+    {
+      "extent": "8.45895004272461,51.89638137817383,8.45895004272461,51.89638137817383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.896381",
+        "long": "8.458950"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.458950,51.896381",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heideplatz)"
+    },
+    {
+      "extent": "8.449819564819336,51.892311096191406,8.449819564819336,51.892311096191406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.892311",
+        "long": "8.449820"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.449820,51.892311",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sürenheide)"
+    },
+    {
+      "extent": "8.374300003051758,51.86716079711914,8.374300003051758,51.86716079711914",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.867161",
+        "long": "8.374300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 55 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.374300,51.867161",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gütersloh Nord)"
+    },
+    {
+      "extent": "8.202939987182617,51.82670974731445,8.202939987182617,51.82670974731445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.826710",
+        "long": "8.202940"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.202940,51.826710",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Marburg)"
+    },
+    {
+      "extent": "8.076169967651367,51.79269027709961,8.076169967651367,51.79269027709961",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.792690",
+        "long": "8.076170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 34 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.076170,51.792690",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vellern)"
+    },
+    {
+      "extent": "8.071260452270508,51.79072952270508,8.071260452270508,51.79072952270508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.790730",
+        "long": "8.071260"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 120 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.071260,51.790730",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vellern Süd)"
+    },
+    {
+      "extent": "7.979849815368652,51.72201156616211,7.979849815368652,51.72201156616211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.722012",
+        "long": "7.979850"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 32 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.979850,51.722012",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Stettin)"
+    },
+    {
+      "extent": "7.9374799728393555,51.671478271484375,7.9374799728393555,51.671478271484375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.671478",
+        "long": "7.937480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.937480,51.671478",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Großen Klei)"
+    },
+    {
+      "extent": "7.86745023727417,51.62873840332031,7.86745023727417,51.62873840332031",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.628738",
+        "long": "7.867450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 117 ",
+        "LKW Stellplätze: 83 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.867450,51.628738",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rhynern Süd)"
+    },
+    {
+      "extent": "7.880980014801025,51.633819580078125,7.880980014801025,51.633819580078125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.633820",
+        "long": "7.880980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 137 ",
+        "LKW Stellplätze: 105 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.880980,51.633820",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rhynern Nord)"
+    },
+    {
+      "extent": "7.589479923248291,51.5894889831543,7.589479923248291,51.5894889831543",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.589489",
+        "long": "7.589480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.589480,51.589489",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Paschheide)"
+    },
+    {
+      "extent": "7.181580066680908,51.58190155029297,7.181580066680908,51.58190155029297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.581902",
+        "long": "7.181580"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.181580,51.581902",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hohenhorst)"
+    },
+    {
+      "extent": "7.173999786376953,51.579498291015625,7.173999786376953,51.579498291015625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.579498",
+        "long": "7.174000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.174000,51.579498",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Stuckenbusch)"
+    },
+    {
+      "extent": "7.105189800262451,51.5703010559082,7.105189800262451,51.5703010559082",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.570301",
+        "long": "7.105190"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 127 ",
+        "LKW Stellplätze: 90 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.105190,51.570301",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-charging_station",
+          "description": "Elektr. Ladestation",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Resser Mark Nord)"
+    },
+    {
+      "extent": "11.249979972839355,52.1987190246582,11.249979972839355,52.1987190246582",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzA0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.198719",
+        "long": "11.249980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 45 ",
+        "LKW Stellplätze: 52 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "11.249980,52.198719",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lorkberg Nord)"
+    },
+    {
+      "extent": "8.634519577026367,52.02164840698242,8.634519577026367,52.02164840698242",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.021648",
+        "long": "8.634520"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.634520,52.021648",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brönninghausen)"
+    },
+    {
+      "extent": "11.04263973236084,52.22509002685547,11.04263973236084,52.22509002685547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MzIwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.225090",
+        "long": "11.042640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.042640,52.225090",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Waldkater)"
+    },
+    {
+      "extent": "6.886730194091797,51.54090118408203,6.886730194091797,51.54090118408203",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.540901",
+        "long": "6.886730"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "6.886730,51.540901",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schwarze Heide (Nord))"
+    },
+    {
+      "extent": "9.829790115356445,52.4233283996582,9.829790115356445,52.4233283996582",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM1MjQwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.423328",
+        "long": "9.829790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "9.829790,52.423328",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Varrelheide N)"
+    },
+    {
+      "extent": "12.139450073242188,52.243080139160156,12.139450073242188,52.243080139160156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.243080",
+        "long": "12.139450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "12.139450,52.243080",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wüstenforst Sued)"
+    },
+    {
+      "extent": "12.639439582824707,52.34014129638672,12.639439582824707,52.34014129638672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NDEwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.340141",
+        "long": "12.639440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "12.639440,52.340141",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Grebser Heide)"
+    },
+    {
+      "extent": "9.424400329589844,52.35020065307617,9.424400329589844,52.35020065307617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjIwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.350201",
+        "long": "9.424400"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 71 ",
+        "LKW Stellplätze: 175 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "9.424400,52.350201",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bückethaler Knick N (Bad Nenndorf N))"
+    },
+    {
+      "extent": "10.3654203414917,52.33946990966797,10.3654203414917,52.33946990966797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjgwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.339470",
+        "long": "10.365420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 88 ",
+        "LKW Stellplätze: 65 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "10.365420,52.339470",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zweidorfer Holz N)"
+    },
+    {
+      "extent": "9.223139762878418,52.222808837890625,9.223139762878418,52.222808837890625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjEwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.222809",
+        "long": "9.223140"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 147 ",
+        "LKW Stellplätze: 127 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.223140,52.222809",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auetal S)"
+    },
+    {
+      "extent": "11.019309997558594,52.237281799316406,11.019309997558594,52.237281799316406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MzIwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.237282",
+        "long": "11.019310"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 71 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.019310,52.237282",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Helmstedt S)"
+    },
+    {
+      "extent": "8.36736011505127,51.864959716796875,8.36736011505127,51.864959716796875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA2Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.864960",
+        "long": "8.367360"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 52 ",
+        "LKW Stellplätze: 21 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.367360,51.864960",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gütersloh Süd)"
+    },
+    {
+      "extent": "6.883769989013672,51.54011917114258,6.883769989013672,51.54011917114258",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.540119",
+        "long": "6.883770"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 58 ",
+        "LKW Stellplätze: 42 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "6.883770,51.540119",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bottrop Süd)"
+    },
+    {
+      "extent": "9.420510292053223,52.34461975097656,9.420510292053223,52.34461975097656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjIwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.344620",
+        "long": "9.420510"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 79 ",
+        "LKW Stellplätze: 62 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.420510,52.344620",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bückethaler Knick S (Bad Nenndorf S))"
+    },
+    {
+      "extent": "9.311610221862793,52.26034164428711,9.311610221862793,52.26034164428711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjEwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.260342",
+        "long": "9.311610"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "9.311610,52.260342",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schafstrift N)"
+    },
+    {
+      "extent": "9.227860450744629,52.22502899169922,9.227860450744629,52.22502899169922",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjEwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.225029",
+        "long": "9.227860"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 111 ",
+        "LKW Stellplätze: 91 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "9.227860,52.225029",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auetal N)"
+    },
+    {
+      "extent": "11.059320449829102,52.21879959106445,11.059320449829102,52.21879959106445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MzIwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.218800",
+        "long": "11.059320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 139 ",
+        "LKW Stellplätze: 110 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "11.059320,52.218800",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lappwald N)"
+    },
+    {
+      "extent": "9.557100296020508,52.42155838012695,9.557100296020508,52.42155838012695",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM1MjMwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.421558",
+        "long": "9.557100"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 51 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.557100,52.421558",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Garbsen S)"
+    },
+    {
+      "extent": "7.980480194091797,51.72500991821289,7.980480194091797,51.72500991821289",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.725010",
+        "long": "7.980480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.980480,51.725010",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brunsberg)"
+    },
+    {
+      "extent": "9.815520286560059,52.42866134643555,9.815520286560059,52.42866134643555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM1MjQwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.428661",
+        "long": "9.815520"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.815520,52.428661",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Varrelheide S)"
+    },
+    {
+      "extent": "9.702210426330566,52.430381774902344,9.702210426330566,52.430381774902344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM1MjQwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.430382",
+        "long": "9.702210"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 12 ",
+        "LKW Stellplätze: 42 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "9.702210,52.430382",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Godshorn N)"
+    },
+    {
+      "extent": "11.04263973236084,52.22509002685547,11.04263973236084,52.22509002685547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MzIwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.225090",
+        "long": "11.042640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.042640,52.225090",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A2 km 129 S)"
+    },
+    {
+      "extent": "7.732500076293945,51.60614013671875,7.732500076293945,51.60614013671875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.606140",
+        "long": "7.732500"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.732500,51.606140",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kolberg)"
+    },
+    {
+      "extent": "7.336269855499268,51.598289489746094,7.336269855499268,51.598289489746094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.598289",
+        "long": "7.336270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "7.336270,51.598289",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ickern)"
+    },
+    {
+      "extent": "11.75156021118164,52.226959228515625,11.75156021118164,52.226959228515625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzAyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.226959",
+        "long": "11.751560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 34 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "11.751560,52.226959",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Krähenberge Nord)"
+    },
+    {
+      "extent": "7.02731990814209,51.557491302490234,7.02731990814209,51.557491302490234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.557491",
+        "long": "7.027320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.027320,51.557491",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Allenstein (Süd))"
+    },
+    {
+      "extent": "8.9337797164917,52.21144104003906,8.9337797164917,52.21144104003906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.211441",
+        "long": "8.933780"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 31 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "8.933780,52.211441",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Löwenburg)"
+    },
+    {
+      "extent": "9.749870300292969,52.427330017089844,9.749870300292969,52.427330017089844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM1MjQwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.427330",
+        "long": "9.749870"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.749870,52.427330",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vahrenheide S)"
+    },
+    {
+      "extent": "10.847590446472168,52.30427932739258,10.847590446472168,52.30427932739258",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MzEwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.304279",
+        "long": "10.847590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 47 ",
+        "LKW Stellplätze: 48 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "10.847590,52.304279",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Uhry N)"
+    },
+    {
+      "extent": "10.14918041229248,52.36132049560547,10.14918041229248,52.36132049560547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjYwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.361320",
+        "long": "10.149180"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 62 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "10.149180,52.361320",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Röhrse S)"
+    },
+    {
+      "extent": "10.694319725036621,52.308380126953125,10.694319725036621,52.308380126953125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MzAwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.308380",
+        "long": "10.694320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 68 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "10.694320,52.308380",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Essehof S)"
+    },
+    {
+      "extent": "10.170760154724121,52.35914993286133,10.170760154724121,52.35914993286133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjYwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.359150",
+        "long": "10.170760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 61 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "10.170760,52.359150",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Röhrse N)"
+    },
+    {
+      "extent": "10.660070419311523,52.30949020385742,10.660070419311523,52.30949020385742",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MjkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.309490",
+        "long": "10.660070"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "10.660070,52.309490",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Essehof N)"
+    },
+    {
+      "extent": "9.059709548950195,52.21992111206055,9.059709548950195,52.21992111206055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjAwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.219921",
+        "long": "9.059710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 11 ",
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "9.059710,52.219921",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Papenbrink N)"
+    },
+    {
+      "extent": "9.159560203552246,52.21815872192383,9.159560203552246,52.21815872192383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjEwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.218159",
+        "long": "9.159560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 14 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.159560,52.218159",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bernser Kirchweg S)"
+    },
+    {
+      "extent": "7.427490234375,51.58346939086914,7.427490234375,51.58346939086914",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.583469",
+        "long": "7.427490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 46 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.427490,51.583469",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kleine Herrenthey)"
+    },
+    {
+      "extent": "9.312760353088379,52.261539459228516,9.312760353088379,52.261539459228516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjEwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.261539",
+        "long": "9.312760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.312760,52.261539",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schafstrift S)"
+    },
+    {
+      "extent": "8.19696044921875,51.82558822631836,8.19696044921875,51.82558822631836",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.825588",
+        "long": "8.196960"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "8.196960,51.825588",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Berge)"
+    },
+    {
+      "extent": "7.0983500480651855,51.5700798034668,7.0983500480651855,51.5700798034668",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDA4Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.570080",
+        "long": "7.098350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "7.098350,51.570080",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Resser Mark S)"
+    },
+    {
+      "extent": "12.151020050048828,52.244789123535156,12.151020050048828,52.244789123535156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzAxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.244789",
+        "long": "12.151020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "12.151020,52.244789",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wüstenforst Nord)"
+    },
+    {
+      "extent": "11.757080078125,52.22822189331055,11.757080078125,52.22822189331055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzAyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.228222",
+        "long": "11.757080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 34 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.757080,52.228222",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Krähenberge Sued)"
+    },
+    {
+      "extent": "11.242790222167969,52.19940948486328,11.242790222167969,52.19940948486328",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzA0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.199409",
+        "long": "11.242790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 45 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.242790,52.199409",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lorkberg Sued)"
+    },
+    {
+      "extent": "9.049189567565918,52.21831130981445,9.049189567565918,52.21831130981445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM3MjAwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.218311",
+        "long": "9.049190"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 27 ",
+        "LKW Stellplätze: 34 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "9.049190,52.218311",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Papenbrink S)"
+    },
+    {
+      "extent": "11.448094367980957,52.18532180786133,11.448094367980957,52.18532180786133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzAzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.185322",
+        "long": "11.448094"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 57 ",
+        "LKW Stellplätze: 57 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "11.448094,52.185322",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Börde Sued)"
+    },
+    {
+      "extent": "11.456889152526855,52.183101654052734,11.456889152526855,52.183101654052734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUEyXzAzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.183102",
+        "long": "11.456889"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 114 ",
+        "LKW Stellplätze: 108 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "11.456889,52.183102",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Börde Nord)"
+    },
+    {
+      "extent": "12.648579597473145,52.33784103393555,12.648579597473145,52.33784103393555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NDEwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.337841",
+        "long": "12.648580"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 2 | Richtung Kreuz Oberhausen (A 3/A 516)",
+      "point": "12.648580,52.337841",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rietzer See)"
+    },
+    {
+      "extent": "10.83804988861084,52.30725860595703,10.83804988861084,52.30725860595703",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTM2MzEwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.307259",
+        "long": "10.838050"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 72 "
+      ],
+      "title": "A 2 | Richtung Dreieck Werder (A10)",
+      "point": "10.838050,52.307259",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Uhry S)"
+    }
+  ]
+}

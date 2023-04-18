@@ -1,0 +1,283 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "13.707590103149414,52.88602828979492,13.707590103149414,52.88602828979492",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTMxNDgwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.886028",
+        "long": "13.707590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 77 ",
+        "LKW Stellplätze: 35 "
+      ],
+      "title": "A 11 | Richtung Dreieck Barnim (A 10)",
+      "point": "13.707590,52.886028",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Buckowsee W)"
+    },
+    {
+      "extent": "13.851490020751953,53.095458984375,13.851490020751953,53.095458984375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTI5NDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.095459",
+        "long": "13.851490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 15 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 11 | Richtung Dreieck Barnim (A 10)",
+      "point": "13.851490,53.095459",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Suckower Forst)"
+    },
+    {
+      "extent": "13.699440002441406,52.88039016723633,13.699440002441406,52.88039016723633",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTMxNDgwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.880390",
+        "long": "13.699440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 76 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 11 | Richtung Stettin",
+      "point": "13.699440,52.880390",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Buckowsee O)"
+    },
+    {
+      "extent": "13.550169944763184,52.70637893676758,13.550169944763184,52.70637893676758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTMyNDcwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.706379",
+        "long": "13.550170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 11 | Richtung Stettin",
+      "point": "13.550170,52.706379",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ladeburger Heide)"
+    },
+    {
+      "extent": "13.544759750366211,52.715850830078125,13.544759750366211,52.715850830078125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTMyNDcwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.715851",
+        "long": "13.544760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 11 | Richtung Dreieck Barnim (A 10)",
+      "point": "13.544760,52.715851",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Probstheide)"
+    },
+    {
+      "extent": "13.96243953704834,53.213748931884766,13.96243953704834,53.213748931884766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTI3NDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.213749",
+        "long": "13.962440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 11 | Richtung Stettin",
+      "point": "13.962440,53.213749",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rathsburgseen Süd)"
+    },
+    {
+      "extent": "13.849390029907227,53.0883903503418,13.849390029907227,53.0883903503418",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTI5NDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.088390",
+        "long": "13.849390"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 14 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 11 | Richtung Stettin",
+      "point": "13.849390,53.088390",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wilmersdorfer Forst)"
+    },
+    {
+      "extent": "13.96226978302002,53.213890075683594,13.96226978302002,53.213890075683594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTI3NDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.213890",
+        "long": "13.962270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 11 | Richtung Dreieck Barnim (A 10)",
+      "point": "13.962270,53.213890",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rathsburgseen Nord)"
+    }
+  ]
+}

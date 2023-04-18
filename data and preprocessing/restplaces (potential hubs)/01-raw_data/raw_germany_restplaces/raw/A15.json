@@ -1,0 +1,142 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "14.002449989318848,51.826290130615234,14.002449989318848,51.826290130615234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQxNDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.826290",
+        "long": "14.002450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 15 | Richtung Dreieck Spreewald (A 13)",
+      "point": "14.002450,51.826290",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Leipe)"
+    },
+    {
+      "extent": "13.99015998840332,51.829498291015625,13.99015998840332,51.829498291015625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQxNDkwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.829498",
+        "long": "13.990160"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 15 | Richtung Breslau",
+      "point": "13.990160,51.829498",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Belten)"
+    },
+    {
+      "extent": "14.663829803466797,51.69554138183594,14.663829803466797,51.69554138183594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQzNTQwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.695541",
+        "long": "14.663830"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 2 "
+      ],
+      "title": "A 15 | Richtung Breslau",
+      "point": "14.663830,51.695541",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A15 km 57,135 Ri. Breslau)"
+    },
+    {
+      "extent": "14.120420455932617,51.75722122192383,14.120420455932617,51.75722122192383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQyNTAwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.757221",
+        "long": "14.120420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 15 | Richtung Breslau",
+      "point": "14.120420,51.757221",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Eichower Fließ)"
+    },
+    {
+      "extent": "14.132120132446289,51.75273895263672,14.132120132446289,51.75273895263672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQyNTAwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.752739",
+        "long": "14.132120"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 15 | Richtung Dreieck Spreewald (A 13)",
+      "point": "14.132120,51.752739",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dubje)"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "7.320809841156006,51.86825942993164,7.320809841156006,51.86825942993164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.868259",
+        "long": "7.320810"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 43 | Richtung Münster",
+      "point": "7.320810,51.868259",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rödder (Ost))"
+    },
+    {
+      "extent": "7.1761698722839355,51.77334976196289,7.1761698722839355,51.77334976196289",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.773350",
+        "long": "7.176170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 59 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 43 | Richtung Wuppertal",
+      "point": "7.176170,51.773350",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hohe Mark West)"
+    },
+    {
+      "extent": "7.175839900970459,51.7696418762207,7.175839900970459,51.7696418762207",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.769642",
+        "long": "7.175840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 59 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 43 | Richtung Münster",
+      "point": "7.175840,51.769642",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hohe Mark Ost)"
+    },
+    {
+      "extent": "7.275139808654785,51.34849166870117,7.275139808654785,51.34849166870117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE4Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.348492",
+        "long": "7.275140"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 2 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 43 | Richtung Münster",
+      "point": "7.275140,51.348492",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hagelsiepen)"
+    },
+    {
+      "extent": "7.266910076141357,51.37506866455078,7.266910076141357,51.37506866455078",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE4Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.375069",
+        "long": "7.266910"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 43 | Richtung Wuppertal",
+      "point": "7.266910,51.375069",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auf der Heide)"
+    },
+    {
+      "extent": "7.169750213623047,51.63706970214844,7.169750213623047,51.63706970214844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE4OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.637070",
+        "long": "7.169750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 41 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 43 | Richtung Münster",
+      "point": "7.169750,51.637070",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Speckhorn (Ost))"
+    },
+    {
+      "extent": "7.271860122680664,51.341251373291016,7.271860122680664,51.341251373291016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.341251",
+        "long": "7.271860"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 14 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 43 | Richtung Wuppertal",
+      "point": "7.271860,51.341251",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Scherenberg)"
+    },
+    {
+      "extent": "7.3512701988220215,51.88179016113281,7.3512701988220215,51.88179016113281",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.881790",
+        "long": "7.351270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 43 | Richtung Wuppertal",
+      "point": "7.351270,51.881790",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Karthaus (West))"
+    },
+    {
+      "extent": "7.156579971313477,51.67995071411133,7.156579971313477,51.67995071411133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.679951",
+        "long": "7.156580"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 43 | Richtung Münster",
+      "point": "7.156580,51.679951",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brinkfortsheide)"
+    },
+    {
+      "extent": "7.152040004730225,51.68743133544922,7.152040004730225,51.68743133544922",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.687431",
+        "long": "7.152040"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 43 | Richtung Wuppertal",
+      "point": "7.152040,51.687431",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brinkfortsheide)"
+    },
+    {
+      "extent": "7.171020030975342,51.64038848876953,7.171020030975342,51.64038848876953",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE4OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.640388",
+        "long": "7.171020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 43 | Richtung Wuppertal",
+      "point": "7.171020,51.640388",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Speckhorn (West))"
+    }
+  ]
+}

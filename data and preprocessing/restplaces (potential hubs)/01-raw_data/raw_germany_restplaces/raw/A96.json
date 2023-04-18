@@ -1,0 +1,512 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "11.348999977111816,48.11000061035156,11.348999977111816,48.11000061035156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.110001",
+        "long": "11.349000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "11.349000,48.110001",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Germering S)"
+    },
+    {
+      "extent": "10.238387107849121,48.00597381591797,10.238387107849121,48.00597381591797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.005974",
+        "long": "10.238387"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "10.238387,48.005974",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Burgacker N)"
+    },
+    {
+      "extent": "10.848580360412598,48.0606803894043,10.848580360412598,48.0606803894043",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.060680",
+        "long": "10.848580"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 48 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "10.848580,48.060680",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "tollTerminal.notAvailable",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lechwiesen N)"
+    },
+    {
+      "extent": "11.177331924438477,48.08427047729492,11.177331924438477,48.08427047729492",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.084270",
+        "long": "11.177332"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 27 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "11.177332,48.084270",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Martinsberg N)"
+    },
+    {
+      "extent": "9.785269737243652,47.68336868286133,9.785269737243652,47.68336868286133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA5NjUwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.683369",
+        "long": "9.785270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 12 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "9.785270,47.683369",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ettensweiler W)"
+    },
+    {
+      "extent": "10.665726661682129,48.03108596801758,10.665726661682129,48.03108596801758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.031086",
+        "long": "10.665727"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "10.665727,48.031086",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wertachtal Nord)"
+    },
+    {
+      "extent": "10.846090316772461,48.0567512512207,10.846090316772461,48.0567512512207",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.056751",
+        "long": "10.846090"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 71 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "10.846090,48.056751",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lechwiesen S)"
+    },
+    {
+      "extent": "9.98486042022705,47.80268096923828,9.98486042022705,47.80268096923828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA5NjUxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.802681",
+        "long": "9.984860"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "9.984860,47.802681",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Winterberg W)"
+    },
+    {
+      "extent": "10.1181001663208,47.970951080322266,10.1181001663208,47.970951080322266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.970951",
+        "long": "10.118100"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "10.118100,47.970951",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Buxheimer Wald )"
+    },
+    {
+      "extent": "10.41899585723877,48.03338623046875,10.41899585723877,48.03338623046875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.033386",
+        "long": "10.418996"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "10.418996,48.033386",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kammlachtal S)"
+    },
+    {
+      "extent": "10.671080589294434,48.02862548828125,10.671080589294434,48.02862548828125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.028625",
+        "long": "10.671081"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "10.671081,48.028625",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wertachtal Süd)"
+    },
+    {
+      "extent": "10.237013816833496,48.00423049926758,10.237013816833496,48.00423049926758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.004230",
+        "long": "10.237014"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "10.237014,48.004230",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Burgacker S)"
+    },
+    {
+      "extent": "11.34469985961914,48.108848571777344,11.34469985961914,48.108848571777344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.108849",
+        "long": "11.344700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "11.344700,48.108849",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Germering N)"
+    },
+    {
+      "extent": "9.784799575805664,47.680381774902344,9.784799575805664,47.680381774902344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA5NjAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.680382",
+        "long": "9.784800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 12 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 96 | Richtung München",
+      "point": "9.784800,47.680382",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Humbrechts O)"
+    },
+    {
+      "extent": "10.420111656188965,48.034385681152344,10.420111656188965,48.034385681152344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ2MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.034386",
+        "long": "10.420112"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 96 | Richtung Lindau",
+      "point": "10.420112,48.034386",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kammlachtal N)"
+    }
+  ]
+}

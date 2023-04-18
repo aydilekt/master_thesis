@@ -1,0 +1,2716 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "6.945219993591309,50.64268112182617,6.945219993591309,50.64268112182617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.642681",
+        "long": "6.945220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 43 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "6.945220,50.642681",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Peppenhoven Ost)"
+    },
+    {
+      "extent": "6.516670227050781,51.006229400634766,6.516670227050781,51.006229400634766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.006229",
+        "long": "6.516670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 47 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "6.516670,51.006229",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bedburger Land West)"
+    },
+    {
+      "extent": "6.5254597663879395,51.0035514831543,6.5254597663879395,51.0035514831543",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.003551",
+        "long": "6.525460"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 47 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "6.525460,51.003551",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bedburger Land Ost)"
+    },
+    {
+      "extent": "6.939300060272217,50.64501953125,6.939300060272217,50.64501953125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.645020",
+        "long": "6.939300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 45 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "6.939300,50.645020",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Peppenhoven West)"
+    },
+    {
+      "extent": "7.132669925689697,50.57331085205078,7.132669925689697,50.57331085205078",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.573311",
+        "long": "7.132670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 10 ",
+        "LKW Stellplätze: 2 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.132670,50.573311",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hassel)"
+    },
+    {
+      "extent": "7.200389862060547,50.51654815673828,7.200389862060547,50.51654815673828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.516548",
+        "long": "7.200390"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.200390,50.516548",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höchen)"
+    },
+    {
+      "extent": "7.253349781036377,50.39039993286133,7.253349781036377,50.39039993286133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.390400",
+        "long": "7.253350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.253350,50.390400",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(In Dürpel)"
+    },
+    {
+      "extent": "7.317599773406982,50.39445114135742,7.317599773406982,50.39445114135742",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.394451",
+        "long": "7.317600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.317600,50.394451",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Streitgieren)"
+    },
+    {
+      "extent": "7.512509822845459,50.336700439453125,7.512509822845459,50.336700439453125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.336700",
+        "long": "7.512510"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.512510,50.336700",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rübenacher Wald)"
+    },
+    {
+      "extent": "7.511499881744385,50.28731155395508,7.511499881744385,50.28731155395508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.287312",
+        "long": "7.511500"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.511500,50.287312",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mariaroth)"
+    },
+    {
+      "extent": "7.204659938812256,50.51430130004883,7.204659938812256,50.51430130004883",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.514301",
+        "long": "7.204660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 9 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.204660,50.514301",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Harterscheid)"
+    },
+    {
+      "extent": "7.321969985961914,50.39588165283203,7.321969985961914,50.39588165283203",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.395882",
+        "long": "7.321970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.321970,50.395882",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Krufter Ofen)"
+    },
+    {
+      "extent": "7.3651299476623535,50.39081954956055,7.3651299476623535,50.39081954956055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.390820",
+        "long": "7.365130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.365130,50.390820",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hummerich)"
+    },
+    {
+      "extent": "7.430600166320801,50.36370849609375,7.430600166320801,50.36370849609375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.363708",
+        "long": "7.430600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.430600,50.363708",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Singten)"
+    },
+    {
+      "extent": "7.5122199058532715,50.3366813659668,7.5122199058532715,50.3366813659668",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.336681",
+        "long": "7.512220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.512220,50.336681",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sandkaul)"
+    },
+    {
+      "extent": "7.501609802246094,50.31917190551758,7.501609802246094,50.31917190551758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.319172",
+        "long": "7.501610"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 45 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.501610,50.319172",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Moseltal W)"
+    },
+    {
+      "extent": "7.371729850769043,50.38943862915039,7.371729850769043,50.38943862915039",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.389439",
+        "long": "7.371730"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.371730,50.389439",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pellenz)"
+    },
+    {
+      "extent": "7.425839900970459,50.3648681640625,7.425839900970459,50.3648681640625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.364868",
+        "long": "7.425840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.425840,50.364868",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Weidenfeld)"
+    },
+    {
+      "extent": "7.50029993057251,50.31816101074219,7.50029993057251,50.31816101074219",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.318161",
+        "long": "7.500300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 46 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.500300,50.318161",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Moseltal O)"
+    },
+    {
+      "extent": "7.5091400146484375,50.26890182495117,7.5091400146484375,50.26890182495117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.268902",
+        "long": "7.509140"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 66 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.509140,50.268902",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mosel W)"
+    },
+    {
+      "extent": "7.513239860534668,50.264808654785156,7.513239860534668,50.264808654785156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.264809",
+        "long": "7.513240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 70 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.513240,50.264809",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mosel O)"
+    },
+    {
+      "extent": "7.572159767150879,50.20627975463867,7.572159767150879,50.20627975463867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.206280",
+        "long": "7.572160"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 14 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.572160,50.206280",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Engelrödchen)"
+    },
+    {
+      "extent": "7.575719833374023,50.204158782958984,7.575719833374023,50.204158782958984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.204159",
+        "long": "7.575720"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.575720,50.204159",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hellerwald)"
+    },
+    {
+      "extent": "7.6437602043151855,50.037750244140625,7.6437602043151855,50.037750244140625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.037750",
+        "long": "7.643760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.643760,50.037750",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hundsheide)"
+    },
+    {
+      "extent": "7.592080116271973,50.13526153564453,7.592080116271973,50.13526153564453",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.135262",
+        "long": "7.592080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 47 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.592080,50.135262",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Marienau)"
+    },
+    {
+      "extent": "7.647669792175293,50.03522872924805,7.647669792175293,50.03522872924805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.035229",
+        "long": "7.647670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.647670,50.035229",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Struth)"
+    },
+    {
+      "extent": "7.769350051879883,49.96189880371094,7.769350051879883,49.96189880371094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.961899",
+        "long": "7.769350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 66 ",
+        "LKW Stellplätze: 59 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.769350,49.961899",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hunsrück O)"
+    },
+    {
+      "extent": "8.134770393371582,49.71918869018555,8.134770393371582,49.71918869018555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.719189",
+        "long": "8.134770"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 53 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.134770,49.719189",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hauxberg)"
+    },
+    {
+      "extent": "7.963749885559082,49.86656188964844,7.963749885559082,49.86656188964844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.866562",
+        "long": "7.963750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 35 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.963750,49.866562",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sitzborn)"
+    },
+    {
+      "extent": "7.764080047607422,49.9659309387207,7.764080047607422,49.9659309387207",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.965931",
+        "long": "7.764080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 77 ",
+        "LKW Stellplätze: 61 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.764080,49.965931",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hunsrück W)"
+    },
+    {
+      "extent": "8.144590377807617,49.71123123168945,8.144590377807617,49.71123123168945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.711231",
+        "long": "8.144590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 42 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.144590,49.711231",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Langwiese)"
+    },
+    {
+      "extent": "7.956459999084473,49.87467956542969,7.956459999084473,49.87467956542969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.874680",
+        "long": "7.956460"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 14 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.956460,49.874680",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steingewann)"
+    },
+    {
+      "extent": "8.053629875183105,49.80358123779297,8.053629875183105,49.80358123779297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.803581",
+        "long": "8.053630"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.053630,49.803581",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wiesbach)"
+    },
+    {
+      "extent": "8.235699653625488,49.690940856933594,8.235699653625488,49.690940856933594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.690941",
+        "long": "8.235700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.235700,49.690941",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rotenstein)"
+    },
+    {
+      "extent": "8.290390014648438,49.648658752441406,8.290390014648438,49.648658752441406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.648659",
+        "long": "8.290390"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 107 ",
+        "LKW Stellplätze: 56 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.290390,49.648659",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wonnegau W)"
+    },
+    {
+      "extent": "8.292799949645996,49.64419174194336,8.292799949645996,49.64419174194336",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.644192",
+        "long": "8.292800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 78 ",
+        "LKW Stellplätze: 42 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.292800,49.644192",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wonnegau O)"
+    },
+    {
+      "extent": "8.288269996643066,49.596649169921875,8.288269996643066,49.596649169921875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.596649",
+        "long": "8.288270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 42 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.288270,49.596649",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Erpelrain)"
+    },
+    {
+      "extent": "8.239089965820312,49.68928146362305,8.239089965820312,49.68928146362305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.689281",
+        "long": "8.239090"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.239090,49.689281",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bergkloster)"
+    },
+    {
+      "extent": "8.289560317993164,49.59246063232422,8.289560317993164,49.59246063232422",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.592461",
+        "long": "8.289560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 46 ",
+        "LKW Stellplätze: 51 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.289560,49.592461",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kurzgewann)"
+    },
+    {
+      "extent": "8.311320304870605,49.52286911010742,8.311320304870605,49.52286911010742",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.522869",
+        "long": "8.311320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.311320,49.522869",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auf dem Hirschen)"
+    },
+    {
+      "extent": "8.31110954284668,49.51818084716797,8.31110954284668,49.51818084716797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.518181",
+        "long": "8.311110"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 64 ",
+        "LKW Stellplätze: 58 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.311110,49.518181",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auf dem Hahnen)"
+    },
+    {
+      "extent": "8.380160331726074,49.356468200683594,8.380160331726074,49.356468200683594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.356468",
+        "long": "8.380160"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 4 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.380160,49.356468",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Birkenschlag)"
+    },
+    {
+      "extent": "8.386249542236328,49.35546875,8.386249542236328,49.35546875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.355469",
+        "long": "8.386250"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.386250,49.355469",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nachtweide)"
+    },
+    {
+      "extent": "8.313420295715332,49.464500427246094,8.313420295715332,49.464500427246094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEzOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.464500",
+        "long": "8.313420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.313420,49.464500",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bobelach)"
+    },
+    {
+      "extent": "8.340310096740723,49.413230895996094,8.340310096740723,49.413230895996094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.413231",
+        "long": "8.340310"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 90 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.340310,49.413231",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dannstadt W)"
+    },
+    {
+      "extent": "8.453200340270996,49.35221862792969,8.453200340270996,49.35221862792969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.352219",
+        "long": "8.453200"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.453200,49.352219",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Spitzenrheinhof)"
+    },
+    {
+      "extent": "8.315469741821289,49.458099365234375,8.315469741821289,49.458099365234375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.458099",
+        "long": "8.315470"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.315470,49.458099",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sandberg)"
+    },
+    {
+      "extent": "8.340959548950195,49.407901763916016,8.340959548950195,49.407901763916016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.407902",
+        "long": "8.340960"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 75 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.340960,49.407902",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dannstadt O)"
+    },
+    {
+      "extent": "8.458169937133789,49.350929260253906,8.458169937133789,49.350929260253906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE0Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.350929",
+        "long": "8.458170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.458170,49.350929",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Binshof)"
+    },
+    {
+      "extent": "7.592830181121826,50.13151168823242,7.592830181121826,50.13151168823242",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDExNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.131512",
+        "long": "7.592830"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 46 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.592830,50.131512",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Erzkaul)"
+    },
+    {
+      "extent": "6.8726301193237305,50.73833084106445,6.8726301193237305,50.73833084106445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.738331",
+        "long": "6.872630"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "6.872630,50.738331",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am blauen Stein (West))"
+    },
+    {
+      "extent": "7.511579990386963,50.29029083251953,7.511579990386963,50.29029083251953",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEwOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.290291",
+        "long": "7.511580"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.511580,50.290291",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Neufeld)"
+    },
+    {
+      "extent": "8.488030433654785,49.333560943603516,8.488030433654785,49.333560943603516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA2MTAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.333561",
+        "long": "8.488030"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "8.488030,49.333561",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A61 km 383,3 Ri. Venlo)"
+    },
+    {
+      "extent": "7.058239936828613,50.582489013671875,7.058239936828613,50.582489013671875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.582489",
+        "long": "7.058240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.058240,50.582489",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Goldene Meile)"
+    },
+    {
+      "extent": "8.51708984375,49.33089065551758,8.51708984375,49.33089065551758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA2MTUwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.330891",
+        "long": "8.517090"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.517090,49.330891",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A61 km 385,7 Ri. Hockenheim)"
+    },
+    {
+      "extent": "6.875410079956055,50.73619079589844,6.875410079956055,50.73619079589844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.736191",
+        "long": "6.875410"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "6.875410,50.736191",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am blauen Stein (Ost))"
+    },
+    {
+      "extent": "7.135570049285889,50.57238006591797,7.135570049285889,50.57238006591797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA4OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.572380",
+        "long": "7.135570"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 10 ",
+        "LKW Stellplätze: 2 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.135570,50.572380",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mühlenberg)"
+    },
+    {
+      "extent": "8.051300048828125,49.80625915527344,8.051300048828125,49.80625915527344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDEyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.806259",
+        "long": "8.051300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "8.051300,49.806259",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Menhir)"
+    },
+    {
+      "extent": "7.224480152130127,50.43846893310547,7.224480152130127,50.43846893310547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.438469",
+        "long": "7.224480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 102 ",
+        "LKW Stellplätze: 157 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.224480,50.438469",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brohltal O)"
+    },
+    {
+      "extent": "7.257309913635254,50.388938903808594,7.257309913635254,50.388938903808594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.388939",
+        "long": "7.257310"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 61 | Richtung Venlo",
+      "point": "7.257310,50.388939",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Thelenberg)"
+    },
+    {
+      "extent": "7.2259697914123535,50.44313049316406,7.2259697914123535,50.44313049316406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDA5MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.443130",
+        "long": "7.225970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 83 ",
+        "LKW Stellplätze: 57 "
+      ],
+      "title": "A 61 | Richtung Hockenheim",
+      "point": "7.225970,50.443130",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brohltal W)"
+    }
+  ]
+}

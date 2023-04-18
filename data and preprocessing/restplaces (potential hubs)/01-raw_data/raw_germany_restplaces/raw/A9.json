@@ -1,0 +1,3274 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "11.79259967803955,50.42510986328125,11.79259967803955,50.42510986328125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTA1Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.425110",
+        "long": "11.792600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 159 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.792600,50.425110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(TRM Hirschberg Ost )"
+    },
+    {
+      "extent": "11.955989837646484,51.101409912109375,11.955989837646484,51.101409912109375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.101410",
+        "long": "11.955990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 171 ",
+        "LKW Stellplätze: 76 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.955990,51.101410",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Osterfeld Ost)"
+    },
+    {
+      "extent": "11.357060432434082,49.039268493652344,11.357060432434082,49.039268493652344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.039268",
+        "long": "11.357060"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.357060,49.039268",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Greding O)"
+    },
+    {
+      "extent": "11.61128044128418,48.33401870727539,11.61128044128418,48.33401870727539",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.334019",
+        "long": "11.611280"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 179 ",
+        "LKW Stellplätze: 145 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.611280,48.334019",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-charging_station",
+          "description": "Elektr. Ladestation",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fürholzen O)"
+    },
+    {
+      "extent": "11.643099784851074,48.27545166015625,11.643099784851074,48.27545166015625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.275452",
+        "long": "11.643100"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.643100,48.275452",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Echinger Gfild O)"
+    },
+    {
+      "extent": "11.655659675598145,51.11014938354492,11.655659675598145,51.11014938354492",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA4MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.110149",
+        "long": "11.655660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 214 ",
+        "LKW Stellplätze: 115 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.655660,51.110149",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Osterfeld West)"
+    },
+    {
+      "extent": "11.601239204406738,49.89458465576172,11.601239204406738,49.89458465576172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.894585",
+        "long": "11.601239"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.601239,49.894585",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sophienberg O)"
+    },
+    {
+      "extent": "11.27046012878418,49.132728576660156,11.27046012878418,49.132728576660156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.132729",
+        "long": "11.270460"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 39 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.270460,49.132729",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Offenbau W)"
+    },
+    {
+      "extent": "11.77083969116211,50.40401077270508,11.77083969116211,50.40401077270508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.404011",
+        "long": "11.770840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 174 ",
+        "LKW Stellplätze: 49 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.770840,50.404011",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Frankenwald O)"
+    },
+    {
+      "extent": "11.702852249145508,50.10552215576172,11.702852249145508,50.10552215576172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.105522",
+        "long": "11.702852"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 32 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.702852,50.105522",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Streitau W)"
+    },
+    {
+      "extent": "12.746870040893555,52.127681732177734,12.746870040893555,52.127681732177734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM4NDIwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.127682",
+        "long": "12.746870"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 115 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.746870,52.127682",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fläming O)"
+    },
+    {
+      "extent": "12.21541976928711,51.72243881225586,12.21541976928711,51.72243881225586",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzAzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.722439",
+        "long": "12.215420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 57 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.215420,51.722439",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mosigkauer Heide Ost)"
+    },
+    {
+      "extent": "11.598621368408203,49.893245697021484,11.598621368408203,49.893245697021484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.893246",
+        "long": "11.598621"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.598621,49.893246",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sophienberg W)"
+    },
+    {
+      "extent": "11.20576286315918,49.42304229736328,11.20576286315918,49.42304229736328",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.423042",
+        "long": "11.205763"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.205763,49.423042",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brunn W)"
+    },
+    {
+      "extent": "11.22428035736084,49.223419189453125,11.22428035736084,49.223419189453125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.223419",
+        "long": "11.224280"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 36 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.224280,49.223419",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Göggelsbuch W)"
+    },
+    {
+      "extent": "11.43235969543457,48.95075988769531,11.43235969543457,48.95075988769531",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.950760",
+        "long": "11.432360"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.432360,48.950760",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gelbelsee O)"
+    },
+    {
+      "extent": "11.539899826049805,48.61293029785156,11.539899826049805,48.61293029785156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.612930",
+        "long": "11.539900"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 9 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.539900,48.612930",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rohrbach- Ottersried W)"
+    },
+    {
+      "extent": "11.440370559692383,49.65020751953125,11.440370559692383,49.65020751953125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.650208",
+        "long": "11.440371"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 19 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.440371,49.650208",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sperbes W)"
+    },
+    {
+      "extent": "11.543609619140625,48.6101188659668,11.543609619140625,48.6101188659668",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.610119",
+        "long": "11.543610"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 7 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.543610,48.610119",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rohrbach- Ottersried O)"
+    },
+    {
+      "extent": "11.847789764404297,50.874351501464844,11.847789764404297,50.874351501464844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTAyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.874352",
+        "long": "11.847790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 197 ",
+        "LKW Stellplätze: 81 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.847790,50.874352",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(TR Hermsdorfer Kreuz West)"
+    },
+    {
+      "extent": "11.847745895385742,50.87586212158203,11.847745895385742,50.87586212158203",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTAyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.875862",
+        "long": "11.847746"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 75 ",
+        "LKW Stellplätze: 74 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.847746,50.875862",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(TR Hermsdorfer Kreuz Ost)"
+    },
+    {
+      "extent": "11.20203971862793,49.36296081542969,11.20203971862793,49.36296081542969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.362961",
+        "long": "11.202040"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 123 ",
+        "LKW Stellplätze: 56 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.202040,49.362961",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nürnberg-Feucht W)"
+    },
+    {
+      "extent": "11.780089378356934,50.585758209228516,11.780089378356934,50.585758209228516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTA0Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.585758",
+        "long": "11.780089"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 34 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.780089,50.585758",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Himmelsteiche Ost)"
+    },
+    {
+      "extent": "12.636199951171875,52.046268463134766,12.636199951171875,52.046268463134766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM5NDEwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.046268",
+        "long": "12.636200"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.636200,52.046268",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hagen)"
+    },
+    {
+      "extent": "11.596639633178711,48.38132858276367,11.596639633178711,48.38132858276367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.381329",
+        "long": "11.596640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [],
+      "title": "A 9 | Richtung München",
+      "point": "11.596640,48.381329",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(BY 27 W)"
+    },
+    {
+      "extent": "11.511039733886719,49.75199890136719,11.511039733886719,49.75199890136719",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.751999",
+        "long": "11.511040"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 110 ",
+        "LKW Stellplätze: 108 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.511040,49.751999",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fränkische Schweiz-Pegnitz W)"
+    },
+    {
+      "extent": "12.369600296020508,51.866859436035156,12.369600296020508,51.866859436035156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzAyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.866859",
+        "long": "12.369600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.369600,51.866859",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kliekener Aue West)"
+    },
+    {
+      "extent": "11.320883750915527,49.54892349243164,11.320883750915527,49.54892349243164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.548923",
+        "long": "11.320884"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 31 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.320884,49.548923",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wolfshöhe W)"
+    },
+    {
+      "extent": "12.614239692687988,52.032711029052734,12.614239692687988,52.032711029052734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM5NDEwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.032711",
+        "long": "12.614240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.614240,52.032711",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rabenstein)"
+    },
+    {
+      "extent": "12.757869720458984,52.13766098022461,12.757869720458984,52.13766098022461",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM4NDIwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.137661",
+        "long": "12.757870"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 95 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.757870,52.137661",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fläming W)"
+    },
+    {
+      "extent": "11.5133695602417,49.74510955810547,11.5133695602417,49.74510955810547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.745110",
+        "long": "11.513370"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 110 ",
+        "LKW Stellplätze: 106 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.513370,49.745110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fränkische Schweiz-Pegnitz O)"
+    },
+    {
+      "extent": "11.49944019317627,48.683040618896484,11.49944019317627,48.683040618896484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.683041",
+        "long": "11.499440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 7 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.499440,48.683041",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Baarer Weiher W)"
+    },
+    {
+      "extent": "11.47146987915039,48.834110260009766,11.47146987915039,48.834110260009766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.834110",
+        "long": "11.471470"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 147 ",
+        "LKW Stellplätze: 128 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.471470,48.834110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-charging_station",
+          "description": "Elektr. Ladestation",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Köschinger Forst O)"
+    },
+    {
+      "extent": "11.47146987915039,48.834110260009766,11.47146987915039,48.834110260009766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.834110",
+        "long": "11.471470"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 75 ",
+        "LKW Stellplätze: 115 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.471470,48.834110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Köschinger Forst W)"
+    },
+    {
+      "extent": "12.186039924621582,51.609710693359375,12.186039924621582,51.609710693359375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.609711",
+        "long": "12.186040"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 132 ",
+        "LKW Stellplätze: 68 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.186040,51.609711",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Köckern West)"
+    },
+    {
+      "extent": "11.641599655151367,48.27714920043945,11.641599655151367,48.27714920043945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM5MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.277149",
+        "long": "11.641600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.641600,48.277149",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brunngras W)"
+    },
+    {
+      "extent": "11.805806159973145,50.303924560546875,11.805806159973145,50.303924560546875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.303925",
+        "long": "11.805806"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.805806,50.303925",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lipperts O)"
+    },
+    {
+      "extent": "11.206375122070312,49.42184829711914,11.206375122070312,49.42184829711914",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.421848",
+        "long": "11.206375"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.206375,49.421848",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brunn O)"
+    },
+    {
+      "extent": "12.032230377197266,51.210819244384766,12.032230377197266,51.210819244384766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA3MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.210819",
+        "long": "12.032230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.032230,51.210819",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pörstental West)"
+    },
+    {
+      "extent": "12.375749588012695,51.8691291809082,12.375749588012695,51.8691291809082",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzAyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.869129",
+        "long": "12.375750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.375750,51.869129",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kliekener Aue Ost )"
+    },
+    {
+      "extent": "11.704504013061523,50.105140686035156,11.704504013061523,50.105140686035156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.105141",
+        "long": "11.704504"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 26 ",
+        "LKW Stellplätze: 32 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.704504,50.105141",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Streitau O)"
+    },
+    {
+      "extent": "12.48346996307373,51.96976852416992,12.48346996307373,51.96976852416992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.969769",
+        "long": "12.483470"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.483470,51.969769",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rosselquelle West)"
+    },
+    {
+      "extent": "11.588319778442383,48.55870056152344,11.588319778442383,48.55870056152344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.558701",
+        "long": "11.588320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 104 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.588320,48.558701",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-charging_station",
+          "description": "Elektr. Ladestation",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Holledau W)"
+    },
+    {
+      "extent": "11.79259967803955,50.42510986328125,11.79259967803955,50.42510986328125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTA1Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.425110",
+        "long": "11.792600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 39 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.792600,50.425110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(P/K Hirschberg Ost )"
+    },
+    {
+      "extent": "11.597999572753906,48.387451171875,11.597999572753906,48.387451171875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.387451",
+        "long": "11.598000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 17 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.598000,48.387451",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aster Moos O)"
+    },
+    {
+      "extent": "12.171558380126953,51.32573699951172,12.171558380126953,51.32573699951172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA2MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.325737",
+        "long": "12.171558"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.171558,51.325737",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bachfurt West)"
+    },
+    {
+      "extent": "12.206480026245117,51.49042892456055,12.206480026245117,51.49042892456055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.490429",
+        "long": "12.206480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.206480,51.490429",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kapellenberg Ost)"
+    },
+    {
+      "extent": "11.589420318603516,48.46284103393555,11.589420318603516,48.46284103393555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.462841",
+        "long": "11.589420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.589420,48.462841",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Eichfeld O)"
+    },
+    {
+      "extent": "12.029540061950684,51.20820999145508,12.029540061950684,51.20820999145508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.208210",
+        "long": "12.029540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.029540,51.208210",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pörstental O)"
+    },
+    {
+      "extent": "11.226119995117188,49.21923828125,11.226119995117188,49.21923828125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.219238",
+        "long": "11.226120"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 59 ",
+        "LKW Stellplätze: 46 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.226120,49.219238",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Göggelsbuch O)"
+    },
+    {
+      "extent": "12.879059791564941,52.19757843017578,12.879059791564941,52.19757843017578",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM3NDMwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.197578",
+        "long": "12.879060"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.879060,52.197578",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zauche)"
+    },
+    {
+      "extent": "11.428970336914062,48.9532585144043,11.428970336914062,48.9532585144043",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.953259",
+        "long": "11.428970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.428970,48.953259",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gelbelsee W)"
+    },
+    {
+      "extent": "12.88899040222168,52.20595169067383,12.88899040222168,52.20595169067383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM3NDMwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.205952",
+        "long": "12.888990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.888990,52.205952",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Borker Heide)"
+    },
+    {
+      "extent": "11.775808334350586,50.57867431640625,11.775808334350586,50.57867431640625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTA0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.578674",
+        "long": "11.775808"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.775808,50.578674",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Himmelsteiche West)"
+    },
+    {
+      "extent": "11.203840255737305,49.35218048095703,11.203840255737305,49.35218048095703",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.352180",
+        "long": "11.203840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 133 ",
+        "LKW Stellplätze: 56 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.203840,49.352180",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nürnberg-Feucht O)"
+    },
+    {
+      "extent": "12.169631958007812,51.32305908203125,12.169631958007812,51.32305908203125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.323059",
+        "long": "12.169632"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.169632,51.323059",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bachfurt Ost)"
+    },
+    {
+      "extent": "11.845305442810059,50.95829772949219,11.845305442810059,50.95829772949219",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.958298",
+        "long": "11.845305"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.845305,50.958298",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Kuhberg West)"
+    },
+    {
+      "extent": "12.203680038452148,51.493751525878906,12.203680038452148,51.493751525878906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA1MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.493752",
+        "long": "12.203680"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.203680,51.493752",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kapellenberg West)"
+    },
+    {
+      "extent": "11.876788139343262,50.761451721191406,11.876788139343262,50.761451721191406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTAzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.761452",
+        "long": "11.876788"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.876788,50.761452",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Rodaborn West)"
+    },
+    {
+      "extent": "11.502479553222656,48.67924118041992,11.502479553222656,48.67924118041992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.679241",
+        "long": "11.502480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 44 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.502480,48.679241",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Baarer Weiher O)"
+    },
+    {
+      "extent": "11.3230619430542,49.55009841918945,11.3230619430542,49.55009841918945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.550098",
+        "long": "11.323062"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 29 ",
+        "LKW Stellplätze: 31 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.323062,49.550098",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wolfshöhe O)"
+    },
+    {
+      "extent": "12.515589714050293,51.72629165649414,12.515589714050293,51.72629165649414",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzAzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.726292",
+        "long": "12.515590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "12.515590,51.726292",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mosigkauer Heide West)"
+    },
+    {
+      "extent": "11.775569915771484,50.409019470214844,11.775569915771484,50.409019470214844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.409019",
+        "long": "11.775570"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 151 ",
+        "LKW Stellplätze: 65 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.775570,50.409019",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Raststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Frankenwald W)"
+    },
+    {
+      "extent": "12.490269660949707,51.97195816040039,12.490269660949707,51.97195816040039",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzAxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.971958",
+        "long": "12.490270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.490270,51.971958",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rosselquelle Ost)"
+    },
+    {
+      "extent": "11.867712020874023,50.75743103027344,11.867712020874023,50.75743103027344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwOTAzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.757431",
+        "long": "11.867712"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.867712,50.757431",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Rodaborn Ost)"
+    },
+    {
+      "extent": "11.333880424499512,49.048858642578125,11.333880424499512,49.048858642578125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.048859",
+        "long": "11.333880"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 108 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.333880,49.048859",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Greding W)"
+    },
+    {
+      "extent": "11.804529190063477,50.30369186401367,11.804529190063477,50.30369186401367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.303692",
+        "long": "11.804529"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.804529,50.303692",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lipperts W)"
+    },
+    {
+      "extent": "11.436262130737305,49.64649963378906,11.436262130737305,49.64649963378906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM1Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.646500",
+        "long": "11.436262"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "11.436262,49.646500",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sperbes O)"
+    },
+    {
+      "extent": "12.18472957611084,51.6055908203125,12.18472957611084,51.6055908203125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNULUE5XzA0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.605591",
+        "long": "12.184730"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 121 ",
+        "LKW Stellplätze: 66 "
+      ],
+      "title": "A 9 | Richtung Dreieck Potsdam",
+      "point": "12.184730,51.605591",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Köckern Ost)"
+    },
+    {
+      "extent": "11.58767032623291,48.46623992919922,11.58767032623291,48.46623992919922",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.466240",
+        "long": "11.587670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 9 | Richtung München",
+      "point": "11.587670,48.466240",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Paunzhauser Feld W)"
+    }
+  ]
+}

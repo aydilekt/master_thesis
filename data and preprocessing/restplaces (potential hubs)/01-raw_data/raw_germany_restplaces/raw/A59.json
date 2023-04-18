@@ -1,0 +1,166 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "6.919340133666992,51.110530853271484,6.919340133666992,51.110530853271484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.110531",
+        "long": "6.919340"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 53 "
+      ],
+      "title": "A 59 | Richtung Bonn",
+      "point": "6.919340,51.110531",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berghausen (West))"
+    },
+    {
+      "extent": "7.086319923400879,50.89693069458008,7.086319923400879,50.89693069458008",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.896931",
+        "long": "7.086320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 59 | Richtung Düsseldorf",
+      "point": "7.086320,50.896931",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schloß Röttgen Ost)"
+    },
+    {
+      "extent": "7.081419944763184,50.89942169189453,7.081419944763184,50.89942169189453",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.899422",
+        "long": "7.081420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 59 | Richtung Bonn",
+      "point": "7.081420,50.899422",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schloß Röttgen West)"
+    },
+    {
+      "extent": "6.912749767303467,51.123878479003906,6.912749767303467,51.123878479003906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDMyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.123878",
+        "long": "6.912750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 51 "
+      ],
+      "title": "A 59 | Richtung Düsseldorf",
+      "point": "6.912750,51.123878",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wolfhagen (Ost))"
+    }
+  ]
+}

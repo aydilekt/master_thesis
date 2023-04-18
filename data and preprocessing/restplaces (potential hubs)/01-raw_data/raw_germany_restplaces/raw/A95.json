@@ -1,0 +1,336 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "11.327210426330566,47.71696853637695,11.327210426330566,47.71696853637695",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.716969",
+        "long": "11.327210"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 95 | Richtung Garmisch-Partenkirchen",
+      "point": "11.327210,47.716969",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A95 km 49,2 W)"
+    },
+    {
+      "extent": "11.239919662475586,47.660099029541016,11.239919662475586,47.660099029541016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.660099",
+        "long": "11.239920"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 10 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 95 | Richtung Garmisch-Partenkirchen",
+      "point": "11.239920,47.660099",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mühlweiher RA A95 km 58,9 W)"
+    },
+    {
+      "extent": "11.430109977722168,48.03459930419922,11.430109977722168,48.03459930419922",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.034599",
+        "long": "11.430110"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 95 | Richtung München",
+      "point": "11.430110,48.034599",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A95 km 11,2 O)"
+    },
+    {
+      "extent": "11.40170955657959,47.924591064453125,11.40170955657959,47.924591064453125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.924591",
+        "long": "11.401710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 95 | Richtung München",
+      "point": "11.401710,47.924591",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höhenrain O)"
+    },
+    {
+      "extent": "11.327420234680176,47.707740783691406,11.327420234680176,47.707740783691406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.707741",
+        "long": "11.327420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 95 | Richtung München",
+      "point": "11.327420,47.707741",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A95 km 50,2 O)"
+    },
+    {
+      "extent": "11.235879898071289,47.65755844116211,11.235879898071289,47.65755844116211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.657558",
+        "long": "11.235880"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 95 | Richtung München",
+      "point": "11.235880,47.657558",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ostermoos RA A95 km 59,3 O)"
+    },
+    {
+      "extent": "11.383379936218262,47.8521614074707,11.383379936218262,47.8521614074707",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ1MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.852161",
+        "long": "11.383380"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 95 | Richtung Garmisch-Partenkirchen",
+      "point": "11.383380,47.852161",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A95 km 32,9 W)"
+    },
+    {
+      "extent": "11.4027099609375,47.929969787597656,11.4027099609375,47.929969787597656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.929970",
+        "long": "11.402710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 61 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 95 | Richtung Garmisch-Partenkirchen",
+      "point": "11.402710,47.929970",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höhenrain W)"
+    },
+    {
+      "extent": "11.427240371704102,48.03070831298828,11.427240371704102,48.03070831298828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.030708",
+        "long": "11.427240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 95 | Richtung Garmisch-Partenkirchen",
+      "point": "11.427240,48.030708",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A95 km 11,7 W)"
+    }
+  ]
+}

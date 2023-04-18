@@ -1,0 +1,2820 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "6.217239856719971,50.81861877441406,6.217239856719971,50.81861877441406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.818619",
+        "long": "6.217240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 100 ",
+        "LKW Stellplätze: 102 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "6.217240,50.818619",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aachener Land Nord)"
+    },
+    {
+      "extent": "6.4202799797058105,50.83528137207031,6.4202799797058105,50.83528137207031",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.835281",
+        "long": "6.420280"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "6.420280,50.835281",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rur-Scholle (Süd))"
+    },
+    {
+      "extent": "6.425739765167236,50.83549118041992,6.425739765167236,50.83549118041992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.835491",
+        "long": "6.425740"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "6.425740,50.835491",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rur-Scholle (Nord))"
+    },
+    {
+      "extent": "25.25965118408203,58.52772521972656,25.25965118408203,58.52772521972656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "58.527725",
+        "long": "25.259651"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 144 ",
+        "LKW Stellplätze: 94 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "25.259651,58.527725",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auerswalder Blick Nord)"
+    },
+    {
+      "extent": "6.773369789123535,50.92853927612305,6.773369789123535,50.92853927612305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.928539",
+        "long": "6.773370"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 70 ",
+        "LKW Stellplätze: 45 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "6.773370,50.928539",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Frechen Süd)"
+    },
+    {
+      "extent": "25.257200241088867,58.52732849121094,25.257200241088867,58.52732849121094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "58.527328",
+        "long": "25.257200"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 100 ",
+        "LKW Stellplätze: 77 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "25.257200,58.527328",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Auerswalder Blick Süd)"
+    },
+    {
+      "extent": "7.505239963531494,50.97600173950195,7.505239963531494,50.97600173950195",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.976002",
+        "long": "7.505240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.505240,50.976002",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hömeler Feld)"
+    },
+    {
+      "extent": "13.580025672912598,51.06191635131836,13.580025672912598,51.06191635131836",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.061916",
+        "long": "13.580026"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 150 ",
+        "LKW Stellplätze: 150 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "13.580026,51.061916",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dresdner Tor Nord)"
+    },
+    {
+      "extent": "13.56399917602539,51.061676025390625,13.56399917602539,51.061676025390625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.061676",
+        "long": "13.563999"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 119 ",
+        "LKW Stellplätze: 154 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "13.563999,51.061676",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dresdner Tor Süd)"
+    },
+    {
+      "extent": "7.201260089874268,50.95122146606445,7.201260089874268,50.95122146606445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.951221",
+        "long": "7.201260"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.201260,50.951221",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Röttgesberg)"
+    },
+    {
+      "extent": "14.553640365600586,51.21070098876953,14.553640365600586,51.21070098876953",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.210701",
+        "long": "14.553640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "14.553640,51.210701",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Löbauer Wasser S)"
+    },
+    {
+      "extent": "14.99787425994873,51.184329986572266,14.99787425994873,51.184329986572266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAzOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.184330",
+        "long": "14.997874"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 58 ",
+        "LKW Stellplätze: 65 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "14.997874,51.184330",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(An der Neiße Nord)"
+    },
+    {
+      "extent": "11.814146995544434,50.87683868408203,11.814146995544434,50.87683868408203",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDA1Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.876839",
+        "long": "11.814147"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "11.814147,50.876839",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA Teufelstal Süd)"
+    },
+    {
+      "extent": "11.802871704101562,50.87620544433594,11.802871704101562,50.87620544433594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDA1MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.876205",
+        "long": "11.802872"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 64 ",
+        "LKW Stellplätze: 31 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "11.802872,50.876205",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Raststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA Teufelstal Nord)"
+    },
+    {
+      "extent": "11.204588890075684,50.94920349121094,11.204588890075684,50.94920349121094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDEyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.949203",
+        "long": "11.204589"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 131 ",
+        "LKW Stellplätze: 90 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "11.204589,50.949203",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(TR Eichelborn Süd)"
+    },
+    {
+      "extent": "6.21265983581543,50.8160285949707,6.21265983581543,50.8160285949707",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.816029",
+        "long": "6.212660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 133 ",
+        "LKW Stellplätze: 90 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "6.212660,50.816029",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aachener Land Süd)"
+    },
+    {
+      "extent": "7.320320129394531,50.95441818237305,7.320320129394531,50.95441818237305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.954418",
+        "long": "7.320320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.320320,50.954418",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aggertal Nord)"
+    },
+    {
+      "extent": "7.317759990692139,50.949310302734375,7.317759990692139,50.949310302734375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.949310",
+        "long": "7.317760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 48 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.317760,50.949310",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aggertal Süd)"
+    },
+    {
+      "extent": "12.320764541625977,50.85511016845703,12.320764541625977,50.85511016845703",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDAxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.855110",
+        "long": "12.320765"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 70 ",
+        "LKW Stellplätze: 60 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "12.320765,50.855110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Raststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(TR Altenburger Land Süd)"
+    },
+    {
+      "extent": "6.777560234069824,50.929080963134766,6.777560234069824,50.929080963134766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.929081",
+        "long": "6.777560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 57 ",
+        "LKW Stellplätze: 28 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "6.777560,50.929081",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Frechen Nord)"
+    },
+    {
+      "extent": "14.873948097229004,51.219303131103516,14.873948097229004,51.219303131103516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.219303",
+        "long": "14.873948"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "14.873948,51.219303",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wiesaer Forst N)"
+    },
+    {
+      "extent": "7.441490173339844,50.980918884277344,7.441490173339844,50.980918884277344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.980919",
+        "long": "7.441490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.441490,50.980919",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bellingroth)"
+    },
+    {
+      "extent": "10.178990364074707,51.007381439208984,10.178990364074707,51.007381439208984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQwMDAwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.007381",
+        "long": "10.178990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 135 ",
+        "LKW Stellplätze: 80 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "10.178990,51.007381",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Werratal)"
+    },
+    {
+      "extent": "11.078097343444824,50.911502838134766,11.078097343444824,50.911502838134766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDEzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.911503",
+        "long": "11.078097"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "11.078097,50.911503",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Willroder Forst Süd)"
+    },
+    {
+      "extent": "10.17870044708252,51.00785827636719,10.17870044708252,51.00785827636719",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQwMDAwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.007858",
+        "long": "10.178700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 52 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "10.178700,51.007858",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Burgberg)"
+    },
+    {
+      "extent": "10.815479278564453,50.87785339355469,10.815479278564453,50.87785339355469",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDE2Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.877853",
+        "long": "10.815479"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "10.815479,50.877853",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Drei Gleichen)"
+    },
+    {
+      "extent": "13.077079772949219,50.96432876586914,13.077079772949219,50.96432876586914",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA1Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.964329",
+        "long": "13.077080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "13.077080,50.964329",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rossauer Wald Süd)"
+    },
+    {
+      "extent": "14.558527946472168,51.21102523803711,14.558527946472168,51.21102523803711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.211025",
+        "long": "14.558528"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "14.558528,51.211025",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Löbauer Wasser N)"
+    },
+    {
+      "extent": "14.325419425964355,51.1999626159668,14.325419425964355,51.1999626159668",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.199963",
+        "long": "14.325419"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 81 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "14.325419,51.199963",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Oberlausitz S)"
+    },
+    {
+      "extent": "14.335244178771973,51.19807052612305,14.335244178771973,51.19807052612305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA0OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.198071",
+        "long": "14.335244"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 80 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "14.335244,51.198071",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Oberlausitz N)"
+    },
+    {
+      "extent": "7.449709892272949,50.977638244628906,7.449709892272949,50.977638244628906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.977638",
+        "long": "7.449710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.449710,50.977638",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bellingroth)"
+    },
+    {
+      "extent": "7.365220069885254,50.96778106689453,7.365220069885254,50.96778106689453",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.967781",
+        "long": "7.365220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 10 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.365220,50.967781",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Erlenhof)"
+    },
+    {
+      "extent": "7.1961798667907715,50.953758239746094,7.1961798667907715,50.953758239746094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.953758",
+        "long": "7.196180"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 43 ",
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.196180,50.953758",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Röttgesberg)"
+    },
+    {
+      "extent": "13.3287935256958,51.03960418701172,13.3287935256958,51.03960418701172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.039604",
+        "long": "13.328794"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "13.328794,51.039604",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Steinberg Nord)"
+    },
+    {
+      "extent": "7.357439994812012,50.96562957763672,7.357439994812012,50.96562957763672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.965630",
+        "long": "7.357440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 10 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.357440,50.965630",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Erlenhof)"
+    },
+    {
+      "extent": "11.067237854003906,50.91020965576172,11.067237854003906,50.91020965576172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDEzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.910210",
+        "long": "11.067238"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "11.067238,50.910210",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Willroder Forst Nord)"
+    },
+    {
+      "extent": "14.682085990905762,51.206607818603516,14.682085990905762,51.206607818603516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.206608",
+        "long": "14.682086"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "14.682086,51.206608",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Wacheberg Süd)"
+    },
+    {
+      "extent": "14.057984352111816,51.16722869873047,14.057984352111816,51.16722869873047",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA1MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.167229",
+        "long": "14.057984"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 27 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "14.057984,51.167229",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rödertal S)"
+    },
+    {
+      "extent": "7.696300029754639,50.96583938598633,7.696300029754639,50.96583938598633",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE3MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.965839",
+        "long": "7.696300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.696300,50.965839",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hasbacher Höhe (Nord))"
+    },
+    {
+      "extent": "7.687650203704834,50.965118408203125,7.687650203704834,50.965118408203125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE3Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.965118",
+        "long": "7.687650"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.687650,50.965118",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hasbacher Höhe (Süd))"
+    },
+    {
+      "extent": "13.32334041595459,51.03804016113281,13.32334041595459,51.03804016113281",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.038040",
+        "long": "13.323340"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "13.323340,51.038040",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Steinberg Süd)"
+    },
+    {
+      "extent": "13.843957901000977,51.171451568603516,13.843957901000977,51.171451568603516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.171452",
+        "long": "13.843958"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 58 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "13.843958,51.171452",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Eichelberg N)"
+    },
+    {
+      "extent": "11.349666595458984,50.937679290771484,11.349666595458984,50.937679290771484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDExMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.937679",
+        "long": "11.349667"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 19 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "11.349667,50.937679",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Habichtsfang Nord)"
+    },
+    {
+      "extent": "14.981977462768555,51.18958282470703,14.981977462768555,51.18958282470703",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.189583",
+        "long": "14.981977"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 72 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "14.981977,51.189583",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(An der Neiße Süd)"
+    },
+    {
+      "extent": "7.114890098571777,50.946800231933594,7.114890098571777,50.946800231933594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.946800",
+        "long": "7.114890"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.114890,50.946800",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lustheide)"
+    },
+    {
+      "extent": "7.552490234375,50.97105026245117,7.552490234375,50.97105026245117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE2OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.971050",
+        "long": "7.552490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "7.552490,50.971050",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Morkepütz (Nord))"
+    },
+    {
+      "extent": "13.838189125061035,51.17118835449219,13.838189125061035,51.17118835449219",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.171188",
+        "long": "13.838189"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 58 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "13.838189,51.171188",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Eichelberg S)"
+    },
+    {
+      "extent": "11.660300254821777,50.87668228149414,11.660300254821777,50.87668228149414",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDA3MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.876682",
+        "long": "11.660300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "11.660300,50.876682",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rodablick Nord)"
+    },
+    {
+      "extent": "9.880270004272461,50.90766143798828,9.880270004272461,50.90766143798828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQwMDAwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.907661",
+        "long": "9.880270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "9.880270,50.907661",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Seulingswald W)"
+    },
+    {
+      "extent": "6.022630214691162,50.82054901123047,6.022630214691162,50.82054901123047",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE0OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.820549",
+        "long": "6.022630"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "6.022630,50.820549",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vetschau (Süd))"
+    },
+    {
+      "extent": "14.06705379486084,51.16964340209961,14.06705379486084,51.16964340209961",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA1Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.169643",
+        "long": "14.067054"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 27 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "14.067054,51.169643",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rödertal N)"
+    },
+    {
+      "extent": "25.548166275024414,58.60021209716797,25.548166275024414,58.60021209716797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "58.600212",
+        "long": "25.548166"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "25.548166,58.600212",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rossauer Wald Nord)"
+    },
+    {
+      "extent": "14.86894702911377,51.21931076049805,14.86894702911377,51.21931076049805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDA2Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.219311",
+        "long": "14.868947"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "14.868947,51.219311",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wiesaer Forst S)"
+    },
+    {
+      "extent": "10.445751190185547,50.991851806640625,10.445751190185547,50.991851806640625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDIwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.991852",
+        "long": "10.445751"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "10.445751,50.991852",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Hainich Süd)"
+    },
+    {
+      "extent": "7.111929893493652,50.94615936279297,7.111929893493652,50.94615936279297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE1OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.946159",
+        "long": "7.111930"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.111930,50.946159",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lustheide)"
+    },
+    {
+      "extent": "11.716131210327148,50.874271392822266,11.716131210327148,50.874271392822266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDA3Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.874271",
+        "long": "11.716131"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 27 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "11.716131,50.874271",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rodablick Süd)"
+    },
+    {
+      "extent": "7.549930095672607,50.97100830078125,7.549930095672607,50.97100830078125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.971008",
+        "long": "7.549930"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "7.549930,50.971008",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Morkepütz (Süd))"
+    },
+    {
+      "extent": "11.1875581741333,50.947818756103516,11.1875581741333,50.947818756103516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDEyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.947819",
+        "long": "11.187558"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 93 ",
+        "LKW Stellplätze: 70 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "11.187558,50.947819",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-copy",
+          "description": "Kopierer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(TR Eichelborn Nord)"
+    },
+    {
+      "extent": "11.36147689819336,50.93776321411133,11.36147689819336,50.93776321411133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDExMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.937763",
+        "long": "11.361477"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "11.361477,50.937763",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Habichtsfang Süd)"
+    },
+    {
+      "extent": "24.42108154296875,58.54777526855469,24.42108154296875,58.54777526855469",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAwNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "58.547775",
+        "long": "24.421082"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "24.421082,58.547775",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Angerberg Nord)"
+    },
+    {
+      "extent": "24.416608810424805,58.548133850097656,24.416608810424805,58.548133850097656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAwOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "58.548134",
+        "long": "24.416609"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "24.416609,58.548134",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Angerberg Süd)"
+    },
+    {
+      "extent": "9.879380226135254,50.90618896484375,9.879380226135254,50.90618896484375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQwMDAwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.906189",
+        "long": "9.879380"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 4 | Richtung Görlitz",
+      "point": "9.879380,50.906189",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nadelöhr O)"
+    },
+    {
+      "extent": "12.6300687789917,50.823123931884766,12.6300687789917,50.823123931884766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAzOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.823124",
+        "long": "12.630069"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 21 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "12.630069,50.823124",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Oberwald)"
+    },
+    {
+      "extent": "10.43906021118164,50.99333572387695,10.43906021118164,50.99333572387695",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTAwNDIwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.993336",
+        "long": "10.439060"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 4 | Richtung Aachen",
+      "point": "10.439060,50.993336",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Hainich Nord)"
+    }
+  ]
+}

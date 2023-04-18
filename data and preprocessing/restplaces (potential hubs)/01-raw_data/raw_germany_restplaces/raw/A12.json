@@ -1,0 +1,242 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "14.46033000946045,52.32067108154297,14.46033000946045,52.32067108154297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NTIwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.320671",
+        "long": "14.460330"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [],
+      "title": "A 12 | Richtung Polen",
+      "point": "14.460330,52.320671",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zollhof)"
+    },
+    {
+      "extent": "13.946439743041992,52.31172180175781,13.946439743041992,52.31172180175781",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NDkwNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.311722",
+        "long": "13.946440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 12 | Richtung Polen",
+      "point": "13.946440,52.311722",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lebbiner Heide)"
+    },
+    {
+      "extent": "14.230119705200195,52.33660125732422,14.230119705200195,52.33660125732422",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NTEwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.336601",
+        "long": "14.230120"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 12 | Richtung AD Speeau",
+      "point": "14.230120,52.336601",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berliner Urstromtal)"
+    },
+    {
+      "extent": "14.395700454711914,52.32052993774414,14.395700454711914,52.32052993774414",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NTIwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.320530",
+        "long": "14.395700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 58 ",
+        "LKW Stellplätze: 59 "
+      ],
+      "title": "A 12 | Richtung AD Speeau",
+      "point": "14.395700,52.320530",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Biegener Hellen N)"
+    },
+    {
+      "extent": "13.958999633789062,52.311790466308594,13.958999633789062,52.311790466308594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NDkwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.311790",
+        "long": "13.959000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 12 | Richtung AD Speeau",
+      "point": "13.959000,52.311790",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Briesenluch)"
+    },
+    {
+      "extent": "14.213669776916504,52.33705139160156,14.213669776916504,52.33705139160156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NTEwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.337051",
+        "long": "14.213670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 12 | Richtung Polen",
+      "point": "14.213670,52.337051",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kersdorfer See)"
+    },
+    {
+      "extent": "14.378310203552246,52.32099151611328,14.378310203552246,52.32099151611328",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM2NTIwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.320992",
+        "long": "14.378310"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 86 ",
+        "LKW Stellplätze: 52 "
+      ],
+      "title": "A 12 | Richtung Polen",
+      "point": "14.378310,52.320992",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Biegener Hellen S)"
+    }
+  ]
+}
