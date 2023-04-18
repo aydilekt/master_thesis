@@ -2,8 +2,6 @@ import pandas as pd
 from pandas import DataFrame
 import json
 import codecs
-import googlemaps
-import random
 
 autobahn_file = pd.read_excel("Autobahn_info.xlsx")
 autobahn_list = autobahn_file.values.tolist()
