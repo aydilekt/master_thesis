@@ -1,0 +1,510 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "10.905377388000488,49.94343948364258,10.905377388000488,49.94343948364258",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.943439",
+        "long": "10.905377"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "10.905377,49.943439",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zückshuter Forst W)"
+    },
+    {
+      "extent": "11.060023307800293,49.75589370727539,11.060023307800293,49.75589370727539",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.755894",
+        "long": "11.060023"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "11.060023,49.755894",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Regnitztal O)"
+    },
+    {
+      "extent": "11.031742095947266,50.25145721435547,11.031742095947266,50.25145721435547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.251457",
+        "long": "11.031742"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "11.031742,50.251457",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Coburger Forst W)"
+    },
+    {
+      "extent": "10.949299812316895,50.02000045776367,10.949299812316895,50.02000045776367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI4OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.020000",
+        "long": "10.949300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "10.949300,50.020000",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zapfendorf W)"
+    },
+    {
+      "extent": "11.059599876403809,49.75054931640625,11.059599876403809,49.75054931640625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.750549",
+        "long": "11.059600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "11.059600,49.750549",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Regnitztal W)"
+    },
+    {
+      "extent": "10.730674743652344,50.55620574951172,10.730674743652344,50.55620574951172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTA3MzAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.556206",
+        "long": "10.730675"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "10.730675,50.556206",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Adlersberg West)"
+    },
+    {
+      "extent": "10.730308532714844,50.562843322753906,10.730308532714844,50.562843322753906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTA3MzAxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.562843",
+        "long": "10.730309"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "10.730309,50.562843",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Adlersberg Ost)"
+    },
+    {
+      "extent": "10.993246078491211,49.53378677368164,10.993246078491211,49.53378677368164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.533787",
+        "long": "10.993246"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "10.993246,49.533787",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gründlach O)"
+    },
+    {
+      "extent": "11.030701637268066,50.250667572021484,11.030701637268066,50.250667572021484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI4Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.250668",
+        "long": "11.030702"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "11.030702,50.250668",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Coburger Forst O)"
+    },
+    {
+      "extent": "10.991937637329102,49.53379440307617,10.991937637329102,49.53379440307617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.533794",
+        "long": "10.991938"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "10.991938,49.533794",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fuchswald W)"
+    },
+    {
+      "extent": "10.888608932495117,50.425472259521484,10.888608932495117,50.425472259521484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTA3MzAyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.425472",
+        "long": "10.888609"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "10.888609,50.425472",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Im Werratal Ost)"
+    },
+    {
+      "extent": "10.949299812316895,50.02000045776367,10.949299812316895,50.02000045776367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI4OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.020000",
+        "long": "10.949300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "10.949300,50.020000",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zapfendorf O)"
+    },
+    {
+      "extent": "10.8917818069458,50.41868591308594,10.8917818069458,50.41868591308594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVRILTA3MzAyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.418686",
+        "long": "10.891782"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "10.891782,50.418686",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(PWC Im Werratal West)"
+    },
+    {
+      "extent": "11.010899543762207,50.10409927368164,11.010899543762207,50.10409927368164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI4Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.104099",
+        "long": "11.010900"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [],
+      "title": "A 73 | Richtung Nürnberg",
+      "point": "11.010900,50.104099",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Staffelstein W)"
+    },
+    {
+      "extent": "10.90408992767334,49.94401931762695,10.90408992767334,49.94401931762695",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.944019",
+        "long": "10.904090"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 73 | Richtung Suhl",
+      "point": "10.904090,49.944019",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Zückshuter Forst O)"
+    }
+  ]
+}

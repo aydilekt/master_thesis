@@ -1,0 +1,102 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "8.967229843139648,47.83287048339844,8.967229843139648,47.83287048339844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA5ODYwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.832870",
+        "long": "8.967230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 98 | Richtung Kreuz Hegau",
+      "point": "8.967230,47.832870",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nellenburg-Nord)"
+    },
+    {
+      "extent": "8.954130172729492,47.829559326171875,8.954130172729492,47.829559326171875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA5ODEwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.829559",
+        "long": "8.954130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 98 | Richtung Stockach",
+      "point": "8.954130,47.829559",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nellenburg-Süd)"
+    },
+    {
+      "extent": "7.628530025482178,47.62910842895508,7.628530025482178,47.62910842895508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTA5ODAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.629108",
+        "long": "7.628530"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 98 | Richtung Kreuz Hegau",
+      "point": "7.628530,47.629108",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Luisenhof A98 AD Märkt-Schaffhausen)"
+    }
+  ]
+}

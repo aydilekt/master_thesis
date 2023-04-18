@@ -1,0 +1,603 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "7.641679763793945,51.37546920776367,7.641679763793945,51.37546920776367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.375469",
+        "long": "7.641680"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "7.641680,51.375469",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heimberg)"
+    },
+    {
+      "extent": "7.215710163116455,51.29668045043945,7.215710163116455,51.29668045043945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI5Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.296680",
+        "long": "7.215710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "7.215710,51.296680",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sternenberg Nord)"
+    },
+    {
+      "extent": "6.3636698722839355,51.10015869140625,6.3636698722839355,51.10015869140625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.100159",
+        "long": "6.363670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "6.363670,51.100159",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Herrather-Linde (Nord))"
+    },
+    {
+      "extent": "7.2124199867248535,51.295711517333984,7.2124199867248535,51.295711517333984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI5Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.295712",
+        "long": "7.212420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "7.212420,51.295712",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sternenberg Süd)"
+    },
+    {
+      "extent": "6.598330020904541,51.123451232910156,6.598330020904541,51.123451232910156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4Ng==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.123451",
+        "long": "6.598330"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 51 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "6.598330,51.123451",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vierwinden Süd)"
+    },
+    {
+      "extent": "6.606150150299072,51.131290435791016,6.606150150299072,51.131290435791016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.131290",
+        "long": "6.606150"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "6.606150,51.131290",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vierwinden Nord)"
+    },
+    {
+      "extent": "7.235459804534912,51.306800842285156,7.235459804534912,51.306800842285156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI5NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.306801",
+        "long": "7.235460"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 5 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "7.235460,51.306801",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Holtkamp)"
+    },
+    {
+      "extent": "8.034079551696777,51.43223190307617,8.034079551696777,51.43223190307617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.432232",
+        "long": "8.034080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "8.034080,51.432232",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bruchhauser Höhe)"
+    },
+    {
+      "extent": "7.643270015716553,51.375389099121094,7.643270015716553,51.375389099121094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.375389",
+        "long": "7.643270"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "7.643270,51.375389",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Leckerhorst)"
+    },
+    {
+      "extent": "6.359230041503906,51.09806823730469,6.359230041503906,51.09806823730469",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.098068",
+        "long": "6.359230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "6.359230,51.098068",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Herrather-Linde (Süd))"
+    },
+    {
+      "extent": "7.5909199714660645,51.36859130859375,7.5909199714660645,51.36859130859375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.368591",
+        "long": "7.590920"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "7.590920,51.368591",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pennacker)"
+    },
+    {
+      "extent": "7.019239902496338,51.206520080566406,7.019239902496338,51.206520080566406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI5MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.206520",
+        "long": "7.019240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 46 | Richtung Heinsberg",
+      "point": "7.019240,51.206520",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Stropmütze)"
+    },
+    {
+      "extent": "7.015530109405518,51.20528030395508,7.015530109405518,51.20528030395508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.205280",
+        "long": "7.015530"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "7.015530,51.205280",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höfgen)"
+    },
+    {
+      "extent": "8.041080474853516,51.431278228759766,8.041080474853516,51.431278228759766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDI4OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.431278",
+        "long": "8.041080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 46 | Richtung Brilon",
+      "point": "8.041080,51.431278",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wannetal)"
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "13.831600189208984,51.89070129394531,13.831600189208984,51.89070129394531",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQxNDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.890701",
+        "long": "13.831600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 150 ",
+        "LKW Stellplätze: 57 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.831600,51.890701",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rüblingsheide W)"
+    },
+    {
+      "extent": "13.799869537353516,51.90829086303711,13.799869537353516,51.90829086303711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQwNDgwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.908291",
+        "long": "13.799870"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 120 ",
+        "LKW Stellplätze: 44 "
+      ],
+      "title": "A 13 | Richtung Schönefelder Kreuz (A1 0/A 113)",
+      "point": "13.799870,51.908291",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berstetal O)"
+    },
+    {
+      "extent": "13.610549926757812,52.20539093017578,13.610549926757812,52.20539093017578",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM3NDcwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.205391",
+        "long": "13.610550"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 13 | Richtung Schönefelder Kreuz (A1 0/A 113)",
+      "point": "13.610550,52.205391",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Kahlberg O)"
+    },
+    {
+      "extent": "13.604669570922852,52.21232986450195,13.604669570922852,52.21232986450195",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTM3NDcwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.212330",
+        "long": "13.604670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.604670,52.212330",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Kahlberg W)"
+    },
+    {
+      "extent": "13.914770126342773,51.55508041381836,13.914770126342773,51.55508041381836",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQ0NDkwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.555080",
+        "long": "13.914770"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 46 ",
+        "LKW Stellplätze: 60 "
+      ],
+      "title": "A 13 | Richtung Schönefelder Kreuz (A1 0/A 113)",
+      "point": "13.914770,51.555080",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Freienhufener Eck O)"
+    },
+    {
+      "extent": "13.85653018951416,51.462608337402344,13.85653018951416,51.462608337402344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQ0NDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.462608",
+        "long": "13.856530"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.856530,51.462608",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Elsteraue)"
+    },
+    {
+      "extent": "13.898289680480957,51.70349884033203,13.898289680480957,51.70349884033203",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQyNDkwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.703499",
+        "long": "13.898290"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 2 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.898290,51.703499",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A13 km 80,292 Ri. Dresden)"
+    },
+    {
+      "extent": "13.931130409240723,51.574119567871094,13.931130409240723,51.574119567871094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQ0NDkwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.574120",
+        "long": "13.931130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 46 ",
+        "LKW Stellplätze: 60 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.931130,51.574120",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Freienhufener Eck W)"
+    },
+    {
+      "extent": "13.848939895629883,51.455291748046875,13.848939895629883,51.455291748046875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQ0NDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.455292",
+        "long": "13.848940"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 13 | Richtung Schönefelder Kreuz (A1 0/A 113)",
+      "point": "13.848940,51.455292",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ruhlander Heide)"
+    },
+    {
+      "extent": "13.723360061645508,51.99795913696289,13.723360061645508,51.99795913696289",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQwNDgwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.997959",
+        "long": "13.723360"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.723360,51.997959",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Bugkgraben)"
+    },
+    {
+      "extent": "13.901860237121582,51.693599700927734,13.901860237121582,51.693599700927734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQyNDkwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.693600",
+        "long": "13.901860"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [],
+      "title": "A 13 | Richtung Schönefelder Kreuz (A1 0/A 113)",
+      "point": "13.901860,51.693600",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A13 km 80,777 Ri. Schönefelder Kreuz)"
+    },
+    {
+      "extent": "13.727629661560059,51.99074935913086,13.727629661560059,51.99074935913086",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQwNDgwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.990749",
+        "long": "13.727630"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 13 | Richtung Schönefelder Kreuz (A1 0/A 113)",
+      "point": "13.727630,51.990749",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Krausnicker Berge)"
+    },
+    {
+      "extent": "13.89745044708252,51.81850814819336,13.89745044708252,51.81850814819336",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJCLTQxNDkwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.818508",
+        "long": "13.897450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 13 | Richtung Dresden",
+      "point": "13.897450,51.818508",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lichtenauer Seen)"
+    }
+  ]
+}

@@ -1,0 +1,4794 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "7.596879959106445,47.92145919799805,7.596879959106445,47.92145919799805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.921459",
+        "long": "7.596880"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.596880,47.921459",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Neustock)"
+    },
+    {
+      "extent": "8.693559646606445,50.354209899902344,8.693559646606445,50.354209899902344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.354210",
+        "long": "8.693560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 80 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.693560,50.354210",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wetterau O)"
+    },
+    {
+      "extent": "8.591910362243652,49.734439849853516,8.591910362243652,49.734439849853516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.734440",
+        "long": "8.591910"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.591910,49.734440",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nachtweide)"
+    },
+    {
+      "extent": "7.5973801612854,47.92258834838867,7.5973801612854,47.92258834838867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTE0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.922588",
+        "long": "7.597380"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.597380,47.922588",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sandbuck)"
+    },
+    {
+      "extent": "7.562349796295166,47.82802963256836,7.562349796295166,47.82802963256836",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.828030",
+        "long": "7.562350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.562350,47.828030",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Neuenburg-Ost)"
+    },
+    {
+      "extent": "8.12874984741211,48.75165939331055,8.12874984741211,48.75165939331055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.751659",
+        "long": "8.128750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 125 ",
+        "LKW Stellplätze: 120 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.128750,48.751659",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bühl O)"
+    },
+    {
+      "extent": "8.566720008850098,49.158058166503906,8.566720008850098,49.158058166503906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.158058",
+        "long": "8.566720"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 158 ",
+        "LKW Stellplätze: 80 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.566720,49.158058",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bruchsal O)"
+    },
+    {
+      "extent": "7.811820030212402,48.05205154418945,7.811820030212402,48.05205154418945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTEyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.052052",
+        "long": "7.811820"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.811820,48.052052",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schauinsland W)"
+    },
+    {
+      "extent": "7.552249908447266,47.74037170410156,7.552249908447266,47.74037170410156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTE2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.740372",
+        "long": "7.552250"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 75 ",
+        "LKW Stellplätze: 69 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.552250,47.740372",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bad Bellingen)"
+    },
+    {
+      "extent": "7.717559814453125,47.969451904296875,7.717559814453125,47.969451904296875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.969452",
+        "long": "7.717560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 147 ",
+        "LKW Stellplätze: 54 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.717560,47.969452",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Breisgau O)"
+    },
+    {
+      "extent": "7.790430068969727,48.305580139160156,7.790430068969727,48.305580139160156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.305580",
+        "long": "7.790430"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 68 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.790430,48.305580",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mahlberg O)"
+    },
+    {
+      "extent": "7.958079814910889,48.56489181518555,7.958079814910889,48.56489181518555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.564892",
+        "long": "7.958080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 96 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.958080,48.564892",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Renchtal W)"
+    },
+    {
+      "extent": "7.955820083618164,48.56053161621094,7.955820083618164,48.56053161621094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.560532",
+        "long": "7.955820"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 74 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.955820,48.560532",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Renchtal O)"
+    },
+    {
+      "extent": "9.362640380859375,50.76057052612305,9.362640380859375,50.76057052612305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.760571",
+        "long": "9.362640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "9.362640,50.760571",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berfa N)"
+    },
+    {
+      "extent": "8.287070274353027,48.88798141479492,8.287070274353027,48.88798141479492",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.887981",
+        "long": "8.287070"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.287070,48.887981",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schleifweg)"
+    },
+    {
+      "extent": "8.643320083618164,49.468509674072266,8.643320083618164,49.468509674072266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.468510",
+        "long": "8.643320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.643320,49.468510",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 569 Ri. Weil am Rhein)"
+    },
+    {
+      "extent": "8.966540336608887,50.64023971557617,8.966540336608887,50.64023971557617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.640240",
+        "long": "8.966540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.966540,50.640240",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Finkenwald)"
+    },
+    {
+      "extent": "8.602219581604004,49.698631286621094,8.602219581604004,49.698631286621094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.698631",
+        "long": "8.602220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.602220,49.698631",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Scheidweg)"
+    },
+    {
+      "extent": "8.618709564208984,49.62287902832031,8.618709564208984,49.62287902832031",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.622879",
+        "long": "8.618710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.618710,49.622879",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fuchsbuckel)"
+    },
+    {
+      "extent": "7.779049873352051,48.13179016113281,7.779049873352051,48.13179016113281",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.131790",
+        "long": "7.779050"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.779050,48.131790",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ferner)"
+    },
+    {
+      "extent": "8.606340408325195,49.66170883178711,8.606340408325195,49.66170883178711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.661709",
+        "long": "8.606340"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.606340,49.661709",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kälberpfad)"
+    },
+    {
+      "extent": "8.60398006439209,49.25944900512695,8.60398006439209,49.25944900512695",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.259449",
+        "long": "8.603980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.603980,49.259449",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mönchberg)"
+    },
+    {
+      "extent": "7.854420185089111,48.40167999267578,7.854420185089111,48.40167999267578",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.401680",
+        "long": "7.854420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.854420,48.401680",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schutter)"
+    },
+    {
+      "extent": "8.183060646057129,48.80910873413086,8.183060646057129,48.80910873413086",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.809109",
+        "long": "8.183061"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 166 ",
+        "LKW Stellplätze: 110 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.183061,48.809109",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Baden-Baden W)"
+    },
+    {
+      "extent": "8.62975025177002,49.32426834106445,8.62975025177002,49.32426834106445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.324268",
+        "long": "8.629750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.629750,49.324268",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 585,2 Ri. Weil am Rhein)"
+    },
+    {
+      "extent": "8.040740013122559,48.66263961791992,8.040740013122559,48.66263961791992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.662640",
+        "long": "8.040740"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 51 ",
+        "LKW Stellplätze: 38 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.040740,48.662640",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Feldmatt)"
+    },
+    {
+      "extent": "8.629839897155762,49.607261657714844,8.629839897155762,49.607261657714844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.607262",
+        "long": "8.629840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.629840,49.607262",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 553 Ri. Hattenbacher Dreieck)"
+    },
+    {
+      "extent": "8.645709991455078,49.46215057373047,8.645709991455078,49.46215057373047",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.462151",
+        "long": "8.645710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.645710,49.462151",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 569,4 Ri. Hattenbacher Dreieck)"
+    },
+    {
+      "extent": "7.538139820098877,47.78989028930664,7.538139820098877,47.78989028930664",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTE1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.789890",
+        "long": "7.538140"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.538140,47.789890",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Blauenblick)"
+    },
+    {
+      "extent": "7.563570022583008,47.831600189208984,7.563570022583008,47.831600189208984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTE1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.831600",
+        "long": "7.563570"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.563570,47.831600",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Neuenburg-West)"
+    },
+    {
+      "extent": "8.486350059509277,49.038238525390625,8.486350059509277,49.038238525390625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.038239",
+        "long": "8.486350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.486350,49.038239",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 619,3 O)"
+    },
+    {
+      "extent": "8.631219863891602,49.346519470214844,8.631219863891602,49.346519470214844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.346519",
+        "long": "8.631220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 79 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.631220,49.346519",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hardtwald O)"
+    },
+    {
+      "extent": "7.603970050811768,47.59286117553711,7.603970050811768,47.59286117553711",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.592861",
+        "long": "7.603970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 54 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.603970,47.592861",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Weil am Rhein O)"
+    },
+    {
+      "extent": "8.898019790649414,50.623939514160156,8.898019790649414,50.623939514160156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.623940",
+        "long": "8.898020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 84 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.898020,50.623940",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Reinhardshain N)"
+    },
+    {
+      "extent": "8.758179664611816,50.5224494934082,8.758179664611816,50.5224494934082",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.522449",
+        "long": "8.758180"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.758180,50.522449",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Limes W)"
+    },
+    {
+      "extent": "8.609210014343262,49.94908905029297,8.609210014343262,49.94908905029297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.949089",
+        "long": "8.609210"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 63 ",
+        "LKW Stellplätze: 65 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.609210,49.949089",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gräfenhausen W)"
+    },
+    {
+      "extent": "7.7988600730896,48.08658981323242,7.7988600730896,48.08658981323242",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTEyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.086590",
+        "long": "7.798860"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.798860,48.086590",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Glotter)"
+    },
+    {
+      "extent": "7.789150238037109,48.334110260009766,7.789150238037109,48.334110260009766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYwMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.334110",
+        "long": "7.789150"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.789150,48.334110",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Limbruck)"
+    },
+    {
+      "extent": "7.74560022354126,48.20248031616211,7.74560022354126,48.20248031616211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTEwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.202480",
+        "long": "7.745600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.745600,48.202480",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kreuzfeld)"
+    },
+    {
+      "extent": "8.603879928588867,49.97343826293945,8.603879928588867,49.97343826293945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.973438",
+        "long": "8.603880"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.603880,49.973438",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bornbruch Ost)"
+    },
+    {
+      "extent": "7.8860602378845215,48.42536926269531,7.8860602378845215,48.42536926269531",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.425369",
+        "long": "7.886060"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.886060,48.425369",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höfen)"
+    },
+    {
+      "extent": "8.63131046295166,49.35353088378906,8.63131046295166,49.35353088378906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.353531",
+        "long": "8.631310"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 74 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.631310,49.353531",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hardtwald W)"
+    },
+    {
+      "extent": "7.802929878234863,48.36722183227539,7.802929878234863,48.36722183227539",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA5NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.367222",
+        "long": "7.802930"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.802930,48.367222",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kürzell)"
+    },
+    {
+      "extent": "8.12460994720459,48.747928619384766,8.12460994720459,48.747928619384766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.747929",
+        "long": "8.124610"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 52 ",
+        "LKW Stellplätze: 39 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.124610,48.747929",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Oberfeld)"
+    },
+    {
+      "extent": "7.526609897613525,47.70827102661133,7.526609897613525,47.70827102661133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTE2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.708271",
+        "long": "7.526610"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.526610,47.708271",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fischergrund)"
+    },
+    {
+      "extent": "8.62992000579834,49.32204055786133,8.62992000579834,49.32204055786133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.322041",
+        "long": "8.629920"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.629920,49.322041",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 585,4 Ri. Hattenbacher Dreieck)"
+    },
+    {
+      "extent": "8.591790199279785,49.19926834106445,8.591790199279785,49.19926834106445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.199268",
+        "long": "8.591790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.591790,49.199268",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 599,7 Ri. Weil am Rhein)"
+    },
+    {
+      "extent": "8.542539596557617,49.104671478271484,8.542539596557617,49.104671478271484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.104671",
+        "long": "8.542540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.542540,49.104671",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 611 W)"
+    },
+    {
+      "extent": "8.591190338134766,49.19776916503906,8.591190338134766,49.19776916503906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.197769",
+        "long": "8.591190"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.591190,49.197769",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 599,8 Ri. Hattenbacher Dreieck)"
+    },
+    {
+      "extent": "7.784359931945801,48.122318267822266,7.784359931945801,48.122318267822266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTExNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.122318",
+        "long": "7.784360"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.784360,48.122318",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berschig)"
+    },
+    {
+      "extent": "7.906519889831543,48.50400924682617,7.906519889831543,48.50400924682617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.504009",
+        "long": "7.906520"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 21 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.906520,48.504009",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Waldmatten)"
+    },
+    {
+      "extent": "7.7459797859191895,48.1981086730957,7.7459797859191895,48.1981086730957",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.198109",
+        "long": "7.745980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.745980,48.198109",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Erlenspitz)"
+    },
+    {
+      "extent": "7.923960208892822,48.52545166015625,7.923960208892822,48.52545166015625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.525452",
+        "long": "7.923960"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.923960,48.525452",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gottswald)"
+    },
+    {
+      "extent": "8.570540428161621,49.16505813598633,8.570540428161621,49.16505813598633",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.165058",
+        "long": "8.570540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 153 ",
+        "LKW Stellplätze: 53 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.570540,49.165058",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bruchsal W)"
+    },
+    {
+      "extent": "8.508819580078125,49.07080841064453,8.508819580078125,49.07080841064453",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.070808",
+        "long": "8.508820"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.508820,49.070808",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kreuzlach W)"
+    },
+    {
+      "extent": "8.607640266418457,49.90821075439453,8.607640266418457,49.90821075439453",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.908211",
+        "long": "8.607640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.607640,49.908211",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brühlgraben)"
+    },
+    {
+      "extent": "8.631560325622559,49.535179138183594,8.631560325622559,49.535179138183594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.535179",
+        "long": "8.631560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.631560,49.535179",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fliegwiese)"
+    },
+    {
+      "extent": "7.790440082550049,48.312461853027344,7.790440082550049,48.312461853027344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTEwMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.312462",
+        "long": "7.790440"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 90 ",
+        "LKW Stellplätze: 64 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.790440,48.312462",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mahlberg W)"
+    },
+    {
+      "extent": "9.497320175170898,50.800079345703125,9.497320175170898,50.800079345703125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.800079",
+        "long": "9.497320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "9.497320,50.800079",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Barnholz)"
+    },
+    {
+      "extent": "7.802110195159912,48.36616897583008,7.802110195159912,48.36616897583008",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU5NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.366169",
+        "long": "7.802110"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.802110,48.366169",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gerstenmatt)"
+    },
+    {
+      "extent": "8.96284008026123,50.639808654785156,8.96284008026123,50.639808654785156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.639809",
+        "long": "8.962840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.962840,50.639809",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hegberg)"
+    },
+    {
+      "extent": "8.635129928588867,49.527618408203125,8.635129928588867,49.527618408203125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.527618",
+        "long": "8.635130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.635130,49.527618",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wachenburg)"
+    },
+    {
+      "extent": "7.593420028686523,47.61143112182617,7.593420028686523,47.61143112182617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.611431",
+        "long": "7.593420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.593420,47.611431",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Krebsbach)"
+    },
+    {
+      "extent": "8.541489601135254,49.10282897949219,8.541489601135254,49.10282897949219",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.102829",
+        "long": "8.541490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.541490,49.102829",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 611 O)"
+    },
+    {
+      "extent": "8.60571002960205,49.769168853759766,8.60571002960205,49.769168853759766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.769169",
+        "long": "8.605710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.605710,49.769169",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Erlensee)"
+    },
+    {
+      "extent": "8.633950233459473,49.585548400878906,8.633950233459473,49.585548400878906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.585548",
+        "long": "8.633950"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.633950,49.585548",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A5 km 555,8 Ri. Weil am Rhein)"
+    },
+    {
+      "extent": "7.640989780426025,47.94596862792969,7.640989780426025,47.94596862792969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTEzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.945969",
+        "long": "7.640990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.640990,47.945969",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hardt)"
+    },
+    {
+      "extent": "7.752299785614014,48.16973876953125,7.752299785614014,48.16973876953125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.169739",
+        "long": "7.752300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.752300,48.169739",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ziegelei)"
+    },
+    {
+      "extent": "8.03402042388916,48.65354919433594,8.03402042388916,48.65354919433594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.653549",
+        "long": "8.034020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 37 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.034020,48.653549",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brachfeld)"
+    },
+    {
+      "extent": "7.857560157775879,48.40361022949219,7.857560157775879,48.40361022949219",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA5MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.403610",
+        "long": "7.857560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.857560,48.403610",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Unditz)"
+    },
+    {
+      "extent": "7.795750141143799,48.0924186706543,7.795750141143799,48.0924186706543",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.092419",
+        "long": "7.795750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.795750,48.092419",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hölzle)"
+    },
+    {
+      "extent": "7.744870185852051,47.988338470458984,7.744870185852051,47.988338470458984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTYzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.988338",
+        "long": "7.744870"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.744870,47.988338",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schlatthof)"
+    },
+    {
+      "extent": "7.745560169219971,47.98939895629883,7.745560169219971,47.98939895629883",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTEzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.989399",
+        "long": "7.745560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.745560,47.989399",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Moos)"
+    },
+    {
+      "extent": "7.537970066070557,47.78873825073242,7.537970066070557,47.78873825073242",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.788738",
+        "long": "7.537970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.537970,47.788738",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Weidengrien)"
+    },
+    {
+      "extent": "9.445779800415039,50.790950775146484,9.445779800415039,50.790950775146484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.790951",
+        "long": "9.445780"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 17 ",
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "9.445780,50.790951",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Frohnkreuz)"
+    },
+    {
+      "extent": "9.115790367126465,50.71561050415039,9.115790367126465,50.71561050415039",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.715611",
+        "long": "9.115790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "9.115790,50.715611",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Dottenberg)"
+    },
+    {
+      "extent": "8.602849960327148,49.97570037841797,8.602849960327148,49.97570037841797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.975700",
+        "long": "8.602850"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 11 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.602850,49.975700",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bornbruch West)"
+    },
+    {
+      "extent": "7.651710033416748,47.94831085205078,7.651710033416748,47.94831085205078",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.948311",
+        "long": "7.651710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.651710,47.948311",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Seltenbach)"
+    },
+    {
+      "extent": "7.885379791259766,48.42430114746094,7.885379791259766,48.42430114746094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.424301",
+        "long": "7.885380"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.885380,48.424301",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Korb)"
+    },
+    {
+      "extent": "8.663060188293457,50.25202178955078,8.663060188293457,50.25202178955078",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.252022",
+        "long": "8.663060"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.663060,50.252022",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schäferborn)"
+    },
+    {
+      "extent": "8.601690292358398,49.25537109375,8.601690292358398,49.25537109375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTUzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.255371",
+        "long": "8.601690"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 41 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.601690,49.255371",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lußhardt)"
+    },
+    {
+      "extent": "7.569620132446289,47.87437057495117,7.569620132446289,47.87437057495117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTE0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.874371",
+        "long": "7.569620"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.569620,47.874371",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Streitkopf)"
+    },
+    {
+      "extent": "8.508259773254395,49.06943130493164,8.508259773254395,49.06943130493164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTU1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.069431",
+        "long": "8.508260"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 25 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.508260,49.069431",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höfenschlag O)"
+    },
+    {
+      "extent": "8.291449546813965,48.889461517333984,8.291449546813965,48.889461517333984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTA1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.889462",
+        "long": "8.291450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.291450,48.889462",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Silbergrund)"
+    },
+    {
+      "extent": "8.619009971618652,49.79214859008789,8.619009971618652,49.79214859008789",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.792149",
+        "long": "8.619010"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 13 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.619010,49.792149",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rolandshöhe)"
+    },
+    {
+      "extent": "9.237930297851562,50.73411178588867,9.237930297851562,50.73411178588867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.734112",
+        "long": "9.237930"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 66 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "9.237930,50.734112",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pfefferhöhe S)"
+    },
+    {
+      "extent": "8.755840301513672,50.51969909667969,8.755840301513672,50.51969909667969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.519699",
+        "long": "8.755840"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.755840,50.519699",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Limes O)"
+    },
+    {
+      "extent": "8.607789993286133,49.906471252441406,8.607789993286133,49.906471252441406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.906471",
+        "long": "8.607790"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.607790,49.906471",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Täubcheshöhle)"
+    },
+    {
+      "extent": "7.5694499015808105,47.8731803894043,7.5694499015808105,47.8731803894043",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.873180",
+        "long": "7.569450"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.569450,47.873180",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Köpfle)"
+    },
+    {
+      "extent": "7.551670074462891,47.744258880615234,7.551670074462891,47.744258880615234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTY2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.744259",
+        "long": "7.551670"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "7.551670,47.744259",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Galgenloch)"
+    },
+    {
+      "extent": "8.597539901733398,50.0,8.597539901733398,50.0",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.000000",
+        "long": "8.597540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 60 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.597540,50.000000",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kaiserstein)"
+    },
+    {
+      "extent": "7.751619815826416,48.170738220214844,7.751619815826416,48.170738220214844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwNTExMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.170738",
+        "long": "7.751620"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "7.751620,48.170738",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Elz)"
+    },
+    {
+      "extent": "8.59607982635498,50.00407028198242,8.59607982635498,50.00407028198242",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.004070",
+        "long": "8.596080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 55 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.596080,50.004070",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steingrund)"
+    },
+    {
+      "extent": "9.348489761352539,50.756710052490234,9.348489761352539,50.756710052490234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.756710",
+        "long": "9.348490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "9.348490,50.756710",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Eifa)"
+    },
+    {
+      "extent": "9.103779792785645,50.71455001831055,9.103779792785645,50.71455001831055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.714550",
+        "long": "9.103780"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "9.103780,50.714550",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Krachgarten)"
+    },
+    {
+      "extent": "8.610870361328125,49.94417953491211,8.610870361328125,49.94417953491211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.944180",
+        "long": "8.610870"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 72 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.610870,49.944180",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gräfenhausen O)"
+    },
+    {
+      "extent": "8.66254997253418,50.254539489746094,8.66254997253418,50.254539489746094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.254539",
+        "long": "8.662550"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.662550,50.254539",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Spießwald)"
+    },
+    {
+      "extent": "9.478500366210938,50.7949104309082,9.478500366210938,50.7949104309082",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.794910",
+        "long": "9.478500"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 66 ",
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "9.478500,50.794910",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rimberg W)"
+    },
+    {
+      "extent": "8.695599555969238,50.358760833740234,8.695599555969238,50.358760833740234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.358761",
+        "long": "8.695600"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 81 ",
+        "LKW Stellplätze: 53 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.695600,50.358761",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wetterau W)"
+    },
+    {
+      "extent": "8.602660179138184,50.15671157836914,8.602660179138184,50.15671157836914",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.156712",
+        "long": "8.602660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 74 ",
+        "LKW Stellplätze: 69 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.602660,50.156712",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Taunusblick)"
+    },
+    {
+      "extent": "8.893630027770996,50.6220588684082,8.893630027770996,50.6220588684082",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAxMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.622059",
+        "long": "8.893630"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.893630,50.622059",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Reinhardshain S)"
+    },
+    {
+      "extent": "8.602190017700195,49.68783187866211,8.602190017700195,49.68783187866211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.687832",
+        "long": "8.602190"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 53 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 5 | Richtung Hattenbacher Dreieck",
+      "point": "8.602190,49.687832",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bergstraße O)"
+    },
+    {
+      "extent": "8.592700004577637,49.74884033203125,8.592700004577637,49.74884033203125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTUwMDAzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.748840",
+        "long": "8.592700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 56 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 5 | Richtung Weil am Rhein",
+      "point": "8.592700,49.748840",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-docstop",
+          "description": "Docstop",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Alsbach W)"
+    }
+  ]
+}

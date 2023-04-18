@@ -1,0 +1,334 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "11.472749710083008,50.032264709472656,11.472749710083008,50.032264709472656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.032265",
+        "long": "11.472750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 70 | Richtung Schweinfurt",
+      "point": "11.472750,50.032265",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rotmaintal N)"
+    },
+    {
+      "extent": "10.981380462646484,49.95631408691406,10.981380462646484,49.95631408691406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.956314",
+        "long": "10.981380"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 70 | Richtung Bayreuth",
+      "point": "10.981380,49.956314",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Giechburgblick S)"
+    },
+    {
+      "extent": "10.42039680480957,50.00352096557617,10.42039680480957,50.00352096557617",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI2OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.003521",
+        "long": "10.420397"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 70 | Richtung Schweinfurt",
+      "point": "10.420397,50.003521",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinsäcker N)"
+    },
+    {
+      "extent": "10.981155395507812,49.95424270629883,10.981155395507812,49.95424270629883",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.954243",
+        "long": "10.981155"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 70 | Richtung Schweinfurt",
+      "point": "10.981155,49.954243",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Giechburgblick N)"
+    },
+    {
+      "extent": "11.472182273864746,50.03315353393555,11.472182273864746,50.03315353393555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.033154",
+        "long": "11.472182"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 70 | Richtung Bayreuth",
+      "point": "11.472182,50.033154",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rotmaintal S)"
+    },
+    {
+      "extent": "10.421162605285645,50.002498626708984,10.421162605285645,50.002498626708984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI2Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.002499",
+        "long": "10.421163"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 70 | Richtung Bayreuth",
+      "point": "10.421163,50.002499",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinsäcker S)"
+    },
+    {
+      "extent": "10.61641788482666,49.97779846191406,10.61641788482666,49.97779846191406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.977798",
+        "long": "10.616418"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 70 | Richtung Schweinfurt",
+      "point": "10.616418,49.977798",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Spitzberg N)"
+    },
+    {
+      "extent": "10.609979629516602,49.97520446777344,10.609979629516602,49.97520446777344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.975204",
+        "long": "10.609980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 70 | Richtung Bayreuth",
+      "point": "10.609980,49.975204",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Spitzberg S)"
+    },
+    {
+      "extent": "11.16607666015625,49.99369812011719,11.16607666015625,49.99369812011719",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.993698",
+        "long": "11.166077"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 39 "
+      ],
+      "title": "A 70 | Richtung Schweinfurt",
+      "point": "11.166077,49.993698",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Paradiestal N)"
+    },
+    {
+      "extent": "11.166560173034668,49.994319915771484,11.166560173034668,49.994319915771484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI3NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.994320",
+        "long": "11.166560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 70 | Richtung Bayreuth",
+      "point": "11.166560,49.994320",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Paradiestal S)"
+    }
+  ]
+}

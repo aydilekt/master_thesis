@@ -1,0 +1,414 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "8.223979949951172,53.04943084716797,8.223979949951172,53.04943084716797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI5MTUwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.049431",
+        "long": "8.223980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 29 | Richtung Ahlhorner Heide",
+      "point": "8.223980,53.049431",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Huntetal W)"
+    },
+    {
+      "extent": "8.148659706115723,53.290531158447266,8.148659706115723,53.290531158447266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI3MTQwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.290531",
+        "long": "8.148660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 29 | Richtung Wilhelmshaven",
+      "point": "8.148660,53.290531",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bekhauser Büsche O)"
+    },
+    {
+      "extent": "8.218000411987305,53.03691864013672,8.218000411987305,53.03691864013672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI5MTUwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.036919",
+        "long": "8.218000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 29 | Richtung Wilhelmshaven",
+      "point": "8.218000,53.036919",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Huntetal O)"
+    },
+    {
+      "extent": "8.164620399475098,52.90924835205078,8.164620399475098,52.90924835205078",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMwMTUwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.909248",
+        "long": "8.164620"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 17 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 29 | Richtung Wilhelmshaven",
+      "point": "8.164620,52.909248",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ahlhorn O)"
+    },
+    {
+      "extent": "8.145549774169922,53.30205154418945,8.145549774169922,53.30205154418945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI3MTQwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.302052",
+        "long": "8.145550"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 29 | Richtung Ahlhorner Heide",
+      "point": "8.145550,53.302052",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bekhauser Büsche W)"
+    },
+    {
+      "extent": "8.257349967956543,53.18798065185547,8.257349967956543,53.18798065185547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI4MTUwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.187981",
+        "long": "8.257350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 32 "
+      ],
+      "title": "A 29 | Richtung Ahlhorner Heide",
+      "point": "8.257350,53.187981",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bornhorster Wiesen West)"
+    },
+    {
+      "extent": "8.264559745788574,53.179168701171875,8.264559745788574,53.179168701171875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI4MTUwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.179169",
+        "long": "8.264560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 32 "
+      ],
+      "title": "A 29 | Richtung Wilhelmshaven",
+      "point": "8.264560,53.179169",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bornhorster Wiesen O (NI 153 O))"
+    },
+    {
+      "extent": "8.168069839477539,52.917991638183594,8.168069839477539,52.917991638183594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTMwMTUwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "52.917992",
+        "long": "8.168070"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 29 | Richtung Ahlhorner Heide",
+      "point": "8.168070,52.917992",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ahlhorn W)"
+    },
+    {
+      "extent": "8.113249778747559,53.389198303222656,8.113249778747559,53.389198303222656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI2MTQwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.389198",
+        "long": "8.113250"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 29 | Richtung Ahlhorner Heide",
+      "point": "8.113250,53.389198",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vareler Wald W)"
+    },
+    {
+      "extent": "8.11553955078125,53.386878967285156,8.11553955078125,53.386878967285156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5JLTI2MTQwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "53.386879",
+        "long": "8.115540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 12 ",
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 29 | Richtung Wilhelmshaven",
+      "point": "8.115540,53.386879",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vareler Wald O)"
+    }
+  ]
+}

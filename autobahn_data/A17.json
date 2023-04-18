@@ -1,0 +1,88 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "13.887299537658691,50.82051086425781,13.887299537658691,50.82051086425781",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.820511",
+        "long": "13.887300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 17 | Richtung Prag",
+      "point": "13.887300,50.820511",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Heidenholz Ost)"
+    },
+    {
+      "extent": "13.743204116821289,51.00331115722656,13.743204116821289,51.00331115722656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.003311",
+        "long": "13.743204"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 27 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 17 | Richtung Prag",
+      "point": "13.743204,51.003311",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Nöthnitzgrund West)"
+    },
+    {
+      "extent": "13.746378898620605,51.001461029052734,13.746378898620605,51.001461029052734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNOLTAwMDAxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.001461",
+        "long": "13.746379"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 17 | Richtung Dresden",
+      "point": "13.746379,51.001461",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Nöthnitzgrund Ost)"
+    }
+  ]
+}

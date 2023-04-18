@@ -1,0 +1,1078 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "12.024587631225586,50.32500457763672,12.024587631225586,50.32500457763672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.325005",
+        "long": "12.024588"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.024588,50.325005",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bärenholz O)"
+    },
+    {
+      "extent": "12.172800064086914,49.838199615478516,12.172800064086914,49.838199615478516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.838200",
+        "long": "12.172800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 101 ",
+        "LKW Stellplätze: 69 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.172800,49.838200",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Waldnaabtal W)"
+    },
+    {
+      "extent": "12.09302043914795,48.95933151245117,12.09302043914795,48.95933151245117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.959332",
+        "long": "12.093020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.093020,48.959332",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pentling O)"
+    },
+    {
+      "extent": "12.118518829345703,50.02866744995117,12.118518829345703,50.02866744995117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.028667",
+        "long": "12.118519"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.118519,50.028667",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Peuntbach W)"
+    },
+    {
+      "extent": "12.132800102233887,47.73173141479492,12.132800102233887,47.73173141479492",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.731731",
+        "long": "12.132800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.132800,47.731731",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [],
+      "future": false,
+      "subtitle": "(Heuberg)"
+    },
+    {
+      "extent": "12.140984535217285,49.28803253173828,12.140984535217285,49.28803253173828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.288033",
+        "long": "12.140985"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.140985,49.288033",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hirtlohe W)"
+    },
+    {
+      "extent": "12.16349983215332,49.78245162963867,12.16349983215332,49.78245162963867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.782452",
+        "long": "12.163500"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.163500,49.782452",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Scherreuth W)"
+    },
+    {
+      "extent": "11.855876922607422,48.73875045776367,11.855876922607422,48.73875045776367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0Mw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.738750",
+        "long": "11.855877"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "11.855877,48.738750",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Deutschmeister W)"
+    },
+    {
+      "extent": "11.854879379272461,48.739654541015625,11.854879379272461,48.739654541015625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.739655",
+        "long": "11.854879"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 24 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "11.854879,48.739655",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Deutschmeister O)"
+    },
+    {
+      "extent": "12.15939998626709,47.70130157470703,12.15939998626709,47.70130157470703",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.701302",
+        "long": "12.159400"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.159400,47.701302",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kirnstein (geschlossen) W)"
+    },
+    {
+      "extent": "12.150750160217285,49.34775161743164,12.150750160217285,49.34775161743164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.347752",
+        "long": "12.150750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.150750,49.347752",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Freihöls O)"
+    },
+    {
+      "extent": "12.152050018310547,49.368499755859375,12.152050018310547,49.368499755859375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.368500",
+        "long": "12.152050"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.152050,49.368500",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lindenloh W)"
+    },
+    {
+      "extent": "12.121641159057617,49.57053756713867,12.121641159057617,49.57053756713867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.570538",
+        "long": "12.121641"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.121641,49.570538",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Grünau W)"
+    },
+    {
+      "extent": "12.123625755310059,49.57154083251953,12.123625755310059,49.57154083251953",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.571541",
+        "long": "12.123626"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.123626,49.571541",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Grünau O)"
+    },
+    {
+      "extent": "12.142293930053711,49.287689208984375,12.142293930053711,49.287689208984375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.287689",
+        "long": "12.142294"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.142294,49.287689",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hirtlohe O)"
+    },
+    {
+      "extent": "12.199350357055664,47.608978271484375,12.199350357055664,47.608978271484375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.608978",
+        "long": "12.199350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 54 ",
+        "LKW Stellplätze: 60 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.199350,47.608978",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Inntal (Ost) O)"
+    },
+    {
+      "extent": "12.09885025024414,49.07619857788086,12.09885025024414,49.07619857788086",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.076199",
+        "long": "12.098850"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.098850,49.076199",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Benhof W)"
+    },
+    {
+      "extent": "11.976550102233887,48.83395004272461,11.976550102233887,48.83395004272461",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0MQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.833950",
+        "long": "11.976550"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "11.976550,48.833950",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Großmuß W)"
+    },
+    {
+      "extent": "11.976550102233887,48.83395004272461,11.976550102233887,48.83395004272461",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQ0Mg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.833950",
+        "long": "11.976550"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "11.976550,48.833950",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Großmuß O)"
+    },
+    {
+      "extent": "12.11754322052002,50.027488708496094,12.11754322052002,50.027488708496094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.027489",
+        "long": "12.117543"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.117543,50.027489",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Peuntbach O)"
+    },
+    {
+      "extent": "12.092559814453125,47.78158187866211,12.092559814453125,47.78158187866211",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQwNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.781582",
+        "long": "12.092560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.092560,47.781582",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Nickelheim O)"
+    },
+    {
+      "extent": "12.130770683288574,47.732791900634766,12.130770683288574,47.732791900634766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.732792",
+        "long": "12.130771"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.130771,47.732792",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Petersberg)"
+    },
+    {
+      "extent": "12.097999572753906,49.088748931884766,12.097999572753906,49.088748931884766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.088749",
+        "long": "12.098000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.098000,49.088749",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Regendorf O)"
+    },
+    {
+      "extent": "12.172800064086914,49.838199615478516,12.172800064086914,49.838199615478516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.838200",
+        "long": "12.172800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 115 ",
+        "LKW Stellplätze: 68 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.172800,49.838200",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Waldnaabtal O)"
+    },
+    {
+      "extent": "12.152250289916992,49.3296012878418,12.152250289916992,49.3296012878418",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.329601",
+        "long": "12.152250"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.152250,49.329601",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kronstetten W)"
+    },
+    {
+      "extent": "12.116049766540527,49.17129898071289,12.116049766540527,49.17129898071289",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.171299",
+        "long": "12.116050"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.116050,49.171299",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Haberhof O)"
+    },
+    {
+      "extent": "12.150349617004395,47.71120071411133,12.150349617004395,47.71120071411133",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.711201",
+        "long": "12.150350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.150350,47.711201",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gletschergarten W)"
+    },
+    {
+      "extent": "12.164799690246582,47.68370056152344,12.164799690246582,47.68370056152344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.683701",
+        "long": "12.164800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.164800,47.683701",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wildbarren W)"
+    },
+    {
+      "extent": "12.116700172424316,49.1739501953125,12.116700172424316,49.1739501953125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQzNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.173950",
+        "long": "12.116700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.116700,49.173950",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Haberhof W)"
+    },
+    {
+      "extent": "12.165149688720703,47.68484878540039,12.165149688720703,47.68484878540039",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.684849",
+        "long": "12.165150"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.165150,47.684849",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kranzhorn O)"
+    },
+    {
+      "extent": "12.16349983215332,49.781349182128906,12.16349983215332,49.781349182128906",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.781349",
+        "long": "12.163500"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 93 | Richtung Hof",
+      "point": "12.163500,49.781349",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Angerholz O)"
+    },
+    {
+      "extent": "12.022302627563477,50.322914123535156,12.022302627563477,50.322914123535156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.322914",
+        "long": "12.022303"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 22 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.022303,50.322914",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bärenholz W)"
+    },
+    {
+      "extent": "12.199350357055664,47.608978271484375,12.199350357055664,47.608978271484375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDQxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.608978",
+        "long": "12.199350"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 58 ",
+        "LKW Stellplätze: 93 "
+      ],
+      "title": "A 93 | Richtung Kiefersfelden",
+      "point": "12.199350,47.608978",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Inntal (West) W)"
+    }
+  ]
+}

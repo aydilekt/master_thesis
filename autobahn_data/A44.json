@@ -1,0 +1,2153 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "6.176760196685791,50.78229904174805,6.176760196685791,50.78229904174805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.782299",
+        "long": "6.176760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "6.176760,50.782299",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Tunnel)"
+    },
+    {
+      "extent": "6.114180088043213,50.715248107910156,6.114180088043213,50.715248107910156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.715248",
+        "long": "6.114180"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "6.114180,50.715248",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lichtenbusch Süd)"
+    },
+    {
+      "extent": "6.339700222015381,50.932430267333984,6.339700222015381,50.932430267333984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.932430",
+        "long": "6.339700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 51 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "6.339700,50.932430",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ruraue West)"
+    },
+    {
+      "extent": "8.374710083007812,51.58671951293945,8.374710083007812,51.58671951293945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.586720",
+        "long": "8.374710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.374710,51.586720",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berge)"
+    },
+    {
+      "extent": "6.425769805908203,51.01667022705078,6.425769805908203,51.01667022705078",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.016670",
+        "long": "6.425770"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "6.425770,51.016670",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Königstal)"
+    },
+    {
+      "extent": "8.13070011138916,51.54726028442383,8.13070011138916,51.54726028442383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.547260",
+        "long": "8.130700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 33 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.130700,51.547260",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Soester Börde Süd)"
+    },
+    {
+      "extent": "8.645139694213867,51.5884895324707,8.645139694213867,51.5884895324707",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.588490",
+        "long": "8.645140"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.645140,51.588490",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wewelsburg)"
+    },
+    {
+      "extent": "6.5797200202941895,51.285728454589844,6.5797200202941895,51.285728454589844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.285728",
+        "long": "6.579720"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 54 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "6.579720,51.285728",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hoxhöfe (Süd))"
+    },
+    {
+      "extent": "6.586420059204102,51.28567123413086,6.586420059204102,51.28567123413086",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.285671",
+        "long": "6.586420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 46 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "6.586420,51.285671",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hoxhöfe (Nord))"
+    },
+    {
+      "extent": "8.568249702453613,51.59701919555664,8.568249702453613,51.59701919555664",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.597019",
+        "long": "8.568250"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.568250,51.597019",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinhausen)"
+    },
+    {
+      "extent": "7.858019828796387,51.53300857543945,7.858019828796387,51.53300857543945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.533009",
+        "long": "7.858020"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 24 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "7.858020,51.533009",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Haarstrang Süd)"
+    },
+    {
+      "extent": "8.98213005065918,51.50040054321289,8.98213005065918,51.50040054321289",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.500401",
+        "long": "8.982130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.982130,51.500401",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Biggenkopf S)"
+    },
+    {
+      "extent": "8.989230155944824,51.49692916870117,8.989230155944824,51.49692916870117",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.496929",
+        "long": "8.989230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "8.989230,51.496929",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Biggenkopf N)"
+    },
+    {
+      "extent": "9.233770370483398,51.38249969482422,9.233770370483398,51.38249969482422",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.382500",
+        "long": "9.233770"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 71 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.233770,51.382500",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bühleck S)"
+    },
+    {
+      "extent": "7.793590068817139,51.5252685546875,7.793590068817139,51.5252685546875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIzMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.525269",
+        "long": "7.793590"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 14 ",
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "7.793590,51.525269",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Grüntal (Nord))"
+    },
+    {
+      "extent": "8.13595962524414,51.54882049560547,8.13595962524414,51.54882049560547",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.548820",
+        "long": "8.135960"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.135960,51.548820",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Soester Börde Nord)"
+    },
+    {
+      "extent": "7.866079807281494,51.53287124633789,7.866079807281494,51.53287124633789",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.532871",
+        "long": "7.866080"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 40 ",
+        "LKW Stellplätze: 30 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "7.866080,51.532871",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Haarstrang Nord)"
+    },
+    {
+      "extent": "6.122960090637207,50.71965026855469,6.122960090637207,50.71965026855469",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.719650",
+        "long": "6.122960"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 26 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "6.122960,50.719650",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lichtenbusch (Nord))"
+    },
+    {
+      "extent": "9.414979934692383,51.2728385925293,9.414979934692383,51.2728385925293",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.272839",
+        "long": "9.414980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 47 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.414980,51.272839",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Baunsberg S)"
+    },
+    {
+      "extent": "9.252389907836914,51.38140869140625,9.252389907836914,51.38140869140625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.381409",
+        "long": "9.252390"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 92 ",
+        "LKW Stellplätze: 77 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.252390,51.381409",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bühleck N)"
+    },
+    {
+      "extent": "8.869400024414062,51.53705978393555,8.869400024414062,51.53705978393555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.537060",
+        "long": "8.869400"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.869400,51.537060",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Blankenrode S)"
+    },
+    {
+      "extent": "8.491220474243164,51.59503173828125,8.491220474243164,51.59503173828125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.595032",
+        "long": "8.491220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 78 ",
+        "LKW Stellplätze: 111 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.491220,51.595032",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hellweg Nord)"
+    },
+    {
+      "extent": "8.205169677734375,51.56943130493164,8.205169677734375,51.56943130493164",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.569431",
+        "long": "8.205170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.205170,51.569431",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Flugplatz)"
+    },
+    {
+      "extent": "9.27910041809082,51.35414123535156,9.27910041809082,51.35414123535156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.354141",
+        "long": "9.279100"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 31 ",
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.279100,51.354141",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bärenberg S)"
+    },
+    {
+      "extent": "8.802510261535645,51.55358123779297,8.802510261535645,51.55358123779297",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.553581",
+        "long": "8.802510"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 18 ",
+        "LKW Stellplätze: 19 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.802510,51.553581",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sintfeld (Nord))"
+    },
+    {
+      "extent": "6.174339771270752,50.785709381103516,6.174339771270752,50.785709381103516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.785709",
+        "long": "6.174340"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 8 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "6.174340,50.785709",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Tunnel)"
+    },
+    {
+      "extent": "7.735119819641113,51.52859115600586,7.735119819641113,51.52859115600586",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIzNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.528591",
+        "long": "7.735120"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 9 ",
+        "LKW Stellplätze: 25 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "7.735120,51.528591",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Mühlhauser Tal (Süd))"
+    },
+    {
+      "extent": "6.338170051574707,50.92890930175781,6.338170051574707,50.92890930175781",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.928909",
+        "long": "6.338170"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 53 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "6.338170,50.928909",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ruraue Ost)"
+    },
+    {
+      "extent": "6.173759937286377,50.76893997192383,6.173759937286377,50.76893997192383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDE5OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.768940",
+        "long": "6.173760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "6.173760,50.768940",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Königsberg)"
+    },
+    {
+      "extent": "8.650239944458008,51.58872985839844,8.650239944458008,51.58872985839844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.588730",
+        "long": "8.650240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 14 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.650240,51.588730",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wewelsburg)"
+    },
+    {
+      "extent": "9.123029708862305,51.459808349609375,9.123029708862305,51.459808349609375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.459808",
+        "long": "9.123030"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.123030,51.459808",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hoppenberg)"
+    },
+    {
+      "extent": "8.20221996307373,51.56801986694336,8.20221996307373,51.56801986694336",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.568020",
+        "long": "8.202220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.202220,51.568020",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lohner Klei)"
+    },
+    {
+      "extent": "8.276009559631348,51.581878662109375,8.276009559631348,51.581878662109375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.581879",
+        "long": "8.276010"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.276010,51.581879",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Klievermühle)"
+    },
+    {
+      "extent": "7.738759994506836,51.52888107299805,7.738759994506836,51.52888107299805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.528881",
+        "long": "7.738760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 8 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "7.738760,51.528881",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Lüner Grund (Nord))"
+    },
+    {
+      "extent": "8.796990394592285,51.55464172363281,8.796990394592285,51.55464172363281",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.554642",
+        "long": "8.796990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.796990,51.554642",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sintfeld (Süd))"
+    },
+    {
+      "extent": "9.161979675292969,51.41436004638672,9.161979675292969,51.41436004638672",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.414360",
+        "long": "9.161980"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.161980,51.414360",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Schoren N)"
+    },
+    {
+      "extent": "9.283220291137695,51.34077072143555,9.283220291137695,51.34077072143555",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.340771",
+        "long": "9.283220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.283220,51.340771",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Rohrberg N)"
+    },
+    {
+      "extent": "9.296319961547852,51.31092071533203,9.296319961547852,51.31092071533203",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.310921",
+        "long": "9.296320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.296320,51.310921",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Roterain N)"
+    },
+    {
+      "extent": "8.533129692077637,51.597198486328125,8.533129692077637,51.597198486328125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.597198",
+        "long": "8.533130"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.533130,51.597198",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinhausen)"
+    },
+    {
+      "extent": "8.281160354614258,51.582420349121094,8.281160354614258,51.582420349121094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.582420",
+        "long": "8.281160"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.281160,51.582420",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Völlinghauserflur)"
+    },
+    {
+      "extent": "6.171209812164307,50.7663688659668,6.171209812164307,50.7663688659668",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "50.766369",
+        "long": "6.171210"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 13 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "6.171210,50.766369",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Königsberg)"
+    },
+    {
+      "extent": "9.418490409851074,51.270999908447266,9.418490409851074,51.270999908447266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.271000",
+        "long": "9.418490"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.418490,51.271000",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brasselberg N)"
+    },
+    {
+      "extent": "9.145319938659668,51.44179153442383,9.145319938659668,51.44179153442383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.441792",
+        "long": "9.145320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.145320,51.441792",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Unter den Buchen N)"
+    },
+    {
+      "extent": "8.016799926757812,51.54072189331055,8.016799926757812,51.54072189331055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.540722",
+        "long": "8.016800"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 35 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.016800,51.540722",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Röllingsergraben (Süd))"
+    },
+    {
+      "extent": "8.021419525146484,51.54182052612305,8.021419525146484,51.54182052612305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.541821",
+        "long": "8.021420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.021420,51.541821",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Ostönnergrund (Nord))"
+    },
+    {
+      "extent": "6.42963981628418,51.018070220947266,6.42963981628418,51.018070220947266",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.018070",
+        "long": "6.429640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "6.429640,51.018070",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(In der Böck)"
+    },
+    {
+      "extent": "9.29304027557373,51.31264114379883,9.29304027557373,51.31264114379883",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.312641",
+        "long": "9.293040"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 23 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.293040,51.312641",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hundsberg S)"
+    },
+    {
+      "extent": "9.369990348815918,51.284149169921875,9.369990348815918,51.284149169921875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.284149",
+        "long": "9.369990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.369990,51.284149",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hirzstein N)"
+    },
+    {
+      "extent": "9.367759704589844,51.28522872924805,9.367759704589844,51.28522872924805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.285229",
+        "long": "9.367760"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.367760,51.285229",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Firnsbachtal S)"
+    },
+    {
+      "extent": "9.03396987915039,51.483638763427734,9.03396987915039,51.483638763427734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.483639",
+        "long": "9.033970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 42 ",
+        "LKW Stellplätze: 3 "
+      ],
+      "title": "A 44 | Richtung Bochum",
+      "point": "9.033970,51.483639",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Quast N)"
+    },
+    {
+      "extent": "9.159549713134766,51.41753005981445,9.159549713134766,51.41753005981445",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUhFLTQ0MDAxNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.417530",
+        "long": "9.159550"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "9.159550,51.417530",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am roten Ufer S)"
+    },
+    {
+      "extent": "7.790649890899658,51.52473831176758,7.790649890899658,51.52473831176758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.524738",
+        "long": "7.790650"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 9 ",
+        "LKW Stellplätze: 19 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "7.790650,51.524738",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Buchenhain (Süd))"
+    },
+    {
+      "extent": "8.87423038482666,51.53715133666992,8.87423038482666,51.53715133666992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIwNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.537151",
+        "long": "8.874230"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 44 | Richtung Aachen",
+      "point": "8.874230,51.537151",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Blankenrode)"
+    },
+    {
+      "extent": "8.349260330200195,51.58489990234375,8.349260330200195,51.58489990234375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLU5XLTAwMDIyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "51.584900",
+        "long": "8.349260"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 8 "
+      ],
+      "title": "A 44 | Richtung Eisenach",
+      "point": "8.349260,51.584900",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Berge)"
+    }
+  ]
+}

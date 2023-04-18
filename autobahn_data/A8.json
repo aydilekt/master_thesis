@@ -1,0 +1,2912 @@
+{
+  "parking_lorry": [
+    {
+      "extent": "12.180159568786621,47.80247116088867,12.180159568786621,47.80247116088867",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMwOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.802471",
+        "long": "12.180160"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 91 ",
+        "LKW Stellplätze: 54 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "12.180160,47.802471",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft/Kiosk",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Raststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Samerberg N)"
+    },
+    {
+      "extent": "8.886260032653809,48.824058532714844,8.886260032653809,48.824058532714844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.824059",
+        "long": "8.886260"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 49 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "8.886260,48.824059",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Heckengäu)"
+    },
+    {
+      "extent": "6.375400066375732,49.4853515625,6.375400066375732,49.4853515625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.485352",
+        "long": "6.375400"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 19 "
+      ],
+      "title": "A 8 | Richtung Luxemburg",
+      "point": "6.375400,49.485352",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA Moseltal N)"
+    },
+    {
+      "extent": "11.866272926330566,47.846588134765625,11.866272926330566,47.846588134765625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.846588",
+        "long": "11.866273"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 17 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.866273,47.846588",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Wilparting S)"
+    },
+    {
+      "extent": "11.674909591674805,47.9993896484375,11.674909591674805,47.9993896484375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.999390",
+        "long": "11.674910"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 62 ",
+        "LKW Stellplätze: 21 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.674910,47.999390",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hofoldinger Forst W)"
+    },
+    {
+      "extent": "10.915730476379395,48.410850524902344,10.915730476379395,48.410850524902344",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.410851",
+        "long": "10.915730"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 135 ",
+        "LKW Stellplätze: 56 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "10.915730,48.410851",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Augsburg O)"
+    },
+    {
+      "extent": "11.732919692993164,47.89078903198242,11.732919692993164,47.89078903198242",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.890789",
+        "long": "11.732920"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 75 ",
+        "LKW Stellplätze: 40 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.732920,47.890789",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Holzkirchen N)"
+    },
+    {
+      "extent": "9.809410095214844,48.51969909667969,9.809410095214844,48.51969909667969",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.519699",
+        "long": "9.809410"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 97 ",
+        "LKW Stellplätze: 75 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.809410,48.519699",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aichen N)"
+    },
+    {
+      "extent": "9.666430473327637,48.53310012817383,9.666430473327637,48.53310012817383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.533100",
+        "long": "9.666430"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.666430,48.533100",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hohenstadt)"
+    },
+    {
+      "extent": "9.535909652709961,48.631378173828125,9.535909652709961,48.631378173828125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.631378",
+        "long": "9.535910"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 27 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "9.535910,48.631378",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Vor dem Aichelberg)"
+    },
+    {
+      "extent": "9.715330123901367,48.52796936035156,9.715330123901367,48.52796936035156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODUxMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.527969",
+        "long": "9.715330"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 18 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "9.715330,48.527969",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Albhöhe)"
+    },
+    {
+      "extent": "9.047479629516602,48.732688903808594,9.047479629516602,48.732688903808594",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODA0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.732689",
+        "long": "9.047480"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 16 ",
+        "LKW Stellplätze: 16 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.047480,48.732689",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sommerhofen)"
+    },
+    {
+      "extent": "9.034560203552246,48.74449157714844,9.034560203552246,48.74449157714844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.744492",
+        "long": "9.034560"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 126 ",
+        "LKW Stellplätze: 51 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "9.034560,48.744492",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Sindelfinger Wald)"
+    },
+    {
+      "extent": "10.611650466918945,48.40945053100586,10.611650466918945,48.40945053100586",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.409451",
+        "long": "10.611650"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 48 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "10.611650,48.409451",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Streitheimer Forst N)"
+    },
+    {
+      "extent": "10.805419921875,48.41957092285156,10.805419921875,48.41957092285156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMzMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.419571",
+        "long": "10.805420"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 67 ",
+        "LKW Stellplätze: 43 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "10.805420,48.419571",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Edenbergen S)"
+    },
+    {
+      "extent": "9.310090065002441,48.6910400390625,9.310090065002441,48.6910400390625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODA0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.691040",
+        "long": "9.310090"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 103 ",
+        "LKW Stellplätze: 89 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.310090,48.691040",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Denkendorf)"
+    },
+    {
+      "extent": "11.70009994506836,47.94240188598633,11.70009994506836,47.94240188598633",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.942402",
+        "long": "11.700100"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 37 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.700100,47.942402",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Otterfing W)"
+    },
+    {
+      "extent": "7.499639987945557,49.21455001831055,7.499639987945557,49.21455001831055",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE2NA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.214550",
+        "long": "7.499640"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 12 "
+      ],
+      "title": "A 8 | Richtung Luxemburg",
+      "point": "7.499640,49.214550",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kornberg Nord (Walshausen))"
+    },
+    {
+      "extent": "7.494959831237793,49.21583938598633,7.494959831237793,49.21583938598633",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVJQLTAwMDE2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.215839",
+        "long": "7.494960"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 8 | Richtung Pirmasens",
+      "point": "7.494960,49.215839",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kornberg Süd (Walshausen))"
+    },
+    {
+      "extent": "12.424320220947266,47.83382034301758,12.424320220947266,47.83382034301758",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMwMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.833820",
+        "long": "12.424320"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 34 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "12.424320,47.833820",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Chiemsee S)"
+    },
+    {
+      "extent": "10.430139541625977,48.41273880004883,10.430139541625977,48.41273880004883",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMzNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.412739",
+        "long": "10.430140"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 115 ",
+        "LKW Stellplätze: 67 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "10.430140,48.412739",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Burgauer See N)"
+    },
+    {
+      "extent": "11.906339645385742,47.83037185668945,11.906339645385742,47.83037185668945",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.830372",
+        "long": "11.906340"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 105 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.906340,47.830372",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Irschenberg S)"
+    },
+    {
+      "extent": "12.173680305480957,47.80242156982422,12.173680305480957,47.80242156982422",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMwOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.802422",
+        "long": "12.173680"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 99 ",
+        "LKW Stellplätze: 54 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "12.173680,47.802422",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Samerberg S)"
+    },
+    {
+      "extent": "11.695150375366211,47.952049255371094,11.695150375366211,47.952049255371094",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.952049",
+        "long": "11.695150"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.695150,47.952049",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Aying O)"
+    },
+    {
+      "extent": "12.900279998779297,47.76755142211914,12.900279998779297,47.76755142211914",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5Nw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.767551",
+        "long": "12.900280"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "12.900280,47.767551",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Bad Reichenhall S)"
+    },
+    {
+      "extent": "11.856758117675781,47.85749435424805,11.856758117675781,47.85749435424805",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.857494",
+        "long": "11.856758"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 21 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.856758,47.857494",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Seehamer See - Ost O)"
+    },
+    {
+      "extent": "7.285940170288086,49.30025100708008,7.285940170288086,49.30025100708008",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.300251",
+        "long": "7.285940"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 8 | Richtung Pirmasens",
+      "point": "7.285940,49.300251",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(Taubental W)"
+    },
+    {
+      "extent": "8.618300437927246,48.91352844238281,8.618300437927246,48.91352844238281",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU4MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.913528",
+        "long": "8.618300"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "8.618300,48.913528",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A8 km 251,1 Ri. Salzburg)"
+    },
+    {
+      "extent": "10.9870023727417,48.4007453918457,10.9870023727417,48.4007453918457",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.400745",
+        "long": "10.987002"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 35 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "10.987002,48.400745",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kirchholz (S))"
+    },
+    {
+      "extent": "11.300498962402344,48.25917053222656,11.300498962402344,48.25917053222656",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyNA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.259171",
+        "long": "11.300499"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.300499,48.259171",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fuchsberg O)"
+    },
+    {
+      "extent": "7.225749969482422,49.3271598815918,7.225749969482422,49.3271598815918",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.327160",
+        "long": "7.225750"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 8 | Richtung Pirmasens",
+      "point": "7.225750,49.327160",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Keine Toilette vorhanden",
+          "style": "not-available"
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA Kohlhof)"
+    },
+    {
+      "extent": "11.3010892868042,48.25678253173828,11.3010892868042,48.25678253173828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.256783",
+        "long": "11.301089"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 15 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.301089,48.256783",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Fuchsberg W)"
+    },
+    {
+      "extent": "8.890970230102539,48.823219299316406,8.890970230102539,48.823219299316406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODA1MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.823219",
+        "long": "8.890970"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "8.890970,48.823219",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Höllberg)"
+    },
+    {
+      "extent": "6.992219924926758,49.351261138916016,6.992219924926758,49.351261138916016",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAyNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.351261",
+        "long": "6.992220"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 8 | Richtung Luxemburg",
+      "point": "6.992220,49.351261",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kutzhof N)"
+    },
+    {
+      "extent": "8.77905559539795,48.90559005737305,8.77905559539795,48.90559005737305",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODA1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.905590",
+        "long": "8.779056"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 94 ",
+        "LKW Stellplätze: 21 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "8.779056,48.905590",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pforzheim N)"
+    },
+    {
+      "extent": "6.669179916381836,49.38936996459961,6.669179916381836,49.38936996459961",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAyOQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.389370",
+        "long": "6.669180"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 4 "
+      ],
+      "title": "A 8 | Richtung Pirmasens",
+      "point": "6.669180,49.389370",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Niedmündung W)"
+    },
+    {
+      "extent": "9.62887954711914,48.608699798583984,9.62887954711914,48.608699798583984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU0NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.608700",
+        "long": "9.628880"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 135 ",
+        "LKW Stellplätze: 112 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "9.628880,48.608700",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-fax",
+          "description": "Faxgerät",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-phone-square",
+          "description": "Telefon",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Gruibingen)"
+    },
+    {
+      "extent": "9.539910316467285,48.632198333740234,9.539910316467285,48.632198333740234",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAzNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.632198",
+        "long": "9.539910"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 32 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.539910,48.632198",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Urweltfunde)"
+    },
+    {
+      "extent": "8.483240127563477,48.954769134521484,8.483240127563477,48.954769134521484",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODA2NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.954769",
+        "long": "8.483240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 50 ",
+        "LKW Stellplätze: 33 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "8.483240,48.954769",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Birkenwäldle)"
+    },
+    {
+      "extent": "11.997947692871094,47.82197952270508,11.997947692871094,47.82197952270508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.821980",
+        "long": "11.997948"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 44 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.997948,47.821980",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Moos N)"
+    },
+    {
+      "extent": "12.5877103805542,47.828189849853516,12.5877103805542,47.828189849853516",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5OQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.828190",
+        "long": "12.587710"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "12.587710,47.828190",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hochfelln-Süd S)"
+    },
+    {
+      "extent": "10.651530265808105,48.41209030151367,10.651530265808105,48.41209030151367",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMzMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.412090",
+        "long": "10.651530"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "10.651530,48.412090",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Horgau (S))"
+    },
+    {
+      "extent": "11.71741008758545,47.908199310302734,11.71741008758545,47.908199310302734",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.908199",
+        "long": "11.717410"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 81 ",
+        "LKW Stellplätze: 61 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.717410,47.908199",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Holzkirchen S)"
+    },
+    {
+      "extent": "9.65410041809082,48.55244827270508,9.65410041809082,48.55244827270508",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAyNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.552448",
+        "long": "9.654100"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 2 ",
+        "LKW Stellplätze: 10 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.654100,48.552448",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Drackensteiner Hang Albabstieg)"
+    },
+    {
+      "extent": "8.5035400390625,48.942710876464844,8.5035400390625,48.942710876464844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU4NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.942711",
+        "long": "8.503540"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 19 ",
+        "LKW Stellplätze: 34 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "8.503540,48.942711",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Steinig)"
+    },
+    {
+      "extent": "11.446149826049805,48.172000885009766,11.446149826049805,48.172000885009766",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyMw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.172001",
+        "long": "11.446150"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 12 ",
+        "LKW Stellplätze: 29 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.446150,48.172001",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Restaurant/Kleinraststätte",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Pippinger Flur)"
+    },
+    {
+      "extent": "8.772339820861816,48.90779113769531,8.772339820861816,48.90779113769531",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU3MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.907791",
+        "long": "8.772340"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 11 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "8.772340,48.907791",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA A8 km 238,4 Ri. Salzburg)"
+    },
+    {
+      "extent": "12.593890190124512,47.82823944091797,12.593890190124512,47.82823944091797",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDI5OA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.828239",
+        "long": "12.593890"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 120 ",
+        "LKW Stellplätze: 50 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "12.593890,47.828239",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-charging_station",
+          "description": "Elektr. Ladestation",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Hochfelln-Nord N)"
+    },
+    {
+      "extent": "11.866272926330566,47.846588134765625,11.866272926330566,47.846588134765625",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.846588",
+        "long": "11.866273"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 39 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.866273,47.846588",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Seehamer See - West W)"
+    },
+    {
+      "extent": "6.372990131378174,49.48242950439453,6.372990131378174,49.48242950439453",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAzMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.482430",
+        "long": "6.372990"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 15 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 8 | Richtung Pirmasens",
+      "point": "6.372990,49.482430",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(RA Moseltal S)"
+    },
+    {
+      "extent": "9.394149780273438,48.653621673583984,9.394149780273438,48.653621673583984",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU1NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.653622",
+        "long": "9.394150"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 17 ",
+        "LKW Stellplätze: 48 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "9.394150,48.653622",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Im Rübholz)"
+    },
+    {
+      "extent": "8.693699836730957,48.90985107421875,8.693699836730957,48.90985107421875",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODA2MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.909851",
+        "long": "8.693700"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 22 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "8.693700,48.909851",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kämpfelbach)"
+    },
+    {
+      "extent": "8.686380386352539,48.908668518066406,8.686380386352539,48.908668518066406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODU3NQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.908669",
+        "long": "8.686380"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 6 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "8.686380,48.908669",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Kämpfelbach)"
+    },
+    {
+      "extent": "9.633660316467285,48.60683059692383,9.633660316467285,48.60683059692383",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAzMA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.606831",
+        "long": "9.633660"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 20 ",
+        "LKW Stellplätze: 5 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.633660,48.606831",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Am Kornberg)"
+    },
+    {
+      "extent": "11.677349090576172,47.99732971191406,11.677349090576172,47.99732971191406",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.997330",
+        "long": "11.677349"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 35 ",
+        "LKW Stellplätze: 11 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.677349,47.997330",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Brunnthal O)"
+    },
+    {
+      "extent": "12.409930229187012,47.83354949951172,12.409930229187012,47.83354949951172",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMwMQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.833549",
+        "long": "12.409930"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 100 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "12.409930,47.833549",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Kleinraststätte",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Chiemsee N)"
+    },
+    {
+      "extent": "6.99084997177124,49.351318359375,6.99084997177124,49.351318359375",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.351318",
+        "long": "6.990850"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 28 ",
+        "LKW Stellplätze: 42 "
+      ],
+      "title": "A 8 | Richtung Pirmasens",
+      "point": "6.990850,49.351318",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kutzhof S)"
+    },
+    {
+      "extent": "11.151593208312988,48.343101501464844,11.151593208312988,48.343101501464844",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyNg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.343102",
+        "long": "11.151593"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 36 ",
+        "LKW Stellplätze: 41 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "11.151593,48.343102",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Adelzhauser Berg Nord)"
+    },
+    {
+      "extent": "6.673520088195801,49.38724899291992,6.673520088195801,49.38724899291992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLVNMLTAwMDAyOA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "49.387249",
+        "long": "6.673520"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 2 ",
+        "LKW Stellplätze: 7 "
+      ],
+      "title": "A 8 | Richtung Luxemburg",
+      "point": "6.673520,49.387249",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Niedmündung O)"
+    },
+    {
+      "extent": "9.722240447998047,48.5269889831543,9.722240447998047,48.5269889831543",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAxNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.526989",
+        "long": "9.722240"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 21 ",
+        "LKW Stellplätze: 23 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.722240,48.526989",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Widderstall)"
+    },
+    {
+      "extent": "11.979558944702148,47.8214111328125,11.979558944702148,47.8214111328125",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMxMg==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "47.821411",
+        "long": "11.979559"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 38 ",
+        "LKW Stellplätze: 9 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.979559,47.821411",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Eulenauer Filz S)"
+    },
+    {
+      "extent": "11.150156021118164,48.34223175048828,11.150156021118164,48.34223175048828",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDMyNw==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.342232",
+        "long": "11.150156"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 45 ",
+        "LKW Stellplätze: 48 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "11.150156,48.342232",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Adelzhauser Berg Süd)"
+    },
+    {
+      "extent": "10.211999893188477,48.440589904785156,10.211999893188477,48.440589904785156",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJZLTAwMDM0MA==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.440590",
+        "long": "10.212000"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 145 ",
+        "LKW Stellplätze: 88 "
+      ],
+      "title": "A 8 | Richtung Salzburg",
+      "point": "10.212000,48.440590",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "fa fa-trash",
+          "description": "Mülleimer",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-utensils",
+          "description": "Raststätte/Restaurant",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-hotel",
+          "description": "Motel/Hotel",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-gaspump",
+          "description": "Tankstelle",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shopping-basket",
+          "description": "Kiosk/Geschäft",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-heartbeat",
+          "description": "Defibrillator",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-wifi",
+          "description": "WLAN",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-playground",
+          "description": "Spielplatz",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-shower",
+          "description": "Dusche vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-toll_terminal",
+          "description": "Mautterminal",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-vending_machine",
+          "description": "Warenautomat",
+          "style": ""
+        },
+        {
+          "icon": "fa fa-eur",
+          "description": "Geldautomat",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Leipheim S)"
+    },
+    {
+      "extent": "9.84646987915039,48.49467086791992,9.84646987915039,48.49467086791992",
+      "identifier": "UEFSS0lOR19fbWRtLmxvcnJ5LnBhcmtpbmdfX0RFLUJXLTAwODAwNQ==",
+      "routeRecommendation": [],
+      "coordinate": {
+        "lat": "48.494671",
+        "long": "9.846470"
+      },
+      "footer": [],
+      "icon": "314-50",
+      "isBlocked": "false",
+      "description": [
+        "PKW Stellplätze: 30 ",
+        "LKW Stellplätze: 20 "
+      ],
+      "title": "A 8 | Richtung Dreieck Karlsruhe",
+      "point": "9.846470,48.494671",
+      "display_type": "PARKING",
+      "lorryParkingFeatureIcons": [
+        {
+          "icon": "almofont almo-picnic_facility",
+          "description": "Picknickmöglichkeiten",
+          "style": ""
+        },
+        {
+          "icon": "almofont almo-restroom",
+          "description": "Toilette vorhanden",
+          "style": ""
+        }
+      ],
+      "future": false,
+      "subtitle": "(Kemmental)"
+    }
+  ]
+}
